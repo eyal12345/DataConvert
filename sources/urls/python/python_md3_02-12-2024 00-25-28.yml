@@ -1,0 +1,5385 @@
+url_0:
+  father: child input
+  child: https://www.python.org
+  depth: 0
+  access: true
+url_1:
+  father: https://www.python.org
+  child: https://www.python.org/jobs/feed/rss
+  depth: 1
+  access: true
+url_2:
+  father: https://www.python.org
+  child: https://feeds.feedburner.com/PythonSoftwareFoundationNews
+  depth: 1
+  access: true
+url_3:
+  father: https://www.python.org
+  child: https://feeds.feedburner.com/PythonInsider
+  depth: 1
+  access: true
+url_4:
+  father: https://www.python.org
+  child: http://browsehappy.com
+  depth: 1
+  access: true
+url_5:
+  father: https://www.python.org
+  child: https://www.python.org/psf
+  depth: 1
+  access: true
+url_6:
+  father: https://www.python.org
+  child: https://www.python.org/jobs
+  depth: 1
+  access: true
+url_7:
+  father: https://www.python.org
+  child: https://www.python.org/community-landing
+  depth: 1
+  access: true
+url_8:
+  father: https://www.python.org
+  child: https://www.linkedin.com/company/python-software-foundation
+  depth: 1
+  access: true
+url_9:
+  father: https://www.python.org
+  child: https://www.python.org/community/irc
+  depth: 1
+  access: true
+url_10:
+  father: https://www.python.org
+  child: https://twitter.com/ThePSF
+  depth: 1
+  access: false
+url_11:
+  father: https://www.python.org
+  child: https://www.python.org/about
+  depth: 1
+  access: true
+url_12:
+  father: https://www.python.org
+  child: https://www.python.org/about/apps
+  depth: 1
+  access: true
+url_13:
+  father: https://www.python.org
+  child: https://www.python.org/about/quotes
+  depth: 1
+  access: true
+url_14:
+  father: https://www.python.org
+  child: https://www.python.org/about/gettingstarted
+  depth: 1
+  access: true
+url_15:
+  father: https://www.python.org
+  child: https://www.python.org/about/help
+  depth: 1
+  access: true
+url_16:
+  father: https://www.python.org
+  child: https://www.python.org/downloads
+  depth: 1
+  access: true
+url_17:
+  father: https://www.python.org
+  child: https://www.python.org/downloads/source
+  depth: 1
+  access: true
+url_18:
+  father: https://www.python.org
+  child: https://www.python.org/downloads/windows
+  depth: 1
+  access: true
+url_19:
+  father: https://www.python.org
+  child: https://www.python.org/downloads/macos
+  depth: 1
+  access: true
+url_20:
+  father: https://www.python.org
+  child: https://www.python.org/download/other
+  depth: 1
+  access: true
+url_21:
+  father: https://www.python.org
+  child: https://www.python.org/download/alternatives
+  depth: 1
+  access: true
+url_22:
+  father: https://www.python.org
+  child: https://www.python.org/doc
+  depth: 1
+  access: true
+url_23:
+  father: https://www.python.org
+  child: https://www.python.org/doc/essays
+  depth: 1
+  access: true
+url_24:
+  father: https://www.python.org
+  child: https://www.python.org/community
+  depth: 1
+  access: true
+url_25:
+  father: https://www.python.org
+  child: https://www.python.org/community/diversity
+  depth: 1
+  access: true
+url_26:
+  father: https://www.python.org
+  child: https://www.python.org/community/lists
+  depth: 1
+  access: true
+url_27:
+  father: https://www.python.org
+  child: https://www.python.org/community/forums
+  depth: 1
+  access: true
+url_28:
+  father: https://www.python.org
+  child: https://www.python.org/psf/annual-report/2021
+  depth: 1
+  access: true
+url_29:
+  father: https://www.python.org
+  child: https://www.python.org/community/workshops
+  depth: 1
+  access: true
+url_30:
+  father: https://www.python.org
+  child: https://www.python.org/community/sigs
+  depth: 1
+  access: true
+url_31:
+  father: https://www.python.org
+  child: https://www.python.org/community/logos
+  depth: 1
+  access: true
+url_32:
+  father: https://www.python.org
+  child: https://www.python.org/psf/conduct
+  depth: 1
+  access: true
+url_33:
+  father: https://www.python.org
+  child: https://www.python.org/community/awards
+  depth: 1
+  access: true
+url_34:
+  father: https://www.python.org
+  child: https://www.python.org/psf/get-involved
+  depth: 1
+  access: true
+url_35:
+  father: https://www.python.org
+  child: https://www.python.org/psf/community-stories
+  depth: 1
+  access: true
+url_36:
+  father: https://www.python.org
+  child: https://www.python.org/success-stories
+  depth: 1
+  access: true
+url_37:
+  father: https://www.python.org
+  child: https://www.python.org/success-stories/category/arts
+  depth: 1
+  access: true
+url_38:
+  father: https://www.python.org
+  child: https://www.python.org/success-stories/category/business
+  depth: 1
+  access: true
+url_39:
+  father: https://www.python.org
+  child: https://www.python.org/success-stories/category/education
+  depth: 1
+  access: true
+url_40:
+  father: https://www.python.org
+  child: https://www.python.org/success-stories/category/engineering
+  depth: 1
+  access: true
+url_41:
+  father: https://www.python.org
+  child: https://www.python.org/success-stories/category/government
+  depth: 1
+  access: true
+url_42:
+  father: https://www.python.org
+  child: https://www.python.org/success-stories/category/scientific
+  depth: 1
+  access: true
+url_43:
+  father: https://www.python.org
+  child: https://www.python.org/success-stories/category/software-development
+  depth: 1
+  access: true
+url_44:
+  father: https://www.python.org
+  child: https://www.python.org/blogs
+  depth: 1
+  access: true
+url_45:
+  father: https://www.python.org
+  child: https://www.python.org/psf/newsletter
+  depth: 1
+  access: true
+url_46:
+  father: https://www.python.org
+  child: http://pyfound.blogspot.com
+  depth: 1
+  access: true
+url_47:
+  father: https://www.python.org
+  child: http://pycon.blogspot.com
+  depth: 1
+  access: true
+url_48:
+  father: https://www.python.org
+  child: https://www.python.org/events
+  depth: 1
+  access: true
+url_49:
+  father: https://www.python.org
+  child: https://www.python.org/events/python-events
+  depth: 1
+  access: true
+url_50:
+  father: https://www.python.org
+  child: https://www.python.org/events/python-user-group
+  depth: 1
+  access: true
+url_51:
+  father: https://www.python.org
+  child: https://www.python.org/events/python-events/past
+  depth: 1
+  access: true
+url_52:
+  father: https://www.python.org
+  child: https://www.python.org/events/python-user-group/past
+  depth: 1
+  access: true
+url_53:
+  father: https://www.python.org
+  child: https://www.python.org/shell
+  depth: 1
+  access: true
+url_54:
+  father: https://www.python.org
+  child: https://www.python.org/downloads/release/python-3122
+  depth: 1
+  access: true
+url_55:
+  father: https://www.python.org
+  child: https://pyfound.blogspot.com/2024/02/software-bill-of-materials-now-available-for-cpython.html
+  depth: 1
+  access: true
+url_56:
+  father: https://www.python.org
+  child: https://pyfound.blogspot.com/2024/02/introducing-psf-grants-office-hours.html
+  depth: 1
+  access: true
+url_57:
+  father: https://www.python.org
+  child: https://pythoninsider.blogspot.com/2024/02/python-3122-and-3118-are-now-available.html
+  depth: 1
+  access: true
+url_58:
+  father: https://www.python.org
+  child: https://pyfound.blogspot.com/2024/01/kicking-off-2024-strong.html
+  depth: 1
+  access: true
+url_59:
+  father: https://www.python.org
+  child: https://pyfound.blogspot.com/2024/01/announcing-python-software-foundation.html
+  depth: 1
+  access: true
+url_60:
+  father: https://www.python.org
+  child: https://www.python.org/events/calendars
+  depth: 1
+  access: true
+url_61:
+  father: https://www.python.org
+  child: https://www.python.org/events/python-user-group/1702
+  depth: 1
+  access: true
+url_62:
+  father: https://www.python.org
+  child: https://www.python.org/events/python-user-group/1658
+  depth: 1
+  access: true
+url_63:
+  father: https://www.python.org
+  child: https://www.python.org/events/python-events/1653
+  depth: 1
+  access: true
+url_64:
+  father: https://www.python.org
+  child: https://www.python.org/events/python-events/1661
+  depth: 1
+  access: true
+url_65:
+  father: https://www.python.org
+  child: https://www.python.org/events/python-user-group/1703
+  depth: 1
+  access: true
+url_66:
+  father: https://www.python.org
+  child: https://www.python.org/success-stories/deliver-clean-and-safe-code-for-your-python-applications
+  depth: 1
+  access: true
+url_67:
+  father: https://www.python.org
+  child: http://www.djangoproject.com
+  depth: 1
+  access: true
+url_68:
+  father: https://www.python.org
+  child: http://www.web2py.com
+  depth: 1
+  access: true
+url_69:
+  father: https://www.python.org
+  child: http://www.riverbankcomputing.co.uk/software/pyqt/intro
+  depth: 1
+  access: true
+url_70:
+  father: https://www.python.org
+  child: http://roundup.sourceforge.net
+  depth: 1
+  access: true
+url_71:
+  father: https://www.python.org
+  child: http://www.ansible.com
+  depth: 1
+  access: true
+url_72:
+  father: https://www.python.org
+  child: https://xon.sh
+  depth: 1
+  access: true
+url_73:
+  father: https://www.python.org
+  child: https://www.python.org/dev/peps
+  depth: 1
+  access: true
+url_74:
+  father: https://www.python.org
+  child: https://www.python.org/users/membership
+  depth: 1
+  access: true
+url_75:
+  father: https://www.python.org
+  child: https://www.python.org/psf/donations
+  depth: 1
+  access: true
+url_76:
+  father: https://www.python.org
+  child: https://www.python.org/dev
+  depth: 1
+  access: true
+url_77:
+  father: https://www.python.org
+  child: https://www.python.org/dev/core-mentorship
+  depth: 1
+  access: true
+url_78:
+  father: https://www.python.org
+  child: https://www.python.org/dev/security
+  depth: 1
+  access: true
+url_79:
+  father: https://www.python.org
+  child: https://www.python.org/psf-landing
+  depth: 1
+  access: true
+url_80:
+  father: https://www.python.org
+  child: https://www.python.org/about/legal
+  depth: 1
+  access: true
+url_81:
+  father: https://www.python.org
+  child: https://www.python.org/privacy
+  depth: 1
+  access: true
+url_82:
+  father: https://www.python.org
+  child: https://www.python.org/psf/community-infrastructure
+  depth: 1
+  access: false
+url_83:
+  father: http://browsehappy.com
+  child: https://browsehappy.com
+  depth: 2
+  access: true
+url_84:
+  father: https://pyfound.blogspot.com/2024/02/software-bill-of-materials-now-available-for-cpython.html
+  child: https://pyfound.blogspot.com/feeds/posts/default
+  depth: 2
+  access: true
+url_85:
+  father: https://pyfound.blogspot.com/2024/02/software-bill-of-materials-now-available-for-cpython.html
+  child: https://www.blogger.com/feeds/8520/posts/default
+  depth: 2
+  access: true
+url_86:
+  father: https://pyfound.blogspot.com/2024/02/software-bill-of-materials-now-available-for-cpython.html
+  child: https://sethmlarson.dev
+  depth: 2
+  access: true
+url_87:
+  father: https://pyfound.blogspot.com/2024/02/software-bill-of-materials-now-available-for-cpython.html
+  child: https://www.cve.org/Media/News/item/news/2023/08/29/Python-Software-Foundation-Added-as-CNA
+  depth: 2
+  access: true
+url_88:
+  father: https://pyfound.blogspot.com/2024/02/software-bill-of-materials-now-available-for-cpython.html
+  child: https://www.python.org/download/sbom
+  depth: 2
+  access: true
+url_89:
+  father: https://pyfound.blogspot.com/2024/02/software-bill-of-materials-now-available-for-cpython.html
+  child: https://nvd.nist.gov/products/cpe
+  depth: 2
+  access: true
+url_90:
+  father: https://pyfound.blogspot.com/2024/02/software-bill-of-materials-now-available-for-cpython.html
+  child: https://osv.dev
+  depth: 2
+  access: true
+url_91:
+  father: https://pyfound.blogspot.com/2024/02/software-bill-of-materials-now-available-for-cpython.html
+  child: https://openssf.org/community/alpha-omega
+  depth: 2
+  access: true
+url_92:
+  father: https://pyfound.blogspot.com/2024/02/introducing-psf-grants-office-hours.html
+  child: https://pyfound.blogspot.com/2023/10/september-october-board-votes.html
+  depth: 2
+  access: true
+url_93:
+  father: https://pyfound.blogspot.com/2024/02/introducing-psf-grants-office-hours.html
+  child: https://discord.gg/7rthGF3BBe
+  depth: 2
+  access: true
+url_94:
+  father: https://pyfound.blogspot.com/2024/02/introducing-psf-grants-office-hours.html
+  child: https://dateful.com/time-zone-converter
+  depth: 2
+  access: true
+url_95:
+  father: https://pyfound.blogspot.com/2024/02/introducing-psf-grants-office-hours.html
+  child: https://www.python.org/psf/records/staff
+  depth: 2
+  access: true
+url_96:
+  father: https://pyfound.blogspot.com/2024/02/introducing-psf-grants-office-hours.html
+  child: https://support.discord.com/hc/en-us/sections/360008206871-Discord-Basics
+  depth: 2
+  access: true
+url_97:
+  father: https://pythoninsider.blogspot.com/2024/02/python-3122-and-3118-are-now-available.html
+  child: https://discuss.python.org/t/python-3-12-2-and-3-11-8-released/45268
+  depth: 2
+  access: true
+url_98:
+  father: https://pythoninsider.blogspot.com/2024/02/python-3122-and-3118-are-now-available.html
+  child: https://discuss.python.org/t/create-and-distribute-software-bill-of-materials-sbom-for-python-artifacts/39293
+  depth: 2
+  access: true
+url_99:
+  father: https://pythoninsider.blogspot.com/2024/02/python-3122-and-3118-are-now-available.html
+  child: https://www.python.org/downloads/release/python-3118
+  depth: 2
+  access: true
+url_100:
+  father: https://pythoninsider.blogspot.com/2024/02/python-3122-and-3118-are-now-available.html
+  child: http://twitter.com/PythonInsider
+  depth: 2
+  access: true
+url_101:
+  father: https://pythoninsider.blogspot.com/2024/02/python-3122-and-3118-are-now-available.html
+  child: http://creativecommons.org/licenses/by-nc-sa/3.0
+  depth: 2
+  access: true
+url_102:
+  father: https://pyfound.blogspot.com/2024/01/kicking-off-2024-strong.html
+  child: https://www.jetbrains.com/pycharm
+  depth: 2
+  access: true
+url_103:
+  father: https://pyfound.blogspot.com/2024/01/kicking-off-2024-strong.html
+  child: https://www.jetbrains.com
+  depth: 2
+  access: true
+url_104:
+  father: https://pyfound.blogspot.com/2024/01/kicking-off-2024-strong.html
+  child: https://www.python.org/psf/sponsors
+  depth: 2
+  access: true
+url_105:
+  father: https://pyfound.blogspot.com/2024/01/kicking-off-2024-strong.html
+  child: https://www.python.org/psf/fiscal-sponsorees
+  depth: 2
+  access: true
+url_106:
+  father: https://pyfound.blogspot.com/2024/01/kicking-off-2024-strong.html
+  child: https://pyfound.blogspot.com/2022/12/introducing-new-sliding-scale-membership.html
+  depth: 2
+  access: true
+url_107:
+  father: https://pyfound.blogspot.com/2024/01/kicking-off-2024-strong.html
+  child: https://pyfound.blogspot.com/2022/11/where-is-psf.html
+  depth: 2
+  access: true
+url_108:
+  father: https://pyfound.blogspot.com/2024/01/announcing-python-software-foundation.html
+  child: https://www.linkedin.com/in/dustingram
+  depth: 2
+  access: true
+url_109:
+  father: https://pyfound.blogspot.com/2024/01/announcing-python-software-foundation.html
+  child: https://twitter.com/marlene_zw
+  depth: 2
+  access: false
+url_110:
+  father: https://pyfound.blogspot.com/2024/01/announcing-python-software-foundation.html
+  child: http://marlenemhangami.com
+  depth: 2
+  access: false
+url_111:
+  father: https://pyfound.blogspot.com/2024/01/announcing-python-software-foundation.html
+  child: https://www.linkedin.com/in/raquel-dou
+  depth: 2
+  access: true
+url_112:
+  father: https://pyfound.blogspot.com/2024/01/announcing-python-software-foundation.html
+  child: https://www.python.org/psf/fellows-roster
+  depth: 2
+  access: true
+url_113:
+  father: https://pyfound.blogspot.com/2024/01/announcing-python-software-foundation.html
+  child: https://www.python.org/psf/fellows
+  depth: 2
+  access: true
+url_114:
+  father: http://www.djangoproject.com
+  child: https://www.djangoproject.com
+  depth: 2
+  access: true
+url_115:
+  father: http://www.djangoproject.com
+  child: https://www.djangoproject.com/start/overview
+  depth: 2
+  access: true
+url_116:
+  father: http://www.djangoproject.com
+  child: https://www.djangoproject.com/download
+  depth: 2
+  access: true
+url_117:
+  father: http://www.djangoproject.com
+  child: https://www.djangoproject.com/weblog
+  depth: 2
+  access: true
+url_118:
+  father: http://www.djangoproject.com
+  child: https://www.djangoproject.com/community
+  depth: 2
+  access: true
+url_119:
+  father: http://www.djangoproject.com
+  child: https://www.djangoproject.com/foundation
+  depth: 2
+  access: true
+url_120:
+  father: http://www.djangoproject.com
+  child: https://www.djangoproject.com/fundraising
+  depth: 2
+  access: true
+url_121:
+  father: http://www.djangoproject.com
+  child: https://www.djangoproject.com/start
+  depth: 2
+  access: true
+url_122:
+  father: http://www.djangoproject.com
+  child: https://www.djangoproject.com/weblog/2024/feb/10/django-accessibility-in-2023-and-beyond
+  depth: 2
+  access: true
+url_123:
+  father: http://www.djangoproject.com
+  child: https://www.djangoproject.com/weblog/2024/feb/06/security-releases
+  depth: 2
+  access: true
+url_124:
+  father: http://www.djangoproject.com
+  child: https://dashboard.djangoproject.com
+  depth: 2
+  access: true
+url_125:
+  father: http://www.djangoproject.com
+  child: https://discord.gg/xcRH6mN4fa
+  depth: 2
+  access: true
+url_126:
+  father: http://www.djangoproject.com
+  child: https://forum.djangoproject.com
+  depth: 2
+  access: true
+url_127:
+  father: http://www.djangoproject.com
+  child: http://www.djangoproject.com/foundation
+  depth: 2
+  access: true
+url_128:
+  father: http://www.djangoproject.com
+  child: http://www.djangoproject.com/foundation/donate
+  depth: 2
+  access: true
+url_129:
+  father: http://www.djangoproject.com
+  child: http://www.djangoproject.com/contact/foundation
+  depth: 2
+  access: true
+url_130:
+  father: http://www.djangoproject.com
+  child: https://www.djangoproject.com/conduct
+  depth: 2
+  access: true
+url_131:
+  father: http://www.djangoproject.com
+  child: https://www.djangoproject.com/diversity
+  depth: 2
+  access: true
+url_132:
+  father: http://www.djangoproject.com
+  child: https://twitter.com/djangoproject
+  depth: 2
+  access: false
+url_133:
+  father: http://www.djangoproject.com
+  child: https://www.djangoproject.com/rss/weblog
+  depth: 2
+  access: true
+url_134:
+  father: http://www.djangoproject.com
+  child: http://www.djangoproject.com/foundation/corporate-membership
+  depth: 2
+  access: true
+url_135:
+  father: http://www.djangoproject.com
+  child: https://www.threespot.com
+  depth: 2
+  access: true
+url_136:
+  father: http://www.djangoproject.com
+  child: http://andrevv.com
+  depth: 2
+  access: true
+url_137:
+  father: http://www.djangoproject.com
+  child: https://www.djangoproject.com/trademarks
+  depth: 2
+  access: true
+url_138:
+  father: http://www.web2py.com
+  child: http://www.web2py.com/init/default/index
+  depth: 2
+  access: true
+url_139:
+  father: http://www.web2py.com
+  child: http://www.web2py.com/init/default/what
+  depth: 2
+  access: true
+url_140:
+  father: http://www.web2py.com
+  child: http://www.web2py.com/init/default/download
+  depth: 2
+  access: true
+url_141:
+  father: http://www.web2py.com
+  child: http://www.web2py.com/init/default/documentation
+  depth: 2
+  access: true
+url_142:
+  father: http://www.web2py.com
+  child: http://www.web2py.com/init/default/support
+  depth: 2
+  access: true
+url_143:
+  father: http://www.web2py.com
+  child: http://www.web2py.com/init/default/who
+  depth: 2
+  access: true
+url_144:
+  father: http://www.web2py.com
+  child: http://www.web2py.com/book/default/chapter/01
+  depth: 2
+  access: true
+url_145:
+  father: http://www.web2py.com
+  child: http://web2py.com/book
+  depth: 2
+  access: true
+url_146:
+  father: http://www.web2py.com
+  child: https://vimeo.com/album/3016728
+  depth: 2
+  access: true
+url_147:
+  father: http://www.web2py.com
+  child: https://www.packtpub.com/web-development/web2py-application-development-cookbook
+  depth: 2
+  access: true
+url_148:
+  father: http://www.web2py.com
+  child: http://www.gnu.org/licenses/lgpl.html
+  depth: 2
+  access: true
+url_149:
+  father: http://www.web2py.com
+  child: http://www.infoworld.com/slideshow/24605/infoworlds-2012-technology-of-the-year-award-winners-183313
+  depth: 2
+  access: true
+url_150:
+  father: http://www.web2py.com
+  child: http://www.web2py.com/init/default/examples
+  depth: 2
+  access: true
+url_151:
+  father: http://www.web2py.com
+  child: https://www.pythonanywhere.com/try-web2py
+  depth: 2
+  access: true
+url_152:
+  father: http://www.web2py.com
+  child: http://web2py.com/poweredby
+  depth: 2
+  access: true
+url_153:
+  father: http://www.web2py.com
+  child: http://web2py.com/demo_admin
+  depth: 2
+  access: true
+url_154:
+  father: http://www.web2py.com
+  child: http://www.web2py.com/demo_admin
+  depth: 2
+  access: true
+url_155:
+  father: http://www.web2py.com
+  child: http://www.web2py.com/book
+  depth: 2
+  access: true
+url_156:
+  father: http://www.web2py.com
+  child: http://web2py.readthedocs.org/en/latest
+  depth: 2
+  access: true
+url_157:
+  father: http://www.web2py.com
+  child: http://vimeo.com/album/178500
+  depth: 2
+  access: true
+url_158:
+  father: http://www.web2py.com
+  child: http://www.web2py.com/init/default/usergroups
+  depth: 2
+  access: true
+url_159:
+  father: http://www.web2py.com
+  child: http://www.web2py.com/layouts
+  depth: 2
+  access: true
+url_160:
+  father: http://www.web2py.com
+  child: http://www.web2pyslices.com/home
+  depth: 2
+  access: true
+url_161:
+  father: http://www.web2py.com
+  child: http://www.web2py.com/appliances
+  depth: 2
+  access: true
+url_162:
+  father: http://www.web2py.com
+  child: http://web2pyslices.com
+  depth: 2
+  access: true
+url_163:
+  father: http://www.web2py.com
+  child: https://twitter.com/web2py
+  depth: 2
+  access: false
+url_164:
+  father: http://www.web2py.com
+  child: https://www.facebook.com/web2py
+  depth: 2
+  access: true
+url_165:
+  father: https://xon.sh
+  child: https://xon.sh/contents.html
+  depth: 2
+  access: true
+url_166:
+  father: https://xon.sh
+  child: https://xon.sh/tutorial.html
+  depth: 2
+  access: true
+url_167:
+  father: https://xon.sh
+  child: https://xon.sh/packages.html
+  depth: 2
+  access: true
+url_168:
+  father: https://xon.sh
+  child: https://xon.sh/appimage.html
+  depth: 2
+  access: true
+url_169:
+  father: https://xon.sh
+  child: https://hub.docker.com/u/xonsh
+  depth: 2
+  access: true
+url_170:
+  father: https://xon.sh
+  child: https://en.wikipedia.org/wiki/Rolling_release
+  depth: 2
+  access: true
+url_171:
+  father: https://xon.sh
+  child: https://analyticsindiamag.com/top-10-trending-python-projects-on-github-2020
+  depth: 2
+  access: true
+url_172:
+  father: https://xon.sh
+  child: https://www.youtube.com/watch
+  depth: 2
+  access: true
+url_173:
+  father: https://xon.sh
+  child: http://www.oftc.net
+  depth: 2
+  access: true
+url_174:
+  father: https://xon.sh
+  child: https://xon.sh/tutorial_xontrib.html
+  depth: 2
+  access: true
+url_175:
+  father: https://xon.sh
+  child: https://xon.sh/devguide.html
+  depth: 2
+  access: true
+url_176:
+  father: https://browsehappy.com
+  child: https://browsehappy.com/wp-json
+  depth: 3
+  access: true
+url_177:
+  father: https://browsehappy.com
+  child: https://www.google.com/chrome
+  depth: 3
+  access: true
+url_178:
+  father: https://browsehappy.com
+  child: https://www.mozilla.org/firefox
+  depth: 3
+  access: true
+url_179:
+  father: https://browsehappy.com
+  child: https://www.apple.com/safari
+  depth: 3
+  access: true
+url_180:
+  father: https://browsehappy.com
+  child: https://vivaldi.com
+  depth: 3
+  access: true
+url_181:
+  father: https://browsehappy.com
+  child: https://www.microsoft.com/edge
+  depth: 3
+  access: true
+url_182:
+  father: https://browsehappy.com
+  child: https://brave.com
+  depth: 3
+  access: true
+url_183:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://pyfound.blogspot.com/2023/02/the-case-for-second-developer-in.html
+  depth: 3
+  access: true
+url_184:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://pyfound.blogspot.com/2023/04/the-eus-proposed-cra-law-may-have.html
+  depth: 3
+  access: true
+url_185:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://en.wikipedia.org/wiki/Cyber_Resilience_Act
+  depth: 3
+  access: true
+url_186:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://pypodcats.live/about
+  depth: 3
+  access: true
+url_187:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://pypodcats.live
+  depth: 3
+  access: true
+url_188:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://pypodcats.live/episodes/ep-0
+  depth: 3
+  access: true
+url_189:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://pypodcats.live/episodes
+  depth: 3
+  access: true
+url_190:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://www.python.org/psf/membership
+  depth: 3
+  access: true
+url_191:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://pyfound.blogspot.com/2023/11/support-python-q4-2023.html
+  depth: 3
+  access: true
+url_192:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://sethmlarson.dev/blog
+  depth: 3
+  access: true
+url_193:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://alpha-omega.dev
+  depth: 3
+  access: true
+url_194:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://aws.amazon.com/opensource
+  depth: 3
+  access: true
+url_195:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://pyfound.blogspot.com/2023/10/announcing-community-communications-mgr.html
+  depth: 3
+  access: true
+url_196:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://ep2023.europython.eu
+  depth: 3
+  access: true
+url_197:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://2023.pycon.co
+  depth: 3
+  access: true
+url_198:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://about.facebook.com/meta
+  depth: 3
+  access: true
+url_199:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://www.cve.org/PartnerInformation/ListofPartners/partner/PSF
+  depth: 3
+  access: true
+url_200:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://www.pyohio.org/2023
+  depth: 3
+  access: true
+url_201:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://www.linkedin.com/in/mariecnordin
+  depth: 3
+  access: true
+url_202:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://blogger.googleusercontent.com/img/a/AVvXsEhXW-159xbJPSdd842X_pzFSPAgB9gm1vhPipNJAnq4vCdc4LaE2WeoUM2j-Dmf9GAj47QwDwN52UqXXyASgPSWj9Itti5RdBmW2OhENCw-I4iInbl4uq903FluqlVBgmRPHVH7syI39rZtkFdBWH3FmpaXuDqVl3RzeJZDqA7aY0ZqZ-nWI9g
+  depth: 3
+  access: true
+url_203:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://www.rit.edu
+  depth: 3
+  access: true
+url_204:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://www.rit.edu/research/open
+  depth: 3
+  access: true
+url_205:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://www.redhat.com/en/blog/channel/red-hat-open-source-program-office
+  depth: 3
+  access: true
+url_206:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://2023.djangocon.africa
+  depth: 3
+  access: true
+url_207:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://www.python.org/psf/grants
+  depth: 3
+  access: true
+url_208:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://forms.gle/v7rJYsnQJAY5ewvt5
+  depth: 3
+  access: true
+url_209:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://www.python.org/psf/records/board/minutes
+  depth: 3
+  access: true
+url_210:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://sethmlarson.dev/security-developer-in-residence-weekly-report-13
+  depth: 3
+  access: true
+url_211:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://pyfound.blogspot.com/2023/08/psf-authorized-as-cna.html
+  depth: 3
+  access: true
+url_212:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://osv.dev/vulnerability/PSF-2023-8
+  depth: 3
+  access: true
+url_213:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://osv.dev/vulnerability/PSF-2023-9
+  depth: 3
+  access: true
+url_214:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://sched.co/1P6TW
+  depth: 3
+  access: true
+url_215:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://www.sigstore.dev
+  depth: 3
+  access: true
+url_216:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://pip.pypa.io/en/stable/topics/https-certificates
+  depth: 3
+  access: true
+url_217:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://osv.dev/vulnerability/PYSEC-2023-135
+  depth: 3
+  access: true
+url_218:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://sethmlarson.dev/security-developer-in-residence-weekly-report-9
+  depth: 3
+  access: true
+url_219:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://twitter.com/jetbrains
+  depth: 3
+  access: false
+url_220:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://twitter.com/esteban_x64
+  depth: 3
+  access: false
+url_221:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://www.linkedin.com/in/esteban-x64
+  depth: 3
+  access: true
+url_222:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://instagram.com/estebanx64
+  depth: 3
+  access: true
+url_223:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://stackoverflow.com/users/100297/martijn-pieters
+  depth: 3
+  access: true
+url_224:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://www.zopatista.com
+  depth: 3
+  access: true
+url_225:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://pgjones.dev
+  depth: 3
+  access: true
+url_226:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://pyfound.blogspot.com/2023/06/announcing-our-new-security-developer.html
+  depth: 3
+  access: true
+url_227:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://www.python.org/psf/sponsorship
+  depth: 3
+  access: true
+url_228:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://aws.amazon.com/blogs/opensource/securing-pypi-for-the-future
+  depth: 3
+  access: true
+url_229:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://twitter.com/stalwartcoder
+  depth: 3
+  access: false
+url_230:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://www.linkedin.com/in/stalwartcoder
+  depth: 3
+  access: true
+url_231:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://www.linkedin.com/in/bgale1
+  depth: 3
+  access: true
+url_232:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://www.linkedin.com/in/eric-traut-79a815137
+  depth: 3
+  access: true
+url_233:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://www.linkedin.com/in/grishmajena
+  depth: 3
+  access: true
+url_234:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://instagram.com/data_designtist
+  depth: 3
+  access: true
+url_235:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://saptaks.website
+  depth: 3
+  access: true
+url_236:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://pythoncommunitynews.com
+  depth: 3
+  access: true
+url_237:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://pyfound.blogspot.com/2023/01/the-psf-is-hiring-security-developer-in.html
+  depth: 3
+  access: true
+url_238:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMMjW7t6SUT_JHOfnctOA2PQf9X7rZqTSaPr298fwf-XynMa2DWodyEPPO85ECX87IhXt5B_vdtBJIjxJepuCxNhCRZ-PztzjN-GHU7ZnuaWxp1tTzYwY9x2kKe8TfK_U5YB0tgJtm6mxZwRXKO15-hfHJ8bzAJLQgAd9A2mhLgOUsGKEFlT8/s460/SML.jpeg
+  depth: 3
+  access: true
+url_239:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://www.python.org/sponsors/application
+  depth: 3
+  access: true
+url_240:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://www.python.org/nominations/elections/2023-python-software-foundation-board/nominees
+  depth: 3
+  access: true
+url_241:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://pyfound.blogspot.com/2023/06/affirming-your-psf-membership-voting.html
+  depth: 3
+  access: true
+url_242:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://www.python.org/psf/records/board/history
+  depth: 3
+  access: true
+url_243:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://savvytime.com/converter/utc
+  depth: 3
+  access: true
+url_244:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://www.python.org/nominations/elections
+  depth: 3
+  access: true
+url_245:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: http://psf-board.slack.com
+  depth: 3
+  access: true
+url_246:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://discuss.python.org/c/python-software-foundation/9
+  depth: 3
+  access: true
+url_247:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://psfmember.org/user-information
+  depth: 3
+  access: true
+url_248:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://pyfound.blogspot.com/2023/05/psf-board-election-dates-for-2023.html
+  depth: 3
+  access: true
+url_249:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://www.python.org/join-psf-board-slack
+  depth: 3
+  access: true
+url_250:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://pyfound.blogspot.com/2023/05/the-python-language-summit-2023_29.html
+  depth: 3
+  access: true
+url_251:
+  father: https://www.blogger.com/feeds/8520/posts/default
+  child: https://scikit-learn.org/stable
+  depth: 3
+  access: true
+url_252:
+  father: https://sethmlarson.dev
+  child: https://sethmlarson.dev/feed
+  depth: 3
+  access: true
+url_253:
+  father: https://sethmlarson.dev
+  child: https://sethmlarson.dev/links
+  depth: 3
+  access: true
+url_254:
+  father: https://sethmlarson.dev
+  child: https://discord.com/users/481989102951202817
+  depth: 3
+  access: true
+url_255:
+  father: https://sethmlarson.dev
+  child: https://www.linkedin.com/in/sethmlarson
+  depth: 3
+  access: true
+url_256:
+  father: https://sethmlarson.dev
+  child: https://twitter.com/sethmlarson
+  depth: 3
+  access: false
+url_257:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://nvd.nist.gov
+  depth: 3
+  access: true
+url_258:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://www.nist.gov
+  depth: 3
+  access: true
+url_259:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://nvd.nist.gov/general
+  depth: 3
+  access: true
+url_260:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://nvd.nist.gov/general/nvd-dashboard
+  depth: 3
+  access: true
+url_261:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://nvd.nist.gov/general/news
+  depth: 3
+  access: true
+url_262:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://nvd.nist.gov/general/email-list
+  depth: 3
+  access: true
+url_263:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://nvd.nist.gov/general/faq
+  depth: 3
+  access: true
+url_264:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://nvd.nist.gov/general/visualizations
+  depth: 3
+  access: true
+url_265:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://nvd.nist.gov/general/legal-disclaimer
+  depth: 3
+  access: true
+url_266:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://nvd.nist.gov/vuln
+  depth: 3
+  access: true
+url_267:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://nvd.nist.gov/vuln/search
+  depth: 3
+  access: true
+url_268:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://nvd.nist.gov/vuln/categories
+  depth: 3
+  access: true
+url_269:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://nvd.nist.gov/vuln/data-feeds
+  depth: 3
+  access: true
+url_270:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://nvd.nist.gov/vuln/vendor-comments
+  depth: 3
+  access: true
+url_271:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://nvd.nist.gov/vuln/cvmap
+  depth: 3
+  access: true
+url_272:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://nvd.nist.gov/vuln-metrics/cvss
+  depth: 3
+  access: true
+url_273:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator
+  depth: 3
+  access: true
+url_274:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://nvd.nist.gov/vuln-metrics/cvss/v2-calculator
+  depth: 3
+  access: true
+url_275:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://nvd.nist.gov/products
+  depth: 3
+  access: true
+url_276:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://nvd.nist.gov/products/cpe/search
+  depth: 3
+  access: true
+url_277:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://nvd.nist.gov/products/cpe/statistics
+  depth: 3
+  access: true
+url_278:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://nvd.nist.gov/products/swid
+  depth: 3
+  access: true
+url_279:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://nvd.nist.gov/developers
+  depth: 3
+  access: true
+url_280:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://nvd.nist.gov/developers/start-here
+  depth: 3
+  access: true
+url_281:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://nvd.nist.gov/developers/request-an-api-key
+  depth: 3
+  access: true
+url_282:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://nvd.nist.gov/developers/vulnerabilities
+  depth: 3
+  access: true
+url_283:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://nvd.nist.gov/developers/products
+  depth: 3
+  access: true
+url_284:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://nvd.nist.gov/developers/data-sources
+  depth: 3
+  access: true
+url_285:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://nvd.nist.gov/developers/terms-of-use
+  depth: 3
+  access: true
+url_286:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://nvd.nist.gov/info
+  depth: 3
+  access: true
+url_287:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://nvd.nist.gov/other
+  depth: 3
+  access: true
+url_288:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://ncp.nist.gov
+  depth: 3
+  access: true
+url_289:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://ncp.nist.gov/cce
+  depth: 3
+  access: true
+url_290:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://nvd.nist.gov/search
+  depth: 3
+  access: true
+url_291:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://www.nist.gov/itl
+  depth: 3
+  access: true
+url_292:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://nvd.nist.gov/General/News/change-timeline
+  depth: 3
+  access: true
+url_293:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://twitter.com/NISTCyber
+  depth: 3
+  access: false
+url_294:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://www.facebook.com/NIST
+  depth: 3
+  access: true
+url_295:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://www.linkedin.com/company/nist
+  depth: 3
+  access: true
+url_296:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://www.youtube.com/user/USNISTGOV
+  depth: 3
+  access: true
+url_297:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://www.nist.gov/news-events/nist-rss-feeds
+  depth: 3
+  access: true
+url_298:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://www.nist.gov/about-nist/contact-us
+  depth: 3
+  access: true
+url_299:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://www.nist.gov/about-nist/visit
+  depth: 3
+  access: true
+url_300:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://www.nist.gov/oism/site-privacy
+  depth: 3
+  access: true
+url_301:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://www.nist.gov/oism/accessibility
+  depth: 3
+  access: true
+url_302:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://www.nist.gov/privacy
+  depth: 3
+  access: true
+url_303:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://www.nist.gov/oism/copyrights
+  depth: 3
+  access: true
+url_304:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://www.commerce.gov/vulnerability-disclosure-policy
+  depth: 3
+  access: true
+url_305:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://www.nist.gov/no-fear-act-policy
+  depth: 3
+  access: true
+url_306:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://www.nist.gov/foia
+  depth: 3
+  access: true
+url_307:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://www.nist.gov/environmental-policy-statement
+  depth: 3
+  access: true
+url_308:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://www.nist.gov/summary-report-scientific-integrity
+  depth: 3
+  access: true
+url_309:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://www.nist.gov/nist-information-quality-standards
+  depth: 3
+  access: true
+url_310:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://www.commerce.gov
+  depth: 3
+  access: true
+url_311:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://www.science.gov
+  depth: 3
+  access: true
+url_312:
+  father: https://nvd.nist.gov/products/cpe
+  child: https://www.usa.gov
+  depth: 3
+  access: true
+url_313:
+  father: https://osv.dev
+  child: https://fonts.googleapis.com
+  depth: 3
+  access: false
+url_314:
+  father: https://osv.dev
+  child: https://fonts.gstatic.com
+  depth: 3
+  access: false
+url_315:
+  father: https://osv.dev
+  child: https://osv.dev/list
+  depth: 3
+  access: true
+url_316:
+  father: https://osv.dev
+  child: https://osv.dev/blog
+  depth: 3
+  access: true
+url_317:
+  father: https://dateful.com/time-zone-converter
+  child: https://fonts.googleapis.com/css
+  depth: 3
+  access: false
+url_318:
+  father: https://dateful.com/time-zone-converter
+  child: https://dateful.com/about.html
+  depth: 3
+  access: true
+url_319:
+  father: https://dateful.com/time-zone-converter
+  child: https://dateful.com/eventlink
+  depth: 3
+  access: true
+url_320:
+  father: https://dateful.com/time-zone-converter
+  child: https://dateful.com/time-calculator
+  depth: 3
+  access: true
+url_321:
+  father: https://dateful.com/time-zone-converter
+  child: https://dateful.com/world-clock
+  depth: 3
+  access: true
+url_322:
+  father: https://dateful.com/time-zone-converter
+  child: https://dateful.com/schedule
+  depth: 3
+  access: true
+url_323:
+  father: https://discuss.python.org/t/python-3-12-2-and-3-11-8-released/45268
+  child: https://discuss.python.org/c/committers/5
+  depth: 3
+  access: true
+url_324:
+  father: https://discuss.python.org/t/python-3-12-2-and-3-11-8-released/45268
+  child: https://discuss.python.org/u/thomas
+  depth: 3
+  access: true
+url_325:
+  father: https://discuss.python.org/t/python-3-12-2-and-3-11-8-released/45268
+  child: https://discuss.python.org/u/nad
+  depth: 3
+  access: true
+url_326:
+  father: https://discuss.python.org/t/python-3-12-2-and-3-11-8-released/45268
+  child: https://discuss.python.org/u/steve.dower
+  depth: 3
+  access: true
+url_327:
+  father: https://discuss.python.org/t/python-3-12-2-and-3-11-8-released/45268
+  child: https://discuss.python.org/u/pablogsal
+  depth: 3
+  access: true
+url_328:
+  father: https://discuss.python.org/t/python-3-12-2-and-3-11-8-released/45268
+  child: https://discuss.python.org/u/ambv
+  depth: 3
+  access: true
+url_329:
+  father: https://discuss.python.org/t/create-and-distribute-software-bill-of-materials-sbom-for-python-artifacts/39293
+  child: https://discuss.python.org/c/core-dev/23
+  depth: 3
+  access: true
+url_330:
+  father: https://discuss.python.org/t/create-and-distribute-software-bill-of-materials-sbom-for-python-artifacts/39293
+  child: https://discuss.python.org/t/software-bill-of-materials-for-next-python-release/17275
+  depth: 3
+  access: true
+url_331:
+  father: https://discuss.python.org/t/create-and-distribute-software-bill-of-materials-sbom-for-python-artifacts/39293
+  child: https://discuss.python.org/t/software-bill-of-materials-for-next-python-release/17275/16
+  depth: 3
+  access: true
+url_332:
+  father: https://discuss.python.org/t/create-and-distribute-software-bill-of-materials-sbom-for-python-artifacts/39293
+  child: https://discuss.python.org/u/hugovk
+  depth: 3
+  access: true
+url_333:
+  father: http://creativecommons.org/licenses/by-nc-sa/3.0
+  child: https://creativecommons.org/licenses/by-nc-sa/3.0
+  depth: 3
+  access: true
+url_334:
+  father: https://www.jetbrains.com
+  child: https://www.jetbrains.com/site.webmanifest
+  depth: 3
+  access: true
+url_335:
+  father: https://www.jetbrains.com
+  child: https://www.jetbrains.com.cn/en-us
+  depth: 3
+  access: true
+url_336:
+  father: https://www.jetbrains.com
+  child: https://www.jetbrains.com/de-de
+  depth: 3
+  access: true
+url_337:
+  father: https://www.jetbrains.com
+  child: https://www.jetbrains.com/es-es
+  depth: 3
+  access: true
+url_338:
+  father: https://www.jetbrains.com
+  child: https://www.jetbrains.com/fr-fr
+  depth: 3
+  access: true
+url_339:
+  father: https://www.jetbrains.com
+  child: https://www.jetbrains.com/ja-jp
+  depth: 3
+  access: true
+url_340:
+  father: https://www.jetbrains.com
+  child: https://www.jetbrains.com/ko-kr
+  depth: 3
+  access: true
+url_341:
+  father: https://www.jetbrains.com
+  child: https://www.jetbrains.com/ru-ru
+  depth: 3
+  access: true
+url_342:
+  father: https://www.jetbrains.com
+  child: https://www.jetbrains.com/zh-cn
+  depth: 3
+  access: true
+url_343:
+  father: https://www.jetbrains.com
+  child: https://www.jetbrains.com.cn
+  depth: 3
+  access: true
+url_344:
+  father: https://www.jetbrains.com
+  child: https://www.jetbrains.com/pt-br
+  depth: 3
+  access: true
+url_345:
+  father: https://pyfound.blogspot.com/2022/12/introducing-new-sliding-scale-membership.html
+  child: https://www.python.org/psf/diversity
+  depth: 3
+  access: true
+url_346:
+  father: https://pyfound.blogspot.com/2022/12/introducing-new-sliding-scale-membership.html
+  child: https://www.python.org/psf/donations/2022-q4-drive
+  depth: 3
+  access: true
+url_347:
+  father: https://pyfound.blogspot.com/2022/11/where-is-psf.html
+  child: https://pycon.blogspot.com
+  depth: 3
+  access: true
+url_348:
+  father: https://pyfound.blogspot.com/2022/11/where-is-psf.html
+  child: http://bit.ly/3ElTPzv
+  depth: 3
+  access: true
+url_349:
+  father: https://pyfound.blogspot.com/2022/11/where-is-psf.html
+  child: https://twitter.com/PyCon
+  depth: 3
+  access: false
+url_350:
+  father: https://www.djangoproject.com
+  child: https://www.djangoproject.com/foundation/donate
+  depth: 3
+  access: true
+url_351:
+  father: https://www.djangoproject.com
+  child: https://www.djangoproject.com/contact/foundation
+  depth: 3
+  access: true
+url_352:
+  father: https://www.djangoproject.com
+  child: https://www.djangoproject.com/foundation/corporate-membership
+  depth: 3
+  access: true
+url_353:
+  father: https://dashboard.djangoproject.com
+  child: https://dashboard.djangoproject.com/metric/new-tickets-today
+  depth: 3
+  access: true
+url_354:
+  father: https://dashboard.djangoproject.com
+  child: https://dashboard.djangoproject.com/metric/commits-today
+  depth: 3
+  access: true
+url_355:
+  father: https://dashboard.djangoproject.com
+  child: https://dashboard.djangoproject.com/metric/new-tickets-week
+  depth: 3
+  access: true
+url_356:
+  father: https://dashboard.djangoproject.com
+  child: https://dashboard.djangoproject.com/metric/commits-week
+  depth: 3
+  access: true
+url_357:
+  father: https://dashboard.djangoproject.com
+  child: https://dashboard.djangoproject.com/metric/blockers
+  depth: 3
+  access: true
+url_358:
+  father: https://dashboard.djangoproject.com
+  child: https://dashboard.djangoproject.com/metric/easy-tickets
+  depth: 3
+  access: true
+url_359:
+  father: https://dashboard.djangoproject.com
+  child: https://dashboard.djangoproject.com/metric/open-pull-requests
+  depth: 3
+  access: true
+url_360:
+  father: https://dashboard.djangoproject.com
+  child: https://dashboard.djangoproject.com/metric/patches
+  depth: 3
+  access: true
+url_361:
+  father: https://dashboard.djangoproject.com
+  child: https://dashboard.djangoproject.com/metric/doc-patches
+  depth: 3
+  access: true
+url_362:
+  father: https://dashboard.djangoproject.com
+  child: https://dashboard.djangoproject.com/metric/unreviewed
+  depth: 3
+  access: true
+url_363:
+  father: https://dashboard.djangoproject.com
+  child: https://dashboard.djangoproject.com/metric/accepted
+  depth: 3
+  access: true
+url_364:
+  father: https://dashboard.djangoproject.com
+  child: https://dashboard.djangoproject.com/metric/maybe
+  depth: 3
+  access: true
+url_365:
+  father: https://dashboard.djangoproject.com
+  child: https://dashboard.djangoproject.com/metric/rfc
+  depth: 3
+  access: true
+url_366:
+  father: https://dashboard.djangoproject.com
+  child: https://dashboard.djangoproject.com/metric/bugs
+  depth: 3
+  access: true
+url_367:
+  father: https://dashboard.djangoproject.com
+  child: https://dashboard.djangoproject.com/metric/features
+  depth: 3
+  access: true
+url_368:
+  father: https://dashboard.djangoproject.com
+  child: https://dashboard.djangoproject.com/metric/cleanups
+  depth: 3
+  access: true
+url_369:
+  father: https://dashboard.djangoproject.com
+  child: https://dashboard.djangoproject.com/metric/uncategorized
+  depth: 3
+  access: true
+url_370:
+  father: https://dashboard.djangoproject.com
+  child: https://dashboard.djangoproject.com/foundation/corporate-membership
+  depth: 3
+  access: true
+url_371:
+  father: https://dashboard.djangoproject.com
+  child: https://dashboard.djangoproject.com/foundation/donate
+  depth: 3
+  access: true
+url_372:
+  father: https://www.threespot.com
+  child: https://www.googletagmanager.com
+  depth: 3
+  access: false
+url_373:
+  father: https://www.threespot.com
+  child: https://www.google-analytics.com
+  depth: 3
+  access: true
+url_374:
+  father: https://www.threespot.com
+  child: https://www.threespot.com/wp-content/uploads/fbrfg/site.webmanifest
+  depth: 3
+  access: true
+url_375:
+  father: https://www.threespot.com
+  child: https://www.threespot.com/our-work
+  depth: 3
+  access: true
+url_376:
+  father: https://www.threespot.com
+  child: https://www.threespot.com/about-us
+  depth: 3
+  access: true
+url_377:
+  father: https://www.threespot.com
+  child: https://www.threespot.com/services
+  depth: 3
+  access: true
+url_378:
+  father: https://www.threespot.com
+  child: https://www.threespot.com/on-the-record
+  depth: 3
+  access: true
+url_379:
+  father: https://www.threespot.com
+  child: https://www.threespot.com/contact-us
+  depth: 3
+  access: true
+url_380:
+  father: https://www.threespot.com
+  child: https://live-threespot-wp.pantheonsite.io/contact-us
+  depth: 3
+  access: true
+url_381:
+  father: https://www.threespot.com
+  child: https://live-threespot-wp.pantheonsite.io/our-work
+  depth: 3
+  access: true
+url_382:
+  father: https://www.threespot.com
+  child: https://www.threespot.com/case-study/malala-fund-girls-education-report-microsite
+  depth: 3
+  access: true
+url_383:
+  father: https://www.threespot.com
+  child: https://www.threespot.com/case-study/1619-project
+  depth: 3
+  access: true
+url_384:
+  father: https://www.threespot.com
+  child: https://www.threespot.com/case-study/national-network-of-abortion-funds
+  depth: 3
+  access: true
+url_385:
+  father: https://www.threespot.com
+  child: https://www.threespot.com/case-study/national-museum-of-american-diplomacy
+  depth: 3
+  access: true
+url_386:
+  father: https://www.threespot.com
+  child: https://live-threespot-wp.pantheonsite.io/about-us
+  depth: 3
+  access: true
+url_387:
+  father: https://www.threespot.com
+  child: https://www.threespot.com/on-the-record/posts/meeting-the-next-generation
+  depth: 3
+  access: true
+url_388:
+  father: https://www.threespot.com
+  child: https://www.threespot.com/people/megan-lewin-smith
+  depth: 3
+  access: true
+url_389:
+  father: https://www.threespot.com
+  child: https://www.threespot.com/on-the-record/posts
+  depth: 3
+  access: true
+url_390:
+  father: https://www.threespot.com
+  child: https://www.threespot.com/on-the-record/posts/lessons-from-the-creator-economy
+  depth: 3
+  access: true
+url_391:
+  father: https://www.threespot.com
+  child: https://www.threespot.com/people/sid-barcelona
+  depth: 3
+  access: true
+url_392:
+  father: https://www.threespot.com
+  child: https://www.threespot.com/on-the-record/posts/how-i-learned-to-love-stakeholder-and-audience-interviews
+  depth: 3
+  access: true
+url_393:
+  father: https://www.threespot.com
+  child: https://www.threespot.com/people/bret-caples
+  depth: 3
+  access: true
+url_394:
+  father: https://www.threespot.com
+  child: https://www.threespot.com/on-the-record/posts/consent-and-digital-data-at-allied-media-projects
+  depth: 3
+  access: true
+url_395:
+  father: https://www.threespot.com
+  child: https://www.threespot.com/people/jack-nank
+  depth: 3
+  access: true
+url_396:
+  father: https://www.threespot.com
+  child: https://live-threespot-wp.pantheonsite.io/careers
+  depth: 3
+  access: true
+url_397:
+  father: http://www.web2py.com/init/default/what
+  child: http://web2py.com/examples/default/security
+  depth: 3
+  access: true
+url_398:
+  father: http://www.web2py.com/init/default/what
+  child: http://www.web2py.com/welcome
+  depth: 3
+  access: false
+url_399:
+  father: http://www.web2py.com/init/default/download
+  child: http://www.web2py.com/init/default/license
+  depth: 3
+  access: true
+url_400:
+  father: http://www.web2py.com/init/default/download
+  child: http://twitter.com/josev2010
+  depth: 3
+  access: true
+url_401:
+  father: http://www.web2py.com/init/default/download
+  child: http://twitter.com/rochacbruno
+  depth: 3
+  access: true
+url_402:
+  father: http://www.web2py.com/init/default/download
+  child: http://www.blouweb.com
+  depth: 3
+  access: false
+url_403:
+  father: http://www.web2py.com/init/default/download
+  child: http://mycti.cti.depaul.edu/people/facultyInfo_mycti.asp
+  depth: 3
+  access: false
+url_404:
+  father: http://www.web2py.com/init/default/download
+  child: http://chrfb.deviantart.com
+  depth: 3
+  access: true
+url_405:
+  father: http://www.web2py.com/init/default/documentation
+  child: http://www.web2py.com/contact
+  depth: 3
+  access: false
+url_406:
+  father: http://www.web2py.com/init/default/documentation
+  child: http://www.web2py.com/books/default/index
+  depth: 3
+  access: true
+url_407:
+  father: http://www.web2py.com/init/default/documentation
+  child: http://www.web2py.com/examples/default/examples
+  depth: 3
+  access: true
+url_408:
+  father: http://www.web2py.com/init/default/documentation
+  child: http://web2py.com/book/default/chapter/04
+  depth: 3
+  access: true
+url_409:
+  father: http://www.web2py.com/init/default/documentation
+  child: http://www.web2py.com.ar
+  depth: 3
+  access: true
+url_410:
+  father: http://www.web2py.com/init/default/documentation
+  child: http://www.web2py.com.ar/examples/default/docs
+  depth: 3
+  access: true
+url_411:
+  father: http://www.web2py.com/init/default/documentation
+  child: http://www.web2py.com/examples/default/usergroups
+  depth: 3
+  access: true
+url_412:
+  father: http://www.web2py.com/init/default/documentation
+  child: http://webchat.freenode.net
+  depth: 3
+  access: true
+url_413:
+  father: http://www.web2py.com/init/default/documentation
+  child: http://web2py.uservoice.com
+  depth: 3
+  access: false
+url_414:
+  father: http://www.web2py.com/init/default/documentation
+  child: http://www.youtube.com/watch
+  depth: 3
+  access: true
+url_415:
+  father: http://www.web2py.com/init/default/documentation
+  child: http://www.web2pyref.com
+  depth: 3
+  access: false
+url_416:
+  father: http://www.web2py.com/init/default/documentation
+  child: http://killer-web-development.com
+  depth: 3
+  access: false
+url_417:
+  father: http://www.web2py.com/init/default/documentation
+  child: http://www.realpython.com
+  depth: 3
+  access: true
+url_418:
+  father: http://www.web2py.com/init/default/documentation
+  child: http://www.web2py.com/examples/default/videos
+  depth: 3
+  access: true
+url_419:
+  father: http://www.web2py.com/init/default/documentation
+  child: http://www.web2py.com/AlterEgo
+  depth: 3
+  access: true
+url_420:
+  father: http://www.web2py.com/init/default/documentation
+  child: http://www.web2pyslices.com
+  depth: 3
+  access: true
+url_421:
+  father: http://www.web2py.com/init/default/documentation
+  child: http://www.web2py.com/plugins
+  depth: 3
+  access: true
+url_422:
+  father: http://www.web2py.com/init/default/documentation
+  child: https://bitbucket.org/kfog/w2p
+  depth: 3
+  access: true
+url_423:
+  father: http://www.web2py.com/init/default/documentation
+  child: http://www.web2py.com/poweredby
+  depth: 3
+  access: true
+url_424:
+  father: http://www.web2py.com/init/default/support
+  child: http://experts4solutions.com
+  depth: 3
+  access: false
+url_425:
+  father: http://www.web2py.com/init/default/support
+  child: http://www.planethost.com
+  depth: 3
+  access: true
+url_426:
+  father: http://www.web2py.com/init/default/support
+  child: http://www.corebyte.nl
+  depth: 3
+  access: true
+url_427:
+  father: http://www.web2py.com/init/default/support
+  child: http://www.dutveul.nl
+  depth: 3
+  access: true
+url_428:
+  father: http://www.web2py.com/init/default/support
+  child: http://www.onemewebservices.com
+  depth: 3
+  access: true
+url_429:
+  father: http://www.web2py.com/init/default/support
+  child: http://www.budgetbytes.nl
+  depth: 3
+  access: true
+url_430:
+  father: http://www.web2py.com/init/default/support
+  child: http://www.androsoft.pl
+  depth: 3
+  access: true
+url_431:
+  father: http://www.web2py.com/init/default/support
+  child: http://www.nrg.com.br
+  depth: 3
+  access: true
+url_432:
+  father: http://www.web2py.com/init/default/support
+  child: http://i-am.pt
+  depth: 3
+  access: true
+url_433:
+  father: http://www.web2py.com/init/default/support
+  child: http://www.definescope.com
+  depth: 3
+  access: true
+url_434:
+  father: http://www.web2py.com/init/default/support
+  child: http://www.albendas.com
+  depth: 3
+  access: true
+url_435:
+  father: http://www.web2py.com/init/default/support
+  child: http://www.appliedobjects.com
+  depth: 3
+  access: false
+url_436:
+  father: http://www.web2py.com/init/default/support
+  child: http://www.sistemasagiles.com.ar
+  depth: 3
+  access: true
+url_437:
+  father: http://www.web2py.com/init/default/support
+  child: http://www.tasko.it
+  depth: 3
+  access: false
+url_438:
+  father: http://www.web2py.com/init/default/support
+  child: http://www.garciac.es
+  depth: 3
+  access: true
+url_439:
+  father: http://www.web2py.com/init/default/who
+  child: https://www.linkedin.com/in/massimodipierro
+  depth: 3
+  access: true
+url_440:
+  father: http://www.web2py.com/init/default/who
+  child: http://Ourway.ir
+  depth: 3
+  access: false
+url_441:
+  father: http://www.web2py.com/init/default/who
+  child: http://dev.s-cubism.com/web2py_plugins
+  depth: 3
+  access: false
+url_442:
+  father: http://www.web2py.com/init/default/who
+  child: http://www.mlsystems.ch
+  depth: 3
+  access: true
+url_443:
+  father: http://www.web2py.com/init/default/who
+  child: http://pyrtf.sourceforge.net
+  depth: 3
+  access: true
+url_444:
+  father: http://www.web2py.com/init/default/who
+  child: http://www.dalkescientific.com/Python/PyRSS2Gen.html
+  depth: 3
+  access: true
+url_445:
+  father: http://www.web2py.com/init/default/who
+  child: http://svn.saddi.com/py-lib/trunk/fcgi.py
+  depth: 3
+  access: false
+url_446:
+  father: http://www.web2py.com/init/default/who
+  child: http://www.danga.com/memcached
+  depth: 3
+  access: true
+url_447:
+  father: http://www.web2py.com/init/default/who
+  child: http://www.petersblog.org/node/763
+  depth: 3
+  access: true
+url_448:
+  father: http://www.web2py.com/init/default/who
+  child: http://jtauber.com/blog/2006/01/27/python_unicode_collation_algorithm
+  depth: 3
+  access: true
+url_449:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/chapter/29/01
+  depth: 3
+  access: true
+url_450:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/chapter/41
+  depth: 3
+  access: true
+url_451:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/chapter/29
+  depth: 3
+  access: true
+url_452:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/chapter/36
+  depth: 3
+  access: true
+url_453:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/chapter/40
+  depth: 3
+  access: true
+url_454:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/chapter/31
+  depth: 3
+  access: true
+url_455:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/chapter/35
+  depth: 3
+  access: true
+url_456:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/chapter/37
+  depth: 3
+  access: true
+url_457:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/chapter/32
+  depth: 3
+  access: true
+url_458:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/chapter/30
+  depth: 3
+  access: true
+url_459:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/chapter/38
+  depth: 3
+  access: true
+url_460:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/chapter/39
+  depth: 3
+  access: true
+url_461:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/chapter/42
+  depth: 3
+  access: true
+url_462:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/chapter/43
+  depth: 3
+  access: true
+url_463:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/chapter/33
+  depth: 3
+  access: true
+url_464:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/chapter/34
+  depth: 3
+  access: true
+url_465:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.lulu.com/shop/massimo-di-pierro/web2py-5th-edition/paperback/product-20731496.html
+  depth: 3
+  access: true
+url_466:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/chapter/29/00/preface
+  depth: 3
+  access: true
+url_467:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/chapter/29/01/introduction
+  depth: 3
+  access: true
+url_468:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/chapter/29/02/the-python-language
+  depth: 3
+  access: true
+url_469:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/chapter/29/03/overview
+  depth: 3
+  access: true
+url_470:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/chapter/29/04/the-core
+  depth: 3
+  access: true
+url_471:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/chapter/29/05/the-views
+  depth: 3
+  access: true
+url_472:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/chapter/29/06/the-database-abstraction-layer
+  depth: 3
+  access: true
+url_473:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/chapter/29/07/forms-and-validators
+  depth: 3
+  access: true
+url_474:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/chapter/29/08/emails-and-sms
+  depth: 3
+  access: true
+url_475:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/chapter/29/09/access-control
+  depth: 3
+  access: true
+url_476:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/chapter/29/10/services
+  depth: 3
+  access: true
+url_477:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/chapter/29/11/jquery-and-ajax
+  depth: 3
+  access: true
+url_478:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/chapter/29/12/components-and-plugins
+  depth: 3
+  access: true
+url_479:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/chapter/29/13/deployment-recipes
+  depth: 3
+  access: true
+url_480:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/chapter/29/14/other-recipes
+  depth: 3
+  access: true
+url_481:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/chapter/29/15/helping-web2py
+  depth: 3
+  access: true
+url_482:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/reference/29/web2py
+  depth: 3
+  access: true
+url_483:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/reference/29/python
+  depth: 3
+  access: true
+url_484:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/reference/29/sql-w
+  depth: 3
+  access: true
+url_485:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/reference/29/sqlite
+  depth: 3
+  access: true
+url_486:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/reference/29/mysql
+  depth: 3
+  access: true
+url_487:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/reference/29/postgres
+  depth: 3
+  access: true
+url_488:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/reference/29/mssql
+  depth: 3
+  access: true
+url_489:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/reference/29/firebird
+  depth: 3
+  access: true
+url_490:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/reference/29/oracle
+  depth: 3
+  access: true
+url_491:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/reference/29/db2
+  depth: 3
+  access: true
+url_492:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/reference/29/informix
+  depth: 3
+  access: true
+url_493:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/reference/29/ingresdb
+  depth: 3
+  access: true
+url_494:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/reference/29/gae
+  depth: 3
+  access: true
+url_495:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/reference/29/html-w
+  depth: 3
+  access: true
+url_496:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/reference/29/html-o
+  depth: 3
+  access: true
+url_497:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/reference/29/php
+  depth: 3
+  access: true
+url_498:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/reference/29/owasp
+  depth: 3
+  access: true
+url_499:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/reference/29/rocket
+  depth: 3
+  access: true
+url_500:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/reference/29/wsgi-w
+  depth: 3
+  access: true
+url_501:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/reference/29/wsgi-o
+  depth: 3
+  access: true
+url_502:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/reference/29/ssl
+  depth: 3
+  access: true
+url_503:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/reference/29/pythonsecurity
+  depth: 3
+  access: true
+url_504:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/book/default/chapter/02
+  depth: 3
+  access: true
+url_505:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/book/default/chapter/03
+  depth: 3
+  access: true
+url_506:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/book/default/chapter/04
+  depth: 3
+  access: true
+url_507:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/book/default/chapter/05
+  depth: 3
+  access: true
+url_508:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/book/default/chapter/06
+  depth: 3
+  access: true
+url_509:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/book/default/chapter/07
+  depth: 3
+  access: true
+url_510:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/book/default/chapter/08
+  depth: 3
+  access: true
+url_511:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/book/default/chapter/09
+  depth: 3
+  access: true
+url_512:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/book/default/chapter/10
+  depth: 3
+  access: true
+url_513:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/book/default/chapter/11
+  depth: 3
+  access: true
+url_514:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/book/default/chapter/12
+  depth: 3
+  access: true
+url_515:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/book/default/chapter/13
+  depth: 3
+  access: true
+url_516:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/book/default/chapter/14
+  depth: 3
+  access: true
+url_517:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/book/default/chapter/15
+  depth: 3
+  access: true
+url_518:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/reference/29/appliances
+  depth: 3
+  access: true
+url_519:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/reference/29/usergroup
+  depth: 3
+  access: true
+url_520:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/reference/29/alterego
+  depth: 3
+  access: true
+url_521:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/reference/29/style
+  depth: 3
+  access: true
+url_522:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/reference/29/lgpl3
+  depth: 3
+  access: true
+url_523:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/reference/29/editarea
+  depth: 3
+  access: true
+url_524:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/reference/29/simplejson
+  depth: 3
+  access: true
+url_525:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/reference/29/pyrtf
+  depth: 3
+  access: true
+url_526:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/reference/29/pyrss2gen
+  depth: 3
+  access: true
+url_527:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/reference/29/feedparser
+  depth: 3
+  access: true
+url_528:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/reference/29/markdown2
+  depth: 3
+  access: true
+url_529:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/reference/29/memcache
+  depth: 3
+  access: true
+url_530:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://www.web2py.com/books/default/reference/29/jquery
+  depth: 3
+  access: true
+url_531:
+  father: http://www.web2py.com/book/default/chapter/01
+  child: http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+  depth: 3
+  access: true
+url_532:
+  father: http://web2py.com/book
+  child: http://web2py.com/books/default/chapter/29
+  depth: 3
+  access: true
+url_533:
+  father: http://web2py.com/book
+  child: http://web2py.com
+  depth: 3
+  access: true
+url_534:
+  father: http://web2py.com/book
+  child: http://web2py.com/books/default/chapter/41
+  depth: 3
+  access: true
+url_535:
+  father: http://web2py.com/book
+  child: http://web2py.com/books/default/chapter/36
+  depth: 3
+  access: true
+url_536:
+  father: http://web2py.com/book
+  child: http://web2py.com/books/default/chapter/40
+  depth: 3
+  access: true
+url_537:
+  father: http://web2py.com/book
+  child: http://web2py.com/books/default/chapter/31
+  depth: 3
+  access: true
+url_538:
+  father: http://web2py.com/book
+  child: http://web2py.com/books/default/chapter/35
+  depth: 3
+  access: true
+url_539:
+  father: http://web2py.com/book
+  child: http://web2py.com/books/default/chapter/37
+  depth: 3
+  access: true
+url_540:
+  father: http://web2py.com/book
+  child: http://web2py.com/books/default/chapter/32
+  depth: 3
+  access: true
+url_541:
+  father: http://web2py.com/book
+  child: http://web2py.com/books/default/chapter/30
+  depth: 3
+  access: true
+url_542:
+  father: http://web2py.com/book
+  child: http://web2py.com/books/default/chapter/38
+  depth: 3
+  access: true
+url_543:
+  father: http://web2py.com/book
+  child: http://web2py.com/books/default/chapter/39
+  depth: 3
+  access: true
+url_544:
+  father: http://web2py.com/book
+  child: http://web2py.com/books/default/chapter/42
+  depth: 3
+  access: true
+url_545:
+  father: http://web2py.com/book
+  child: http://web2py.com/books/default/chapter/43
+  depth: 3
+  access: true
+url_546:
+  father: http://web2py.com/book
+  child: http://web2py.com/books/default/chapter/33
+  depth: 3
+  access: true
+url_547:
+  father: http://web2py.com/book
+  child: http://web2py.com/books/default/chapter/34
+  depth: 3
+  access: true
+url_548:
+  father: http://web2py.com/book
+  child: http://web2py.com/books/default/chapter/29/00/preface
+  depth: 3
+  access: true
+url_549:
+  father: http://web2py.com/book
+  child: http://web2py.com/books/default/chapter/29/01/introduction
+  depth: 3
+  access: true
+url_550:
+  father: http://web2py.com/book
+  child: http://web2py.com/books/default/chapter/29/02/the-python-language
+  depth: 3
+  access: true
+url_551:
+  father: http://web2py.com/book
+  child: http://web2py.com/books/default/chapter/29/03/overview
+  depth: 3
+  access: true
+url_552:
+  father: http://web2py.com/book
+  child: http://web2py.com/books/default/chapter/29/04/the-core
+  depth: 3
+  access: true
+url_553:
+  father: http://web2py.com/book
+  child: http://web2py.com/books/default/chapter/29/05/the-views
+  depth: 3
+  access: true
+url_554:
+  father: http://web2py.com/book
+  child: http://web2py.com/books/default/chapter/29/06/the-database-abstraction-layer
+  depth: 3
+  access: true
+url_555:
+  father: http://web2py.com/book
+  child: http://web2py.com/books/default/chapter/29/07/forms-and-validators
+  depth: 3
+  access: true
+url_556:
+  father: http://web2py.com/book
+  child: http://web2py.com/books/default/chapter/29/08/emails-and-sms
+  depth: 3
+  access: true
+url_557:
+  father: http://web2py.com/book
+  child: http://web2py.com/books/default/chapter/29/09/access-control
+  depth: 3
+  access: true
+url_558:
+  father: http://web2py.com/book
+  child: http://web2py.com/books/default/chapter/29/10/services
+  depth: 3
+  access: true
+url_559:
+  father: http://web2py.com/book
+  child: http://web2py.com/books/default/chapter/29/11/jquery-and-ajax
+  depth: 3
+  access: true
+url_560:
+  father: http://web2py.com/book
+  child: http://web2py.com/books/default/chapter/29/12/components-and-plugins
+  depth: 3
+  access: true
+url_561:
+  father: http://web2py.com/book
+  child: http://web2py.com/books/default/chapter/29/13/deployment-recipes
+  depth: 3
+  access: true
+url_562:
+  father: http://web2py.com/book
+  child: http://web2py.com/books/default/chapter/29/14/other-recipes
+  depth: 3
+  access: true
+url_563:
+  father: http://web2py.com/book
+  child: http://web2py.com/books/default/chapter/29/15/helping-web2py
+  depth: 3
+  access: true
+url_564:
+  father: http://www.gnu.org/licenses/lgpl.html
+  child: http://www.gnu.org/licenses/lgpl-3.0.html
+  depth: 3
+  access: true
+url_565:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/simple_examples/hello1
+  depth: 3
+  access: true
+url_566:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/global/vars/T
+  depth: 3
+  access: true
+url_567:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/simple_examples/hello2
+  depth: 3
+  access: true
+url_568:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/simple_examples/hello3.html
+  depth: 3
+  access: true
+url_569:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/global/vars/response
+  depth: 3
+  access: true
+url_570:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/simple_examples/hello4
+  depth: 3
+  access: true
+url_571:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/global/vars/HTML
+  depth: 3
+  access: true
+url_572:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/global/vars/BODY
+  depth: 3
+  access: true
+url_573:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/global/vars/H1
+  depth: 3
+  access: true
+url_574:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/simple_examples/hello5
+  depth: 3
+  access: true
+url_575:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/simple_examples/hello6
+  depth: 3
+  access: true
+url_576:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/global/vars/redirect
+  depth: 3
+  access: true
+url_577:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/global/vars/URL
+  depth: 3
+  access: true
+url_578:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/simple_examples/redirectme
+  depth: 3
+  access: true
+url_579:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/global/vars/HTTP
+  depth: 3
+  access: true
+url_580:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/simple_examples/raisehttp
+  depth: 3
+  access: false
+url_581:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/simple_examples/servejs
+  depth: 3
+  access: true
+url_582:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/simple_examples/makejson
+  depth: 3
+  access: true
+url_583:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/simple_examples/makertf
+  depth: 3
+  access: true
+url_584:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/simple_examples/rss_aggregator
+  depth: 3
+  access: true
+url_585:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/global/vars/FORM
+  depth: 3
+  access: true
+url_586:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/global/vars/TEXTAREA
+  depth: 3
+  access: true
+url_587:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/global/vars/INPUT
+  depth: 3
+  access: true
+url_588:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/global/vars/DIV
+  depth: 3
+  access: true
+url_589:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/global/vars/MARKMIN
+  depth: 3
+  access: true
+url_590:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/global/vars/request
+  depth: 3
+  access: true
+url_591:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/static/markmin.html
+  depth: 3
+  access: true
+url_592:
+  father: http://www.web2py.com/init/default/examples
+  child: http://en.wikipedia.org/wiki/Markdown
+  depth: 3
+  access: true
+url_593:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/simple_examples/ajaxwiki
+  depth: 3
+  access: true
+url_594:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/global/vars/session
+  depth: 3
+  access: true
+url_595:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/session_examples/counter
+  depth: 3
+  access: true
+url_596:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/template_examples/variables
+  depth: 3
+  access: true
+url_597:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/template_examples/test_for
+  depth: 3
+  access: true
+url_598:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/template_examples/test_if
+  depth: 3
+  access: true
+url_599:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/template_examples/test_try
+  depth: 3
+  access: true
+url_600:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/global/vars/A
+  depth: 3
+  access: true
+url_601:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/template_examples/test_def
+  depth: 3
+  access: true
+url_602:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/template_examples/escape
+  depth: 3
+  access: true
+url_603:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/global/vars/XML
+  depth: 3
+  access: true
+url_604:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/template_examples/xml
+  depth: 3
+  access: true
+url_605:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/global/vars/BEAUTIFY
+  depth: 3
+  access: true
+url_606:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/template_examples/beautify
+  depth: 3
+  access: true
+url_607:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/layout_examples/civilized
+  depth: 3
+  access: true
+url_608:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/layout_examples/slick
+  depth: 3
+  access: true
+url_609:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/layout_examples/basic
+  depth: 3
+  access: true
+url_610:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/global/vars/TABLE
+  depth: 3
+  access: true
+url_611:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/global/vars/TR
+  depth: 3
+  access: true
+url_612:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/global/vars/IS_NOT_EMPTY
+  depth: 3
+  access: true
+url_613:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/global/vars/IS_EMAIL
+  depth: 3
+  access: true
+url_614:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/global/vars/SELECT
+  depth: 3
+  access: true
+url_615:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/global/vars/IS_IN_SET
+  depth: 3
+  access: true
+url_616:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/form_examples/form
+  depth: 3
+  access: true
+url_617:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/global/vars/Field
+  depth: 3
+  access: true
+url_618:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/global/vars/IS_NOT_IN_DB
+  depth: 3
+  access: true
+url_619:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/global/vars/IS_INT_IN_RANGE
+  depth: 3
+  access: true
+url_620:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/global/vars/SQLFORM
+  depth: 3
+  access: true
+url_621:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/global/vars/SQLTABLE
+  depth: 3
+  access: true
+url_622:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/global/vars/IS_IN_DB
+  depth: 3
+  access: true
+url_623:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/global/vars/cache
+  depth: 3
+  access: true
+url_624:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/cache_examples/cache_in_ram
+  depth: 3
+  access: true
+url_625:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/cache_examples/cache_on_disk
+  depth: 3
+  access: true
+url_626:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/cache_examples/cache_in_ram_and_disk
+  depth: 3
+  access: true
+url_627:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/cache_examples/cache_controller_in_ram
+  depth: 3
+  access: true
+url_628:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/cache_examples/cache_controller_on_disk
+  depth: 3
+  access: true
+url_629:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/cache_examples/cache_controller_and_view
+  depth: 3
+  access: true
+url_630:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/ajax_examples/index
+  depth: 3
+  access: true
+url_631:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/ajax_examples/flash
+  depth: 3
+  access: true
+url_632:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/ajax_examples/fade
+  depth: 3
+  access: true
+url_633:
+  father: http://www.web2py.com/init/default/examples
+  child: http://www.web2py.com/init/spreadsheet/index
+  depth: 3
+  access: true
+url_634:
+  father: http://web2py.com/poweredby
+  child: http://web2py.com/poweredby/default/index
+  depth: 3
+  access: true
+url_635:
+  father: http://web2py.com/poweredby
+  child: http://web2py.com/poweredby/default/user/request_reset_password
+  depth: 3
+  access: true
+url_636:
+  father: http://web2py.com/poweredby
+  child: http://web2py.com/poweredby/default/user/login
+  depth: 3
+  access: true
+url_637:
+  father: http://web2py.com/poweredby
+  child: http://web2py.com/poweredby/default/submit
+  depth: 3
+  access: true
+url_638:
+  father: http://web2py.com/poweredby
+  child: https://www.bankruptcyanywhere.com
+  depth: 3
+  access: false
+url_639:
+  father: http://web2py.com/poweredby
+  child: http://www.experts4solutions.com/e4s
+  depth: 3
+  access: false
+url_640:
+  father: http://web2py.com/poweredby
+  child: http://ec2-18-236-235-7.us-west-2.compute.amazonaws.com/grcdemo01
+  depth: 3
+  access: false
+url_641:
+  father: http://web2py.com/poweredby
+  child: https://www.21stcenturyskillsgame.nl
+  depth: 3
+  access: false
+url_642:
+  father: http://web2py.com/poweredby
+  child: https://www.dutveul.nl/domenie_onderzoek_demo
+  depth: 3
+  access: true
+url_643:
+  father: http://web2py.com/poweredby
+  child: https://www.allaboutbas.nl
+  depth: 3
+  access: true
+url_644:
+  father: http://web2py.com/poweredby
+  child: http://timed.dutveul.nl
+  depth: 3
+  access: true
+url_645:
+  father: http://web2py.com/poweredby
+  child: https://www.dutveul.nl
+  depth: 3
+  access: true
+url_646:
+  father: http://web2py.com/poweredby
+  child: https://www.verwoorders.nl
+  depth: 3
+  access: false
+url_647:
+  father: http://web2py.com/poweredby
+  child: https://www.escritorionanet.pt
+  depth: 3
+  access: true
+url_648:
+  father: http://web2py.com/poweredby
+  child: http://web2py.com.br
+  depth: 3
+  access: true
+url_649:
+  father: http://web2py.com/poweredby
+  child: https://www.becomix.me
+  depth: 3
+  access: true
+url_650:
+  father: http://web2py.com/poweredby
+  child: http://mycheatsheets.com
+  depth: 3
+  access: true
+url_651:
+  father: http://web2py.com/poweredby
+  child: https://heiup.uni-heidelberg.de
+  depth: 3
+  access: true
+url_652:
+  father: http://web2py.com/poweredby
+  child: http://rodarenmoto.com
+  depth: 3
+  access: true
+url_653:
+  father: http://web2py.com/poweredby
+  child: http://www.jbtus.com/programania
+  depth: 3
+  access: false
+url_654:
+  father: http://web2py.com/poweredby
+  child: http://Fund-Team.com
+  depth: 3
+  access: true
+url_655:
+  father: http://web2py.com/poweredby
+  child: http://ditex.su
+  depth: 3
+  access: true
+url_656:
+  father: http://web2py.com/poweredby
+  child: http://www.artpic.in
+  depth: 3
+  access: false
+url_657:
+  father: http://web2py.com/poweredby
+  child: http://www.srboohie.com
+  depth: 3
+  access: true
+url_658:
+  father: http://web2py.com/poweredby
+  child: https://www.mtbconnection.com
+  depth: 3
+  access: false
+url_659:
+  father: http://web2py.com/poweredby
+  child: http://www.jbtus.com
+  depth: 3
+  access: false
+url_660:
+  father: http://web2py.com/poweredby
+  child: http://se6alunos.pythonanywhere.com
+  depth: 3
+  access: false
+url_661:
+  father: http://web2py.com/poweredby
+  child: http://www.labelrunner.com
+  depth: 3
+  access: true
+url_662:
+  father: http://web2py.com/poweredby
+  child: https://www.florian-sw.com
+  depth: 3
+  access: true
+url_663:
+  father: http://web2py.com/poweredby
+  child: http://www.laminko.com
+  depth: 3
+  access: true
+url_664:
+  father: http://web2py.com/poweredby
+  child: http://www.oliverwanke.com
+  depth: 3
+  access: true
+url_665:
+  father: http://web2py.com/poweredby
+  child: http://www.ratosdoestudo.pt
+  depth: 3
+  access: false
+url_666:
+  father: http://web2py.com/poweredby
+  child: http://www.gicnz.org.nz
+  depth: 3
+  access: true
+url_667:
+  father: http://web2py.com/poweredby
+  child: http://www.badevelopmentday.com
+  depth: 3
+  access: false
+url_668:
+  father: http://web2py.com/poweredby
+  child: http://cehum.ilch.uminho.pt/fala_bracarense
+  depth: 3
+  access: true
+url_669:
+  father: http://web2py.com/poweredby
+  child: http://cehum.ilch.uminho.pt/transculturalamnesia
+  depth: 3
+  access: true
+url_670:
+  father: http://web2py.com/poweredby
+  child: http://cehum.ilch.uminho.pt/estetica
+  depth: 3
+  access: true
+url_671:
+  father: http://web2py.com/poweredby
+  child: http://startbean.com
+  depth: 3
+  access: true
+url_672:
+  father: http://web2py.com/poweredby
+  child: http://www.kaisaris.com
+  depth: 3
+  access: true
+url_673:
+  father: http://web2py.com/poweredby
+  child: https://www.stopstalk.com
+  depth: 3
+  access: true
+url_674:
+  father: http://web2py.com/poweredby
+  child: http://www.emailtry.com
+  depth: 3
+  access: true
+url_675:
+  father: http://web2py.com/poweredby
+  child: https://douglasws89.pythonanywhere.com/Final_Project/default/index
+  depth: 3
+  access: false
+url_676:
+  father: http://web2py.com/poweredby
+  child: http://www.bm-ritam.co.rs
+  depth: 3
+  access: true
+url_677:
+  father: http://web2py.com/poweredby
+  child: http://yunobet.com
+  depth: 3
+  access: false
+url_678:
+  father: http://web2py.com/poweredby
+  child: http://mahmood.pythonanywhere.com/rassed/default
+  depth: 3
+  access: false
+url_679:
+  father: http://web2py.com/poweredby
+  child: https://www.beni.fit
+  depth: 3
+  access: true
+url_680:
+  father: http://web2py.com/poweredby
+  child: http://www.sunware.de
+  depth: 3
+  access: true
+url_681:
+  father: http://web2py.com/poweredby
+  child: http://www.secondhand-ottersweier.de
+  depth: 3
+  access: true
+url_682:
+  father: http://web2py.com/poweredby
+  child: https://zoomitnow.com
+  depth: 3
+  access: false
+url_683:
+  father: http://web2py.com/poweredby
+  child: http://memeforge.com
+  depth: 3
+  access: true
+url_684:
+  father: http://web2py.com/poweredby
+  child: http://www.metalibre.com
+  depth: 3
+  access: true
+url_685:
+  father: http://web2py.com/poweredby
+  child: http://www.mompala.it
+  depth: 3
+  access: true
+url_686:
+  father: http://web2py.com/poweredby
+  child: http://www.danijelkralj.com
+  depth: 3
+  access: true
+url_687:
+  father: http://web2py.com/poweredby
+  child: https://www.eltdpasaia.com
+  depth: 3
+  access: true
+url_688:
+  father: http://web2py.com/poweredby
+  child: http://www.iveau.com
+  depth: 3
+  access: true
+url_689:
+  father: http://web2py.com/poweredby
+  child: http://map.clean-roads.eu
+  depth: 3
+  access: false
+url_690:
+  father: http://web2py.com/poweredby
+  child: http://clubatletismosada.appspot.com
+  depth: 3
+  access: true
+url_691:
+  father: http://web2py.com/poweredby
+  child: http://www.motionartist.tv
+  depth: 3
+  access: false
+url_692:
+  father: http://web2py.com/poweredby
+  child: http://www.network-tools.eu
+  depth: 3
+  access: false
+url_693:
+  father: http://web2py.com/poweredby
+  child: https://1010.app.tetra.nl
+  depth: 3
+  access: false
+url_694:
+  father: http://web2py.com/poweredby
+  child: http://www.betafactura.com.mx
+  depth: 3
+  access: false
+url_695:
+  father: http://web2py.com/poweredby
+  child: http://www.uforum.nl
+  depth: 3
+  access: false
+url_696:
+  father: http://web2py.com/poweredby
+  child: http://pollfix.com
+  depth: 3
+  access: false
+url_697:
+  father: http://web2py.com/poweredby
+  child: http://nervatura.com/nervapage
+  depth: 3
+  access: true
+url_698:
+  father: http://web2py.com/poweredby
+  child: http://www.pynuke.net
+  depth: 3
+  access: false
+url_699:
+  father: http://web2py.com/poweredby
+  child: https://www.stereodose.com/splash
+  depth: 3
+  access: true
+url_700:
+  father: http://web2py.com/poweredby
+  child: http://www.hydrover.it
+  depth: 3
+  access: true
+url_701:
+  father: http://web2py.com/poweredby
+  child: http://www.sklad05.si
+  depth: 3
+  access: true
+url_702:
+  father: http://web2py.com/poweredby
+  child: http://netdecisionmaking.appspot.com
+  depth: 3
+  access: true
+url_703:
+  father: http://web2py.com/poweredby
+  child: http://www.thebitcoinjar.com
+  depth: 3
+  access: false
+url_704:
+  father: http://web2py.com/poweredby
+  child: http://www.chessbro.com
+  depth: 3
+  access: true
+url_705:
+  father: http://web2py.com/poweredby
+  child: http://www.online.com
+  depth: 3
+  access: false
+url_706:
+  father: http://web2py.com/poweredby
+  child: http://icd10doc.com
+  depth: 3
+  access: true
+url_707:
+  father: http://web2py.com/poweredby
+  child: http://filtergraph.vanderbilt.edu
+  depth: 3
+  access: false
+url_708:
+  father: http://web2py.com/poweredby
+  child: http://www.zlak.info
+  depth: 3
+  access: true
+url_709:
+  father: http://web2py.com/poweredby
+  child: http://gdzieonikurdesa.pl
+  depth: 3
+  access: true
+url_710:
+  father: http://web2py.com/poweredby
+  child: http://knutselen.pythonanywhere.com/SolarPower_Molenhoek/default
+  depth: 3
+  access: false
+url_711:
+  father: http://web2py.com/poweredby
+  child: http://official-notebook.com
+  depth: 3
+  access: false
+url_712:
+  father: http://web2py.com/poweredby
+  child: http://www.dominochinese.com
+  depth: 3
+  access: true
+url_713:
+  father: http://web2py.com/poweredby
+  child: http://www.handymancharles.com
+  depth: 3
+  access: false
+url_714:
+  father: http://web2py.com/poweredby
+  child: http://www.manwendalu.com
+  depth: 3
+  access: false
+url_715:
+  father: http://web2py.com/poweredby
+  child: http://vadnica.pythonanywhere.com
+  depth: 3
+  access: false
+url_716:
+  father: http://web2py.com/poweredby
+  child: http://www.velovida.ch
+  depth: 3
+  access: true
+url_717:
+  father: http://web2py.com/poweredby
+  child: http://www.algoqueue.com
+  depth: 3
+  access: true
+url_718:
+  father: http://web2py.com/poweredby
+  child: http://www.syntheticturfdrs.com
+  depth: 3
+  access: true
+url_719:
+  father: http://web2py.com/poweredby
+  child: http://www.distribuidorahenry.com.ar
+  depth: 3
+  access: false
+url_720:
+  father: http://web2py.com/poweredby
+  child: http://www.referenciasocial.com
+  depth: 3
+  access: false
+url_721:
+  father: http://web2py.com/poweredby
+  child: http://www.bragatv.pt
+  depth: 3
+  access: true
+url_722:
+  father: http://web2py.com/poweredby
+  child: http://cehum.ilch.uminho.pt/sedllbragaxiv
+  depth: 3
+  access: true
+url_723:
+  father: http://web2py.com/poweredby
+  child: http://www.expensesplit.com
+  depth: 3
+  access: false
+url_724:
+  father: http://web2py.com/poweredby
+  child: http://www.linux-cambodia.com
+  depth: 3
+  access: false
+url_725:
+  father: http://web2py.com/poweredby
+  child: http://qdoop.com
+  depth: 3
+  access: true
+url_726:
+  father: http://web2py.com/poweredby
+  child: http://www.secourisme25.fr
+  depth: 3
+  access: true
+url_727:
+  father: http://web2py.com/poweredby
+  child: http://www.dommartin25.fr
+  depth: 3
+  access: true
+url_728:
+  father: http://web2py.com/poweredby
+  child: http://www.ty-braz.fr
+  depth: 3
+  access: true
+url_729:
+  father: http://web2py.com/poweredby
+  child: http://www.nazzo.net
+  depth: 3
+  access: false
+url_730:
+  father: http://web2py.com/poweredby
+  child: http://www.pnscp.com
+  depth: 3
+  access: false
+url_731:
+  father: http://web2py.com/poweredby
+  child: http://www.freewall.me
+  depth: 3
+  access: false
+url_732:
+  father: http://web2py.com/poweredby
+  child: http://www.tinywebsite.net
+  depth: 3
+  access: true
+url_733:
+  father: http://web2py.com/poweredby
+  child: http://www.onsalexander.nl
+  depth: 3
+  access: false
+url_734:
+  father: http://web2py.com/poweredby
+  child: http://www.tourdecure.com.au
+  depth: 3
+  access: true
+url_735:
+  father: http://web2py.com/poweredby
+  child: http://www.egasolineras.com
+  depth: 3
+  access: false
+url_736:
+  father: http://web2py.com/poweredby
+  child: http://www.phoenixwritinggroup.org.uk
+  depth: 3
+  access: false
+url_737:
+  father: http://web2py.com/poweredby
+  child: http://www.movie-alarm.de
+  depth: 3
+  access: true
+url_738:
+  father: http://web2py.com/poweredby
+  child: http://parking.integreen-life.bz.it
+  depth: 3
+  access: false
+url_739:
+  father: http://web2py.com/poweredby
+  child: http://traffic.integreen-life.bz.it
+  depth: 3
+  access: false
+url_740:
+  father: http://web2py.com/poweredby
+  child: http://www.start.astrozon.com
+  depth: 3
+  access: true
+url_741:
+  father: http://web2py.com/poweredby
+  child: http://meutrampo.com.br
+  depth: 3
+  access: false
+url_742:
+  father: http://web2py.com/poweredby
+  child: http://ispikit.com
+  depth: 3
+  access: false
+url_743:
+  father: http://web2py.com/poweredby
+  child: http://www.chartup.de
+  depth: 3
+  access: true
+url_744:
+  father: http://web2py.com/poweredby
+  child: http://www.ai-therapy.com
+  depth: 3
+  access: true
+url_745:
+  father: http://web2py.com/poweredby
+  child: http://www.unlogged.co.uk
+  depth: 3
+  access: false
+url_746:
+  father: http://web2py.com/poweredby
+  child: http://www.tvconsultoria.com.br
+  depth: 3
+  access: true
+url_747:
+  father: http://web2py.com/poweredby
+  child: http://www.menuvegano.com.br
+  depth: 3
+  access: false
+url_748:
+  father: http://web2py.com/poweredby
+  child: http://oregpreshaz.eu
+  depth: 3
+  access: true
+url_749:
+  father: http://web2py.com/poweredby
+  child: http://appthwack.com
+  depth: 3
+  access: true
+url_750:
+  father: http://web2py.com/poweredby
+  child: http://www.paneido.com
+  depth: 3
+  access: true
+url_751:
+  father: http://web2py.com/poweredby
+  child: http://www.tv2lan.com
+  depth: 3
+  access: false
+url_752:
+  father: http://web2py.com/poweredby
+  child: http://www.formatics.nl
+  depth: 3
+  access: true
+url_753:
+  father: http://web2py.com/poweredby
+  child: http://www.paradigmshift.tv
+  depth: 3
+  access: true
+url_754:
+  father: http://web2py.com/poweredby
+  child: http://vinumcaseus.com
+  depth: 3
+  access: false
+url_755:
+  father: http://web2py.com/poweredby
+  child: http://www.ukjazz.net
+  depth: 3
+  access: false
+url_756:
+  father: http://web2py.com/poweredby
+  child: http://www.yakitome.com
+  depth: 3
+  access: true
+url_757:
+  father: http://web2py.com/poweredby
+  child: http://www.grafpad.com
+  depth: 3
+  access: false
+url_758:
+  father: http://web2py.com/poweredby
+  child: http://www.starmakerstudios.com
+  depth: 3
+  access: true
+url_759:
+  father: http://web2py.com/poweredby
+  child: http://www.filtons.com
+  depth: 3
+  access: true
+url_760:
+  father: http://web2py.com/poweredby
+  child: http://airea.me
+  depth: 3
+  access: false
+url_761:
+  father: http://web2py.com/poweredby
+  child: http://pricetack.com
+  depth: 3
+  access: true
+url_762:
+  father: http://web2py.com/poweredby
+  child: http://www.cvstash.com
+  depth: 3
+  access: false
+url_763:
+  father: http://web2py.com/poweredby
+  child: http://mytop10gift.appspot.com
+  depth: 3
+  access: false
+url_764:
+  father: http://web2py.com/poweredby
+  child: http://www.opensvc.com
+  depth: 3
+  access: true
+url_765:
+  father: http://web2py.com/poweredby
+  child: http://www.semanticsbml.org/semanticSBML
+  depth: 3
+  access: true
+url_766:
+  father: http://web2py.com/poweredby
+  child: http://www.exodus-fest.appspot.com
+  depth: 3
+  access: false
+url_767:
+  father: http://web2py.com/poweredby
+  child: http://pressroom.latinux.com
+  depth: 3
+  access: false
+url_768:
+  father: http://web2py.com/poweredby
+  child: http://pymines.appspot.com
+  depth: 3
+  access: false
+url_769:
+  father: http://web2py.com/poweredby
+  child: http://www.latinuxmagazine.com
+  depth: 3
+  access: false
+url_770:
+  father: http://web2py.com/poweredby
+  child: http://www.domain-name-registration.co.za
+  depth: 3
+  access: false
+url_771:
+  father: http://web2py.com/poweredby
+  child: http://instant2press.appspot.com
+  depth: 3
+  access: false
+url_772:
+  father: http://web2py.com/poweredby
+  child: http://www.whitepeaksoftware.com
+  depth: 3
+  access: true
+url_773:
+  father: http://web2py.com/poweredby
+  child: http://www.techfuel.net
+  depth: 3
+  access: true
+url_774:
+  father: http://web2py.com/poweredby
+  child: http://www.seccion36.org.mx
+  depth: 3
+  access: true
+url_775:
+  father: http://web2py.com/poweredby
+  child: http://www.jwfind.net
+  depth: 3
+  access: true
+url_776:
+  father: http://web2py.com/poweredby
+  child: http://wavedirectory.appspot.com
+  depth: 3
+  access: false
+url_777:
+  father: http://web2py.com/poweredby
+  child: http://w2popenid.appspot.com
+  depth: 3
+  access: false
+url_778:
+  father: http://web2py.com/poweredby
+  child: http://fightalzheimers.appspot.com
+  depth: 3
+  access: false
+url_779:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Experience/index.html
+  depth: 3
+  access: true
+url_780:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Commission/index.html
+  depth: 3
+  access: true
+url_781:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Oxidation/index.html
+  depth: 3
+  access: true
+url_782:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/BlueStatic/index.html
+  depth: 3
+  access: true
+url_783:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/EfflorescenceBlue/index.html
+  depth: 3
+  access: true
+url_784:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Spaced/index.html
+  depth: 3
+  access: true
+url_785:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/NewsFlash/index.html
+  depth: 3
+  access: true
+url_786:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/hexahedron/index.html
+  depth: 3
+  access: true
+url_787:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Voyage/index.html
+  depth: 3
+  access: true
+url_788:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Squarely/index.html
+  depth: 3
+  access: true
+url_789:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/PinkFloat/index.html
+  depth: 3
+  access: true
+url_790:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/PremiumSeries/index.html
+  depth: 3
+  access: true
+url_791:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Blogging/index.html
+  depth: 3
+  access: true
+url_792:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Papira/index.html
+  depth: 3
+  access: true
+url_793:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Clicker/index.html
+  depth: 3
+  access: true
+url_794:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/CorporateOffice/index.html
+  depth: 3
+  access: true
+url_795:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Embouteillage/index.html
+  depth: 3
+  access: true
+url_796:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Branches/index.html
+  depth: 3
+  access: true
+url_797:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/EfflorescenceOrange/index.html
+  depth: 3
+  access: true
+url_798:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Incorporated/index.html
+  depth: 3
+  access: true
+url_799:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/HotAirBalloons/index.html
+  depth: 3
+  access: true
+url_800:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Simpletex/index.html
+  depth: 3
+  access: true
+url_801:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/RoundHouse/index.html
+  depth: 3
+  access: true
+url_802:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/TheMissingPiece/index.html
+  depth: 3
+  access: true
+url_803:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/TheIsland/index.html
+  depth: 3
+  access: true
+url_804:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Thingreenline/index.html
+  depth: 3
+  access: true
+url_805:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Extracts/index.html
+  depth: 3
+  access: true
+url_806:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/FCTPuzzled/index.html
+  depth: 3
+  access: true
+url_807:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Pluralism/index.html
+  depth: 3
+  access: true
+url_808:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Colorus/index.html
+  depth: 3
+  access: true
+url_809:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/KeepitSimple/index.html
+  depth: 3
+  access: true
+url_810:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/FCTInnovation/index.html
+  depth: 3
+  access: true
+url_811:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Reference/index.html
+  depth: 3
+  access: true
+url_812:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/EfflorescencePurple/index.html
+  depth: 3
+  access: true
+url_813:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/OrangeandBlack/index.html
+  depth: 3
+  access: true
+url_814:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Customize/index.html
+  depth: 3
+  access: true
+url_815:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/VioletRay/index.html
+  depth: 3
+  access: true
+url_816:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/solutionblue/index.html
+  depth: 3
+  access: true
+url_817:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Neutral/index.html
+  depth: 3
+  access: true
+url_818:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Tastelessly/index.html
+  depth: 3
+  access: true
+url_819:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Bounderies/index.html
+  depth: 3
+  access: true
+url_820:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Replenish/index.html
+  depth: 3
+  access: true
+url_821:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Pressurized/index.html
+  depth: 3
+  access: true
+url_822:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Subordinate/index.html
+  depth: 3
+  access: true
+url_823:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Unqualified/index.html
+  depth: 3
+  access: true
+url_824:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/sliced/index.html
+  depth: 3
+  access: true
+url_825:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/GreenandPlain/index.html
+  depth: 3
+  access: true
+url_826:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/solutionorange/index.html
+  depth: 3
+  access: true
+url_827:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Balanced/index.html
+  depth: 3
+  access: true
+url_828:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Sampling/index.html
+  depth: 3
+  access: true
+url_829:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/SnowCrystals/index.html
+  depth: 3
+  access: true
+url_830:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/RedCity/index.html
+  depth: 3
+  access: true
+url_831:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/EfflorescenceGreen/index.html
+  depth: 3
+  access: true
+url_832:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/FlashyWeb/index.html
+  depth: 3
+  access: true
+url_833:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/CupofCoffee/index.html
+  depth: 3
+  access: true
+url_834:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/PetCharms/index.html
+  depth: 3
+  access: true
+url_835:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/OldArchitecture/index.html
+  depth: 3
+  access: true
+url_836:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Glazed/index.html
+  depth: 3
+  access: true
+url_837:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Chasmogamous/index.html
+  depth: 3
+  access: true
+url_838:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/ConcreteV2/index.html
+  depth: 3
+  access: true
+url_839:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Compromise/index.html
+  depth: 3
+  access: true
+url_840:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/FreshLight/index.html
+  depth: 3
+  access: true
+url_841:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/FCTHarvest/index.html
+  depth: 3
+  access: true
+url_842:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Optimism/index.html
+  depth: 3
+  access: true
+url_843:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Whitelight/index.html
+  depth: 3
+  access: true
+url_844:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/FunRide/index.html
+  depth: 3
+  access: true
+url_845:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Excess/index.html
+  depth: 3
+  access: true
+url_846:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Transient/index.html
+  depth: 3
+  access: true
+url_847:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/solutiongreen/index.html
+  depth: 3
+  access: true
+url_848:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/TinyBlue/index.html
+  depth: 3
+  access: true
+url_849:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/External/index.html
+  depth: 3
+  access: true
+url_850:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Uncomplicated/index.html
+  depth: 3
+  access: true
+url_851:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/BackgroundGreen/index.html
+  depth: 3
+  access: true
+url_852:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Instant/index.html
+  depth: 3
+  access: true
+url_853:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/BackgroundBlue/index.html
+  depth: 3
+  access: true
+url_854:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Miscellaneous/index.html
+  depth: 3
+  access: true
+url_855:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/LongBeach/index.html
+  depth: 3
+  access: true
+url_856:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Stardust/index.html
+  depth: 3
+  access: true
+url_857:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/CityLights/index.html
+  depth: 3
+  access: true
+url_858:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Interlude/index.html
+  depth: 3
+  access: true
+url_859:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Abrasive/index.html
+  depth: 3
+  access: true
+url_860:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Frozenage/index.html
+  depth: 3
+  access: true
+url_861:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Flourish/index.html
+  depth: 3
+  access: true
+url_862:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/BlogSmith/index.html
+  depth: 3
+  access: true
+url_863:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Hibiscus/index.html
+  depth: 3
+  access: true
+url_864:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Astroturfd/index.html
+  depth: 3
+  access: true
+url_865:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/orangeflower/index.html
+  depth: 3
+  access: true
+url_866:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Blend/index.html
+  depth: 3
+  access: true
+url_867:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Emporium/index.html
+  depth: 3
+  access: true
+url_868:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Rambling/index.html
+  depth: 3
+  access: true
+url_869:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/StickyBud/index.html
+  depth: 3
+  access: true
+url_870:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Boorish/index.html
+  depth: 3
+  access: true
+url_871:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Industrial/index.html
+  depth: 3
+  access: true
+url_872:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Settings/index.html
+  depth: 3
+  access: true
+url_873:
+  father: http://www.web2py.com/layouts
+  child: http://www.web2py.com/layouts/static/plugin_layouts/layouts/Efflorescence/index.html
+  depth: 3
+  access: true
+url_874:
+  father: http://www.web2py.com/appliances
+  child: http://www.web2py.com/index.html
+  depth: 3
+  access: false
+url_875:
+  father: http://www.web2py.com/appliances
+  child: http://www.templatemo.com
+  depth: 3
+  access: true
+url_876:
+  father: http://www.web2py.com/appliances
+  child: http://www.flashmo.com
+  depth: 3
+  access: true
+url_877:
+  father: http://www.web2py.com/appliances
+  child: http://www.flashmo.com/store
+  depth: 3
+  access: false
+url_878:
+  father: http://www.web2py.com/appliances
+  child: http://www.webdesignmo.com/blog
+  depth: 3
+  access: true
+url_879:
+  father: http://www.web2py.com/appliances
+  child: http://www.koflash.com
+  depth: 3
+  access: true
+url_880:
+  father: http://www.web2py.com/appliances
+  child: http://validator.w3.org/check
+  depth: 3
+  access: true
+url_881:
+  father: http://www.web2py.com/appliances
+  child: http://www.iwebsitetemplate.com
+  depth: 3
+  access: true
+url_882:
+  father: https://www.facebook.com/web2py
+  child: https://www.facebook.com/data/manifest
+  depth: 3
+  access: true
+url_883:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/genindex.html
+  depth: 3
+  access: true
+url_884:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/search.html
+  depth: 3
+  access: true
+url_885:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/containers.html
+  depth: 3
+  access: true
+url_886:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/tutorial_hist.html
+  depth: 3
+  access: true
+url_887:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/tutorial_macros.html
+  depth: 3
+  access: true
+url_888:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/tutorial_xonsh_projects.html
+  depth: 3
+  access: true
+url_889:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/tutorial_events.html
+  depth: 3
+  access: true
+url_890:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/tutorial_completers.html
+  depth: 3
+  access: true
+url_891:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/tutorial_history_backend.html
+  depth: 3
+  access: true
+url_892:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/tutorial_subproc_strings.html
+  depth: 3
+  access: true
+url_893:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/tutorial_ptk.html
+  depth: 3
+  access: true
+url_894:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/bash_to_xsh.html
+  depth: 3
+  access: true
+url_895:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/editors.html
+  depth: 3
+  access: true
+url_896:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/subproc_types.html
+  depth: 3
+  access: true
+url_897:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/python_virtual_environments.html
+  depth: 3
+  access: true
+url_898:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/keyboard_shortcuts.html
+  depth: 3
+  access: true
+url_899:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/xonshrc.html
+  depth: 3
+  access: true
+url_900:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/customization.html
+  depth: 3
+  access: true
+url_901:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/envvars.html
+  depth: 3
+  access: true
+url_902:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/aliases.html
+  depth: 3
+  access: true
+url_903:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/events.html
+  depth: 3
+  access: true
+url_904:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/platform-issues.html
+  depth: 3
+  access: true
+url_905:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/index.html
+  depth: 3
+  access: true
+url_906:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/lang/xonsh.lexer.html
+  depth: 3
+  access: true
+url_907:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/lang/xonsh.parser.html
+  depth: 3
+  access: true
+url_908:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/lang/xonsh.ast.html
+  depth: 3
+  access: true
+url_909:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/lang/xonsh.execer.html
+  depth: 3
+  access: true
+url_910:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/lang/xonsh.imphooks.html
+  depth: 3
+  access: true
+url_911:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.built_ins.html
+  depth: 3
+  access: true
+url_912:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.environ.html
+  depth: 3
+  access: true
+url_913:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.aliases.html
+  depth: 3
+  access: true
+url_914:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.dirstack.html
+  depth: 3
+  access: true
+url_915:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.jobs.html
+  depth: 3
+  access: true
+url_916:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.procs.html
+  depth: 3
+  access: true
+url_917:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.procs.pipelines.html
+  depth: 3
+  access: true
+url_918:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.procs.posix.html
+  depth: 3
+  access: true
+url_919:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.procs.proxies.html
+  depth: 3
+  access: true
+url_920:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.procs.readers.html
+  depth: 3
+  access: true
+url_921:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.procs.specs.html
+  depth: 3
+  access: true
+url_922:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.inspectors.html
+  depth: 3
+  access: true
+url_923:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.history.html
+  depth: 3
+  access: true
+url_924:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.history.base.html
+  depth: 3
+  access: true
+url_925:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.history.dummy.html
+  depth: 3
+  access: true
+url_926:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.history.json.html
+  depth: 3
+  access: true
+url_927:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.history.main.html
+  depth: 3
+  access: true
+url_928:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.history.sqlite.html
+  depth: 3
+  access: true
+url_929:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.completer.html
+  depth: 3
+  access: true
+url_930:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.completers.html
+  depth: 3
+  access: true
+url_931:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.completers.base.html
+  depth: 3
+  access: true
+url_932:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.completers.bash.html
+  depth: 3
+  access: true
+url_933:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.completers.bash_completion.html
+  depth: 3
+  access: true
+url_934:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.completers.commands.html
+  depth: 3
+  access: true
+url_935:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.completers.completer.html
+  depth: 3
+  access: true
+url_936:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.completers.dirs.html
+  depth: 3
+  access: true
+url_937:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.completers.environment.html
+  depth: 3
+  access: true
+url_938:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.completers.imports.html
+  depth: 3
+  access: true
+url_939:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.completers.init.html
+  depth: 3
+  access: true
+url_940:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.completers.man.html
+  depth: 3
+  access: true
+url_941:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.completers.path.html
+  depth: 3
+  access: true
+url_942:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.completers.python.html
+  depth: 3
+  access: true
+url_943:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.completers.tools.html
+  depth: 3
+  access: true
+url_944:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.prompt.html
+  depth: 3
+  access: true
+url_945:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.prompt.base.html
+  depth: 3
+  access: true
+url_946:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.prompt.cwd.html
+  depth: 3
+  access: true
+url_947:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.prompt.env.html
+  depth: 3
+  access: true
+url_948:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.prompt.gitstatus.html
+  depth: 3
+  access: true
+url_949:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.prompt.job.html
+  depth: 3
+  access: true
+url_950:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.prompt.times.html
+  depth: 3
+  access: true
+url_951:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.prompt.vc.html
+  depth: 3
+  access: true
+url_952:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.shell.html
+  depth: 3
+  access: true
+url_953:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.base_shell.html
+  depth: 3
+  access: true
+url_954:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.readline_shell.html
+  depth: 3
+  access: true
+url_955:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.ptk_shell.html
+  depth: 3
+  access: true
+url_956:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.ptk_shell.completer.html
+  depth: 3
+  access: true
+url_957:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.ptk_shell.formatter.html
+  depth: 3
+  access: true
+url_958:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.ptk_shell.history.html
+  depth: 3
+  access: true
+url_959:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.ptk_shell.key_bindings.html
+  depth: 3
+  access: true
+url_960:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.ptk_shell.shell.html
+  depth: 3
+  access: true
+url_961:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.ptk_shell.updator.html
+  depth: 3
+  access: true
+url_962:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.pretty.html
+  depth: 3
+  access: true
+url_963:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.diff_history.html
+  depth: 3
+  access: true
+url_964:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.xoreutils.html
+  depth: 3
+  access: true
+url_965:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.xoreutils.cat.html
+  depth: 3
+  access: true
+url_966:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.xoreutils.echo.html
+  depth: 3
+  access: true
+url_967:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.xoreutils.pwd.html
+  depth: 3
+  access: true
+url_968:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.xoreutils.tee.html
+  depth: 3
+  access: true
+url_969:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.xoreutils.tty.html
+  depth: 3
+  access: true
+url_970:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.xoreutils.ulimit.html
+  depth: 3
+  access: true
+url_971:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.xoreutils.umask.html
+  depth: 3
+  access: true
+url_972:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.xoreutils.uname.html
+  depth: 3
+  access: true
+url_973:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.xoreutils.uptime.html
+  depth: 3
+  access: true
+url_974:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.xoreutils.util.html
+  depth: 3
+  access: true
+url_975:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.xoreutils.which.html
+  depth: 3
+  access: true
+url_976:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/cmd/xonsh.xoreutils.yes.html
+  depth: 3
+  access: true
+url_977:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/helpers/xonsh.events.html
+  depth: 3
+  access: true
+url_978:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/helpers/xonsh.lib.html
+  depth: 3
+  access: true
+url_979:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/helpers/xonsh.lib.collections.html
+  depth: 3
+  access: true
+url_980:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/helpers/xonsh.lib.itertools.html
+  depth: 3
+  access: true
+url_981:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/helpers/xonsh.lib.modules.html
+  depth: 3
+  access: true
+url_982:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/helpers/xonsh.lib.os.html
+  depth: 3
+  access: true
+url_983:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/helpers/xonsh.lib.subprocess.html
+  depth: 3
+  access: true
+url_984:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/helpers/xonsh.tools.html
+  depth: 3
+  access: true
+url_985:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/helpers/xonsh.platform.html
+  depth: 3
+  access: true
+url_986:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/helpers/xonsh.jsonutils.html
+  depth: 3
+  access: true
+url_987:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/helpers/xonsh.lazyjson.html
+  depth: 3
+  access: true
+url_988:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/helpers/xonsh.lazyasd.html
+  depth: 3
+  access: true
+url_989:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/helpers/xonsh.openpy.html
+  depth: 3
+  access: true
+url_990:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/helpers/xonsh.foreign_shells.html
+  depth: 3
+  access: true
+url_991:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/helpers/xonsh.commands_cache.html
+  depth: 3
+  access: true
+url_992:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/helpers/xonsh.tracer.html
+  depth: 3
+  access: true
+url_993:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/helpers/xonsh.main.html
+  depth: 3
+  access: true
+url_994:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/helpers/xonsh.color_tools.html
+  depth: 3
+  access: true
+url_995:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/helpers/xonsh.pyghooks.html
+  depth: 3
+  access: true
+url_996:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/helpers/xonsh.dumb_shell.html
+  depth: 3
+  access: true
+url_997:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/helpers/xonsh.wizard.html
+  depth: 3
+  access: true
+url_998:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/helpers/xonsh.xonfig.html
+  depth: 3
+  access: true
+url_999:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/helpers/xonsh.xontribs.html
+  depth: 3
+  access: true
+url_1000:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/helpers/xonsh.codecache.html
+  depth: 3
+  access: true
+url_1001:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/helpers/xonsh.contexts.html
+  depth: 3
+  access: true
+url_1002:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/xontribs/xontrib.html
+  depth: 3
+  access: true
+url_1003:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/xontribs/xontrib.abbrevs.html
+  depth: 3
+  access: true
+url_1004:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/xontribs/xontrib.autovox.html
+  depth: 3
+  access: true
+url_1005:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/xontribs/xontrib.bashisms.html
+  depth: 3
+  access: true
+url_1006:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/xontribs/xontrib.coreutils.html
+  depth: 3
+  access: true
+url_1007:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/xontribs/xontrib.fish_completer.html
+  depth: 3
+  access: true
+url_1008:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/xontribs/xontrib.free_cwd.html
+  depth: 3
+  access: true
+url_1009:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/xontribs/xontrib.pdb.html
+  depth: 3
+  access: true
+url_1010:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/xontribs/xontrib.prompt_ret_code.html
+  depth: 3
+  access: true
+url_1011:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/xontribs/xontrib.vox.html
+  depth: 3
+  access: true
+url_1012:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/xontribs/xontrib.voxapi.html
+  depth: 3
+  access: true
+url_1013:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/xontribs/xontrib.whole_word_jumping.html
+  depth: 3
+  access: true
+url_1014:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/api/_autosummary/xontribs/xontrib.xog.html
+  depth: 3
+  access: true
+url_1015:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/advanced_events.html
+  depth: 3
+  access: true
+url_1016:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/changelog.html
+  depth: 3
+  access: true
+url_1017:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/faq.html
+  depth: 3
+  access: true
+url_1018:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/todo.html
+  depth: 3
+  access: true
+url_1019:
+  father: https://xon.sh/contents.html
+  child: https://numpy.org/neps/nep-0029-deprecation_policy.html
+  depth: 3
+  access: true
+url_1020:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/talks_and_articles.html
+  depth: 3
+  access: true
+url_1021:
+  father: https://xon.sh/contents.html
+  child: https://xon.sh/py-modindex.html
+  depth: 3
+  access: true
+url_1022:
+  father: https://xon.sh/contents.html
+  child: https://pradyunsg.me
+  depth: 3
+  access: true
+url_1023:
+  father: https://xon.sh/tutorial.html
+  child: http://xon.sh
+  depth: 3
+  access: true
+url_1024:
+  father: https://xon.sh/packages.html
+  child: https://xon.sh/platform-issues.rst
+  depth: 3
+  access: false
+url_1025:
+  father: https://en.wikipedia.org/wiki/Rolling_release
+  child: https://creativecommons.org/licenses/by-sa/4.0/deed.en
+  depth: 3
+  access: true
+url_1026:
+  father: https://en.wikipedia.org/wiki/Rolling_release
+  child: https://en.wikipedia.org/wiki/Main_Page
+  depth: 3
+  access: true
+url_1027:
+  father: https://en.wikipedia.org/wiki/Rolling_release
+  child: https://ca.wikipedia.org/wiki/Alliberament_continu
+  depth: 3
+  access: true
+url_1028:
+  father: https://en.wikipedia.org/wiki/Rolling_release
+  child: https://de.wikipedia.org/wiki/Rolling_Release
+  depth: 3
+  access: true
+url_1029:
+  father: https://en.wikipedia.org/wiki/Rolling_release
+  child: https://fr.wikipedia.org/wiki/Rolling_release
+  depth: 3
+  access: true
+url_1030:
+  father: https://en.wikipedia.org/wiki/Rolling_release
+  child: https://id.wikipedia.org/wiki/Rilis_bergulir
+  depth: 3
+  access: true
+url_1031:
+  father: https://en.wikipedia.org/wiki/Rolling_release
+  child: https://it.wikipedia.org/wiki/Rolling_release
+  depth: 3
+  access: true
+url_1032:
+  father: https://en.wikipedia.org/wiki/Rolling_release
+  child: https://nl.wikipedia.org/wiki/Rolling_release
+  depth: 3
+  access: true
+url_1033:
+  father: https://en.wikipedia.org/wiki/Rolling_release
+  child: https://no.wikipedia.org/wiki/Rullende_utgivelse
+  depth: 3
+  access: true
+url_1034:
+  father: https://en.wikipedia.org/wiki/Rolling_release
+  child: https://pl.wikipedia.org/wiki/Rolling_release
+  depth: 3
+  access: true
+url_1035:
+  father: https://en.wikipedia.org/wiki/Rolling_release
+  child: https://pt.wikipedia.org/wiki/Rolling_release
+  depth: 3
+  access: true
+url_1036:
+  father: https://en.wikipedia.org/wiki/Rolling_release
+  child: https://ru.wikipedia.org/wiki/Rolling_release
+  depth: 3
+  access: true
+url_1037:
+  father: https://en.wikipedia.org/wiki/Rolling_release
+  child: https://fi.wikipedia.org/wiki/Rolling_release
+  depth: 3
+  access: true
+url_1038:
+  father: https://en.wikipedia.org/wiki/Rolling_release
+  child: https://uk.wikipedia.org/wiki/Rolling_release
+  depth: 3
+  access: true
+url_1039:
+  father: https://en.wikipedia.org/wiki/Rolling_release
+  child: https://en.wikipedia.org/wiki/Continuous_delivery
+  depth: 3
+  access: true
+url_1040:
+  father: https://en.wikipedia.org/wiki/Rolling_release
+  child: https://en.wikipedia.org/wiki/Software_development
+  depth: 3
+  access: true
+url_1041:
+  father: https://en.wikipedia.org/wiki/Rolling_release
+  child: https://en.wikipedia.org/wiki/Point_release
+  depth: 3
+  access: true
+url_1042:
+  father: https://en.wikipedia.org/wiki/Rolling_release
+  child: https://en.wikipedia.org/wiki/Software_versioning
+  depth: 3
+  access: true
+url_1043:
+  father: https://en.wikipedia.org/wiki/Rolling_release
+  child: https://en.wikipedia.org/wiki/Ubuntu_Linux
+  depth: 3
+  access: true
+url_1044:
+  father: https://en.wikipedia.org/wiki/Rolling_release
+  child: https://en.wikipedia.org/wiki/Arch_Linux
+  depth: 3
+  access: true
+url_1045:
+  father: https://en.wikipedia.org/wiki/Rolling_release
+  child: https://en.wikipedia.org/wiki/Software_release_life_cycle
+  depth: 3
+  access: true
+url_1046:
+  father: https://en.wikipedia.org/wiki/Rolling_release
+  child: https://en.wikipedia.org/wiki/Linux_distribution
+  depth: 3
+  access: true
+url_1047:
+  father: https://en.wikipedia.org/wiki/Rolling_release
+  child: https://en.wikipedia.org/wiki/GNU_Guix_System
+  depth: 3
+  access: true
+url_1048:
+  father: https://en.wikipedia.org/wiki/Rolling_release
+  child: https://en.wikipedia.org/wiki/Gentoo_Linux
+  depth: 3
+  access: true
+url_1049:
+  father: https://en.wikipedia.org/wiki/Rolling_release
+  child: https://en.wikipedia.org/wiki/OpenSUSE
+  depth: 3
+  access: true
+url_1050:
+  father: https://en.wikipedia.org/wiki/Rolling_release
+  child: https://en.wikipedia.org/wiki/PCLinuxOS
+  depth: 3
+  access: true
+url_1051:
+  father: https://en.wikipedia.org/wiki/Rolling_release
+  child: https://en.wikipedia.org/wiki/SparkyLinux
+  depth: 3
+  access: true
+url_1052:
+  father: https://en.wikipedia.org/wiki/Rolling_release
+  child: https://en.wikipedia.org/wiki/Void_Linux
+  depth: 3
+  access: true
+url_1053:
+  father: https://en.wikipedia.org/wiki/Rolling_release
+  child: https://en.wikipedia.org/wiki/Distributed_SQL
+  depth: 3
+  access: true
+url_1054:
+  father: https://en.wikipedia.org/wiki/Rolling_release
+  child: https://en.wikipedia.org/wiki/YugabyteDB
+  depth: 3
+  access: true
+url_1055:
+  father: https://en.wikipedia.org/wiki/Rolling_release
+  child: https://en.wikipedia.org/wiki/Source-code
+  depth: 3
+  access: true
+url_1056:
+  father: https://en.wikipedia.org/wiki/Rolling_release
+  child: https://en.wikipedia.org/wiki/Software_update
+  depth: 3
+  access: true
+url_1057:
+  father: https://en.wikipedia.org/wiki/Rolling_release
+  child: https://en.wikipedia.org/wiki/Package_management_system
+  depth: 3
+  access: true
+url_1058:
+  father: https://en.wikipedia.org/wiki/Rolling_release
+  child: https://en.wikipedia.org/wiki/Personal_computer
+  depth: 3
+  access: true
+url_1059:
+  father: https://en.wikipedia.org/wiki/Rolling_release
+  child: https://en.wikipedia.org/wiki/Internet
+  depth: 3
+  access: true
+url_1060:
+  father: https://en.wikipedia.org/wiki/Rolling_release
+  child: https://en.wikipedia.org/wiki/Software_repository
+  depth: 3
+  access: true
+url_1061:
+  father: https://en.wikipedia.org/wiki/Rolling_release
+  child: https://en.wikipedia.org/wiki/Web_mirror
+  depth: 3
+  access: true
+url_1062:
+  father: https://en.wikipedia.org/wiki/Rolling_release
+  child: https://en.wikipedia.org/wiki/File_server
+  depth: 3
+  access: true
+url_1063:
+  father: https://en.wikipedia.org/wiki/Rolling_release
+  child: https://www.wisegeek.com/what-is-a-rolling-release.htm
+  depth: 3
+  access: true
+url_1064:
+  father: https://en.wikipedia.org/wiki/Rolling_release
+  child: https://www.zdnet.com/article/rolling-release-vs-fixed-release-linux
+  depth: 3
+  access: true
+url_1065:
+  father: https://en.wikipedia.org/wiki/Rolling_release
+  child: https://en.wikipedia.org/wiki/ZDNet
+  depth: 3
+  access: true
+url_1066:
+  father: http://www.oftc.net
+  child: https://www.oftc.net
+  depth: 3
+  access: true
+url_1067:
+  father: https://xon.sh/tutorial_xontrib.html
+  child: https://xonsh.github.io/awesome-xontribs
+  depth: 3
+  access: true
+url_1068:
+  father: https://xon.sh/tutorial_xontrib.html
+  child: https://ipython.readthedocs.io/en/stable/config/extensions/index.html
+  depth: 3
+  access: true
+url_1069:
+  father: https://xon.sh/tutorial_xontrib.html
+  child: http://ohmyz.sh
+  depth: 3
+  access: true
+url_1070:
+  father: https://xon.sh/tutorial_xontrib.html
+  child: https://www.python.org/dev/peps/pep-0420
+  depth: 3
+  access: true
+url_1071:
+  father: https://xon.sh/devguide.html
+  child: https://www.python.org/dev/peps/pep-0008
+  depth: 3
+  access: true
+url_1072:
+  father: https://xon.sh/devguide.html
+  child: https://www.sphinx-doc.org/en/master/usage/extensions/autosummary.html
+  depth: 3
+  access: true
+url_1073:
+  father: https://xon.sh/devguide.html
+  child: https://pradyunsg.me/furo
+  depth: 3
+  access: true
+url_1074:
+  father: https://xon.sh/devguide.html
+  child: https://xon.sh/dev
+  depth: 3
+  access: true
+url_1075:
+  father: https://xon.sh/devguide.html
+  child: https://www.docker.com
+  depth: 3
+  access: true
+url_1076:
+  father: https://xon.sh/devguide.html
+  child: https://mxschmitt.github.io/action-tmate
+  depth: 3
+  access: true

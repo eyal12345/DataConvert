@@ -1,0 +1,5 @@
+{
+  "options": ["URL", "Item 2", "Item 3"],
+  "depths": ["0", "1", "2", "3", "4"],
+  "formats": ["txt", "csv", "json", "yml", "xml", "xlsx", "db"]
+}

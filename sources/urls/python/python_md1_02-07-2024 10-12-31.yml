@@ -1,0 +1,415 @@
+url_0:
+  father: child input
+  child: https://www.python.org
+  depth: 0
+  access: true
+url_1:
+  father: https://www.python.org
+  child: https://www.python.org/jobs/feed/rss
+  depth: 1
+  access: true
+url_2:
+  father: https://www.python.org
+  child: https://feeds.feedburner.com/PythonSoftwareFoundationNews
+  depth: 1
+  access: true
+url_3:
+  father: https://www.python.org
+  child: https://feeds.feedburner.com/PythonInsider
+  depth: 1
+  access: true
+url_4:
+  father: https://www.python.org
+  child: http://browsehappy.com
+  depth: 1
+  access: true
+url_5:
+  father: https://www.python.org
+  child: https://www.python.org/psf
+  depth: 1
+  access: true
+url_6:
+  father: https://www.python.org
+  child: https://www.python.org/jobs
+  depth: 1
+  access: true
+url_7:
+  father: https://www.python.org
+  child: https://www.python.org/community-landing
+  depth: 1
+  access: true
+url_8:
+  father: https://www.python.org
+  child: https://www.facebook.com/pythonlang
+  depth: 1
+  access: true
+url_9:
+  father: https://www.python.org
+  child: https://twitter.com/ThePSF
+  depth: 1
+  access: false
+url_10:
+  father: https://www.python.org
+  child: https://www.python.org/community/irc
+  depth: 1
+  access: true
+url_11:
+  father: https://www.python.org
+  child: https://www.python.org/about
+  depth: 1
+  access: true
+url_12:
+  father: https://www.python.org
+  child: https://www.python.org/about/apps
+  depth: 1
+  access: true
+url_13:
+  father: https://www.python.org
+  child: https://www.python.org/about/quotes
+  depth: 1
+  access: true
+url_14:
+  father: https://www.python.org
+  child: https://www.python.org/about/gettingstarted
+  depth: 1
+  access: true
+url_15:
+  father: https://www.python.org
+  child: https://www.python.org/about/help
+  depth: 1
+  access: true
+url_16:
+  father: https://www.python.org
+  child: https://www.python.org/downloads
+  depth: 1
+  access: true
+url_17:
+  father: https://www.python.org
+  child: https://www.python.org/downloads/source
+  depth: 1
+  access: true
+url_18:
+  father: https://www.python.org
+  child: https://www.python.org/downloads/windows
+  depth: 1
+  access: true
+url_19:
+  father: https://www.python.org
+  child: https://www.python.org/downloads/macos
+  depth: 1
+  access: true
+url_20:
+  father: https://www.python.org
+  child: https://www.python.org/download/other
+  depth: 1
+  access: true
+url_21:
+  father: https://www.python.org
+  child: https://www.python.org/download/alternatives
+  depth: 1
+  access: true
+url_22:
+  father: https://www.python.org
+  child: https://www.python.org/doc
+  depth: 1
+  access: true
+url_23:
+  father: https://www.python.org
+  child: https://www.python.org/doc/essays
+  depth: 1
+  access: true
+url_24:
+  father: https://www.python.org
+  child: https://www.python.org/community
+  depth: 1
+  access: true
+url_25:
+  father: https://www.python.org
+  child: https://www.python.org/community/diversity
+  depth: 1
+  access: true
+url_26:
+  father: https://www.python.org
+  child: https://www.python.org/community/lists
+  depth: 1
+  access: true
+url_27:
+  father: https://www.python.org
+  child: https://www.python.org/community/forums
+  depth: 1
+  access: true
+url_28:
+  father: https://www.python.org
+  child: https://www.python.org/psf/annual-report/2021
+  depth: 1
+  access: true
+url_29:
+  father: https://www.python.org
+  child: https://www.python.org/community/workshops
+  depth: 1
+  access: true
+url_30:
+  father: https://www.python.org
+  child: https://www.python.org/community/sigs
+  depth: 1
+  access: true
+url_31:
+  father: https://www.python.org
+  child: https://www.python.org/community/logos
+  depth: 1
+  access: true
+url_32:
+  father: https://www.python.org
+  child: https://www.python.org/psf/conduct
+  depth: 1
+  access: true
+url_33:
+  father: https://www.python.org
+  child: https://www.python.org/community/awards
+  depth: 1
+  access: true
+url_34:
+  father: https://www.python.org
+  child: https://www.python.org/psf/get-involved
+  depth: 1
+  access: true
+url_35:
+  father: https://www.python.org
+  child: https://www.python.org/psf/community-stories
+  depth: 1
+  access: true
+url_36:
+  father: https://www.python.org
+  child: https://www.python.org/success-stories
+  depth: 1
+  access: true
+url_37:
+  father: https://www.python.org
+  child: https://www.python.org/success-stories/category/arts
+  depth: 1
+  access: true
+url_38:
+  father: https://www.python.org
+  child: https://www.python.org/success-stories/category/business
+  depth: 1
+  access: true
+url_39:
+  father: https://www.python.org
+  child: https://www.python.org/success-stories/category/education
+  depth: 1
+  access: true
+url_40:
+  father: https://www.python.org
+  child: https://www.python.org/success-stories/category/engineering
+  depth: 1
+  access: true
+url_41:
+  father: https://www.python.org
+  child: https://www.python.org/success-stories/category/government
+  depth: 1
+  access: true
+url_42:
+  father: https://www.python.org
+  child: https://www.python.org/success-stories/category/scientific
+  depth: 1
+  access: true
+url_43:
+  father: https://www.python.org
+  child: https://www.python.org/success-stories/category/software-development
+  depth: 1
+  access: true
+url_44:
+  father: https://www.python.org
+  child: https://www.python.org/blogs
+  depth: 1
+  access: true
+url_45:
+  father: https://www.python.org
+  child: https://www.python.org/psf/newsletter
+  depth: 1
+  access: true
+url_46:
+  father: https://www.python.org
+  child: http://pyfound.blogspot.com
+  depth: 1
+  access: true
+url_47:
+  father: https://www.python.org
+  child: http://pycon.blogspot.com
+  depth: 1
+  access: true
+url_48:
+  father: https://www.python.org
+  child: https://www.python.org/events
+  depth: 1
+  access: true
+url_49:
+  father: https://www.python.org
+  child: https://www.python.org/events/python-events
+  depth: 1
+  access: true
+url_50:
+  father: https://www.python.org
+  child: https://www.python.org/events/python-user-group
+  depth: 1
+  access: true
+url_51:
+  father: https://www.python.org
+  child: https://www.python.org/events/python-events/past
+  depth: 1
+  access: true
+url_52:
+  father: https://www.python.org
+  child: https://www.python.org/events/python-user-group/past
+  depth: 1
+  access: true
+url_53:
+  father: https://www.python.org
+  child: https://www.python.org/shell
+  depth: 1
+  access: true
+url_54:
+  father: https://www.python.org
+  child: https://www.python.org/downloads/release/python-3122
+  depth: 1
+  access: true
+url_55:
+  father: https://www.python.org
+  child: https://pyfound.blogspot.com/2024/01/kicking-off-2024-strong.html
+  depth: 1
+  access: true
+url_56:
+  father: https://www.python.org
+  child: https://pyfound.blogspot.com/2024/01/announcing-python-software-foundation.html
+  depth: 1
+  access: true
+url_57:
+  father: https://www.python.org
+  child: https://pyfound.blogspot.com/2024/01/announcing-deputy-developer-in.html
+  depth: 1
+  access: true
+url_58:
+  father: https://www.python.org
+  child: https://pythoninsider.blogspot.com/2024/01/python-3130-alpha-3-is-now-available.html
+  depth: 1
+  access: true
+url_59:
+  father: https://www.python.org
+  child: https://pyfound.blogspot.com/2024/01/CRA-update.html
+  depth: 1
+  access: true
+url_60:
+  father: https://www.python.org
+  child: https://www.python.org/events/calendars
+  depth: 1
+  access: true
+url_61:
+  father: https://www.python.org
+  child: https://www.python.org/events/python-user-group/1702
+  depth: 1
+  access: true
+url_62:
+  father: https://www.python.org
+  child: https://www.python.org/events/python-user-group/1658
+  depth: 1
+  access: true
+url_63:
+  father: https://www.python.org
+  child: https://www.python.org/events/python-events/1653
+  depth: 1
+  access: true
+url_64:
+  father: https://www.python.org
+  child: https://www.python.org/events/python-events/1661
+  depth: 1
+  access: true
+url_65:
+  father: https://www.python.org
+  child: https://www.python.org/events/python-user-group/1703
+  depth: 1
+  access: true
+url_66:
+  father: https://www.python.org
+  child: https://www.python.org/success-stories/using-python-with-gretelai-to-generate-synthetic-location-data
+  depth: 1
+  access: true
+url_67:
+  father: https://www.python.org
+  child: http://www.djangoproject.com
+  depth: 1
+  access: true
+url_68:
+  father: https://www.python.org
+  child: http://www.web2py.com
+  depth: 1
+  access: true
+url_69:
+  father: https://www.python.org
+  child: http://www.riverbankcomputing.co.uk/software/pyqt/intro
+  depth: 1
+  access: true
+url_70:
+  father: https://www.python.org
+  child: http://roundup.sourceforge.net
+  depth: 1
+  access: true
+url_71:
+  father: https://www.python.org
+  child: http://www.ansible.com
+  depth: 1
+  access: true
+url_72:
+  father: https://www.python.org
+  child: https://xon.sh
+  depth: 1
+  access: true
+url_73:
+  father: https://www.python.org
+  child: https://www.python.org/dev/peps
+  depth: 1
+  access: true
+url_74:
+  father: https://www.python.org
+  child: https://www.python.org/users/membership
+  depth: 1
+  access: true
+url_75:
+  father: https://www.python.org
+  child: https://www.python.org/psf/donations
+  depth: 1
+  access: true
+url_76:
+  father: https://www.python.org
+  child: https://www.python.org/dev
+  depth: 1
+  access: true
+url_77:
+  father: https://www.python.org
+  child: https://www.python.org/dev/core-mentorship
+  depth: 1
+  access: true
+url_78:
+  father: https://www.python.org
+  child: https://www.python.org/dev/security
+  depth: 1
+  access: true
+url_79:
+  father: https://www.python.org
+  child: https://www.python.org/psf-landing
+  depth: 1
+  access: true
+url_80:
+  father: https://www.python.org
+  child: https://www.python.org/about/legal
+  depth: 1
+  access: true
+url_81:
+  father: https://www.python.org
+  child: https://www.python.org/privacy
+  depth: 1
+  access: true
+url_82:
+  father: https://www.python.org
+  child: https://www.python.org/psf/community-infrastructure
+  depth: 1
+  access: false

@@ -1,0 +1,4 @@
+Discard all local changes (be careful, this is irreversible)
+git reset --hard HEAD
+Pull the latest changes from the remote repository
+git pull origin dev1

@@ -1,0 +1,1041 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+	<url id="&lt;built-in function next&gt;">
+		<father>child input</father>
+		<child>https://www.python.org</child>
+		<depth>0</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/jobs/feed/rss</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://feeds.feedburner.com/PythonSoftwareFoundationNews</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://feeds.feedburner.com/PythonInsider</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>http://browsehappy.com</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/psf</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/jobs</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/community-landing</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.facebook.com/pythonlang</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://twitter.com/ThePSF</child>
+		<depth>1</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/community/irc</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/about</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/about/apps</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/about/quotes</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/about/gettingstarted</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/about/help</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/downloads</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/downloads/source</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/downloads/windows</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/downloads/macos</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/download/other</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/download/alternatives</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/doc</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/doc/essays</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/community</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/community/diversity</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/community/lists</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/community/forums</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/psf/annual-report/2021</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/community/workshops</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/community/sigs</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/community/logos</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/psf/conduct</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/community/awards</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/psf/get-involved</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/psf/community-stories</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/success-stories</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/success-stories/category/arts</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/success-stories/category/business</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/success-stories/category/education</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/success-stories/category/engineering</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/success-stories/category/government</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/success-stories/category/scientific</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/success-stories/category/software-development</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/blogs</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/psf/newsletter</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>http://pyfound.blogspot.com</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>http://pycon.blogspot.com</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/events</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/events/python-events</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/events/python-user-group</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/events/python-events/past</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/events/python-user-group/past</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/shell</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/downloads/release/python-3122</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://pyfound.blogspot.com/2024/02/introducing-psf-grants-office-hours.html</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://pythoninsider.blogspot.com/2024/02/python-3122-and-3118-are-now-available.html</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://pyfound.blogspot.com/2024/01/kicking-off-2024-strong.html</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://pyfound.blogspot.com/2024/01/announcing-python-software-foundation.html</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://pyfound.blogspot.com/2024/01/announcing-deputy-developer-in.html</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/events/calendars</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/events/python-user-group/1702</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/events/python-user-group/1658</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/events/python-events/1653</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/events/python-events/1661</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/events/python-user-group/1703</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/success-stories/building-an-open-source-and-cross-platform-azure-cli-with-python</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>http://www.djangoproject.com</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>http://www.web2py.com</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>http://www.riverbankcomputing.co.uk/software/pyqt/intro</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>http://roundup.sourceforge.net</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>http://www.ansible.com</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://xon.sh</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/dev/peps</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/users/membership</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/psf/donations</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/dev</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/dev/core-mentorship</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/dev/security</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/psf-landing</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/about/legal</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/privacy</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.python.org</father>
+		<child>https://www.python.org/psf/community-infrastructure</child>
+		<depth>1</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://browsehappy.com</father>
+		<child>https://browsehappy.com</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.facebook.com/pythonlang</father>
+		<child>https://www.python.org/data/manifest</child>
+		<depth>2</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://pyfound.blogspot.com/2024/02/introducing-psf-grants-office-hours.html</father>
+		<child>https://pyfound.blogspot.com/feeds/posts/default</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://pyfound.blogspot.com/2024/02/introducing-psf-grants-office-hours.html</father>
+		<child>https://www.blogger.com/feeds/8520/posts/default</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://pyfound.blogspot.com/2024/02/introducing-psf-grants-office-hours.html</father>
+		<child>https://pyfound.blogspot.com/2023/10/september-october-board-votes.html</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://pyfound.blogspot.com/2024/02/introducing-psf-grants-office-hours.html</father>
+		<child>https://discord.gg/7rthGF3BBe</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://pyfound.blogspot.com/2024/02/introducing-psf-grants-office-hours.html</father>
+		<child>https://dateful.com/time-zone-converter</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://pyfound.blogspot.com/2024/02/introducing-psf-grants-office-hours.html</father>
+		<child>https://www.python.org/psf/records/staff</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://pyfound.blogspot.com/2024/02/introducing-psf-grants-office-hours.html</father>
+		<child>https://support.discord.com/hc/en-us/sections/360008206871-Discord-Basics</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://pythoninsider.blogspot.com/2024/02/python-3122-and-3118-are-now-available.html</father>
+		<child>https://discuss.python.org/t/python-3-12-2-and-3-11-8-released/45268</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://pythoninsider.blogspot.com/2024/02/python-3122-and-3118-are-now-available.html</father>
+		<child>https://discuss.python.org/t/create-and-distribute-software-bill-of-materials-sbom-for-python-artifacts/39293</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://pythoninsider.blogspot.com/2024/02/python-3122-and-3118-are-now-available.html</father>
+		<child>https://www.python.org/downloads/release/python-3118</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://pythoninsider.blogspot.com/2024/02/python-3122-and-3118-are-now-available.html</father>
+		<child>http://twitter.com/PythonInsider</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://pythoninsider.blogspot.com/2024/02/python-3122-and-3118-are-now-available.html</father>
+		<child>http://creativecommons.org/licenses/by-nc-sa/3.0</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://pyfound.blogspot.com/2024/01/kicking-off-2024-strong.html</father>
+		<child>https://www.jetbrains.com/pycharm</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://pyfound.blogspot.com/2024/01/kicking-off-2024-strong.html</father>
+		<child>https://www.jetbrains.com</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://pyfound.blogspot.com/2024/01/kicking-off-2024-strong.html</father>
+		<child>https://www.python.org/psf/sponsors</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://pyfound.blogspot.com/2024/01/kicking-off-2024-strong.html</father>
+		<child>https://www.python.org/psf/fiscal-sponsorees</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://pyfound.blogspot.com/2024/01/kicking-off-2024-strong.html</father>
+		<child>https://pyfound.blogspot.com/2022/12/introducing-new-sliding-scale-membership.html</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://pyfound.blogspot.com/2024/01/kicking-off-2024-strong.html</father>
+		<child>https://pyfound.blogspot.com/2022/11/where-is-psf.html</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://pyfound.blogspot.com/2024/01/announcing-python-software-foundation.html</father>
+		<child>https://www.linkedin.com/in/dustingram</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://pyfound.blogspot.com/2024/01/announcing-python-software-foundation.html</father>
+		<child>https://twitter.com/marlene_zw</child>
+		<depth>2</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://pyfound.blogspot.com/2024/01/announcing-python-software-foundation.html</father>
+		<child>http://marlenemhangami.com</child>
+		<depth>2</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://pyfound.blogspot.com/2024/01/announcing-python-software-foundation.html</father>
+		<child>https://www.linkedin.com/in/raquel-dou</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://pyfound.blogspot.com/2024/01/announcing-python-software-foundation.html</father>
+		<child>https://www.python.org/psf/fellows-roster</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://pyfound.blogspot.com/2024/01/announcing-python-software-foundation.html</father>
+		<child>https://www.python.org/psf/fellows</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://pyfound.blogspot.com/2024/01/announcing-deputy-developer-in.html</father>
+		<child>https://pyfound.blogspot.com/2023/02/the-case-for-second-developer-in.html</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.djangoproject.com</father>
+		<child>https://www.djangoproject.com</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.djangoproject.com</father>
+		<child>https://www.djangoproject.com/start/overview</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.djangoproject.com</father>
+		<child>https://www.djangoproject.com/download</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.djangoproject.com</father>
+		<child>https://www.djangoproject.com/weblog</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.djangoproject.com</father>
+		<child>https://www.djangoproject.com/community</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.djangoproject.com</father>
+		<child>https://www.djangoproject.com/foundation</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.djangoproject.com</father>
+		<child>https://www.djangoproject.com/fundraising</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.djangoproject.com</father>
+		<child>https://www.djangoproject.com/start</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.djangoproject.com</father>
+		<child>https://www.djangoproject.com/weblog/2024/feb/06/security-releases</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.djangoproject.com</father>
+		<child>https://www.djangoproject.com/weblog/2024/jan/19/django-fellow-applicants-2024</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.djangoproject.com</father>
+		<child>https://dashboard.djangoproject.com</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.djangoproject.com</father>
+		<child>https://discord.gg/xcRH6mN4fa</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.djangoproject.com</father>
+		<child>https://forum.djangoproject.com</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.djangoproject.com</father>
+		<child>https://www.python.org/foundation</child>
+		<depth>2</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.djangoproject.com</father>
+		<child>https://www.python.org/foundation/donate</child>
+		<depth>2</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.djangoproject.com</father>
+		<child>https://www.python.org/contact/foundation</child>
+		<depth>2</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.djangoproject.com</father>
+		<child>https://www.djangoproject.com/conduct</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.djangoproject.com</father>
+		<child>https://www.djangoproject.com/diversity</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.djangoproject.com</father>
+		<child>https://twitter.com/djangoproject</child>
+		<depth>2</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.djangoproject.com</father>
+		<child>https://www.djangoproject.com/rss/weblog</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.djangoproject.com</father>
+		<child>https://www.python.org/foundation/corporate-membership</child>
+		<depth>2</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.djangoproject.com</father>
+		<child>https://www.threespot.com</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.djangoproject.com</father>
+		<child>http://andrevv.com</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.djangoproject.com</father>
+		<child>https://www.djangoproject.com/trademarks</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.web2py.com</father>
+		<child>https://www.python.org/init/default/index</child>
+		<depth>2</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.web2py.com</father>
+		<child>https://www.python.org/init/default/what</child>
+		<depth>2</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.web2py.com</father>
+		<child>https://www.python.org/init/default/download</child>
+		<depth>2</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.web2py.com</father>
+		<child>https://www.python.org/init/default/documentation</child>
+		<depth>2</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.web2py.com</father>
+		<child>https://www.python.org/init/default/support</child>
+		<depth>2</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.web2py.com</father>
+		<child>https://www.python.org/init/default/who</child>
+		<depth>2</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.web2py.com</father>
+		<child>http://www.web2py.com/book/default/chapter/01</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.web2py.com</father>
+		<child>http://web2py.com/book</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.web2py.com</father>
+		<child>https://vimeo.com/album/3016728</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.web2py.com</father>
+		<child>https://www.packtpub.com/web-development/web2py-application-development-cookbook</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.web2py.com</father>
+		<child>http://www.gnu.org/licenses/lgpl.html</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.web2py.com</father>
+		<child>http://www.infoworld.com/slideshow/24605/infoworlds-2012-technology-of-the-year-award-winners-183313</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.web2py.com</father>
+		<child>https://www.python.org/init/default/examples</child>
+		<depth>2</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.web2py.com</father>
+		<child>https://www.pythonanywhere.com/try-web2py</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.web2py.com</father>
+		<child>http://web2py.com/poweredby</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.web2py.com</father>
+		<child>http://web2py.com/demo_admin</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.web2py.com</father>
+		<child>http://www.web2py.com/demo_admin</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.web2py.com</father>
+		<child>http://www.web2py.com/book</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.web2py.com</father>
+		<child>http://web2py.readthedocs.org/en/latest</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.web2py.com</father>
+		<child>http://vimeo.com/album/178500</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.web2py.com</father>
+		<child>https://www.python.org/init/default/usergroups</child>
+		<depth>2</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.web2py.com</father>
+		<child>http://www.web2py.com/layouts</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.web2py.com</father>
+		<child>http://www.web2pyslices.com/home</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.web2py.com</father>
+		<child>http://www.web2py.com/appliances</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.web2py.com</father>
+		<child>http://web2pyslices.com</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.web2py.com</father>
+		<child>https://twitter.com/web2py</child>
+		<depth>2</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>http://www.web2py.com</father>
+		<child>https://www.facebook.com/web2py</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://xon.sh</father>
+		<child>https://www.python.org/contents.html</child>
+		<depth>2</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://xon.sh</father>
+		<child>https://xon.sh/contents.html</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://xon.sh</father>
+		<child>https://xon.sh/tutorial.html</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://xon.sh</father>
+		<child>https://xon.sh/packages.html</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://xon.sh</father>
+		<child>https://xon.sh/appimage.html</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://xon.sh</father>
+		<child>https://hub.docker.com/u/xonsh</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://xon.sh</father>
+		<child>https://en.wikipedia.org/wiki/Rolling_release</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://xon.sh</father>
+		<child>https://analyticsindiamag.com/top-10-trending-python-projects-on-github-2020</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://xon.sh</father>
+		<child>https://www.youtube.com/watch</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://xon.sh</father>
+		<child>http://www.oftc.net</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://xon.sh</father>
+		<child>https://xon.sh/tutorial_xontrib.html</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://xon.sh</father>
+		<child>https://xon.sh/devguide.html</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+</data>
