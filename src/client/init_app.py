@@ -3,14 +3,10 @@ from tkinter import messagebox
 from src.client.url_client import URLClient
 from src.tools.singleton import Singleton
 from src.client.client import Client
-import sys
 import os
 
 def resource_path(relative_path):
-    try:
-        base_path = sys._MEIPASS
-    except Exception:
-        base_path = os.path.abspath(".")
+    base_path = os.path.abspath(".")
     return os.path.join(base_path, relative_path)
 
 class App(metaclass=Singleton):
