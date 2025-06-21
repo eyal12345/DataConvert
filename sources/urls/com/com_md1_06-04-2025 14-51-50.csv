@@ -1,0 +1,3 @@
+"serial","father","child","depth","access"
+"url_0","child input","https://insider-gaming.com","0","True"
+"url_1","https://insider-gaming.com","https://www.cloudflare.com/5xx-error-landing","1","True"

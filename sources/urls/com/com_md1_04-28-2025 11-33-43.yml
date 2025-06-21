@@ -1,0 +1,330 @@
+url_0:
+  father: child input
+  child: https://rockstarintel.com
+  depth: 0
+  access: true
+url_1:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/feed
+  depth: 1
+  access: true
+url_2:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/comments/feed
+  depth: 1
+  access: true
+url_3:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/wp-json
+  depth: 1
+  access: true
+url_4:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/wp-json/wp/v2/pages/240
+  depth: 1
+  access: true
+url_5:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/wp-content/uploads/2023/08/cropped-Rockstar-Intel-Logo-2022-White-square-512-32x32.webp
+  depth: 1
+  access: true
+url_6:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/wp-content/uploads/2023/08/cropped-Rockstar-Intel-Logo-2022-White-square-512-192x192.webp
+  depth: 1
+  access: true
+url_7:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/wp-content/uploads/2023/08/cropped-Rockstar-Intel-Logo-2022-White-square-512-180x180.webp
+  depth: 1
+  access: true
+url_8:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/category/news
+  depth: 1
+  access: true
+url_9:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/category/gta
+  depth: 1
+  access: true
+url_10:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/category/gta/gta-online
+  depth: 1
+  access: true
+url_11:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/category/guides
+  depth: 1
+  access: true
+url_12:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/category/gta/roleplay
+  depth: 1
+  access: true
+url_13:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/category/gta/gta-trilogy
+  depth: 1
+  access: true
+url_14:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/category/screenshots
+  depth: 1
+  access: true
+url_15:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/category/gta/gta-6
+  depth: 1
+  access: true
+url_16:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/category/event-week
+  depth: 1
+  access: true
+url_17:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/category/gta/gta-gta
+  depth: 1
+  access: true
+url_18:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/category/fivem
+  depth: 1
+  access: true
+url_19:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/category/red-dead
+  depth: 1
+  access: true
+url_20:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/category/rockstar-games
+  depth: 1
+  access: true
+url_21:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/category/community
+  depth: 1
+  access: true
+url_22:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/rockstar-games-logos
+  depth: 1
+  access: true
+url_23:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/category/circoloco
+  depth: 1
+  access: true
+url_24:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/category/bully
+  depth: 1
+  access: true
+url_25:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/category/max-payne
+  depth: 1
+  access: true
+url_26:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/category/la-noire
+  depth: 1
+  access: true
+url_27:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/category/midnight-club
+  depth: 1
+  access: true
+url_28:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/category/take-two
+  depth: 1
+  access: true
+url_29:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/team
+  depth: 1
+  access: true
+url_30:
+  father: https://rockstarintel.com
+  child: https://www.facebook.com/RockstarINTEL
+  depth: 1
+  access: true
+url_31:
+  father: https://rockstarintel.com
+  child: https://twitter.com/RockstarINTEL
+  depth: 1
+  access: true
+url_32:
+  father: https://rockstarintel.com
+  child: https://www.instagram.com/rockstar_intel
+  depth: 1
+  access: true
+url_33:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/newsletter
+  depth: 1
+  access: true
+url_34:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/hypersonic-labs-unveils-fivem-spiritual-succesor-helix
+  depth: 1
+  access: true
+url_35:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/category/featured
+  depth: 1
+  access: true
+url_36:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/author/lumenhd
+  depth: 1
+  access: true
+url_37:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/gta-6-fuels-crypto-projects-which-break-rockstar-games-legal-terms
+  depth: 1
+  access: true
+url_38:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/author/aaron
+  depth: 1
+  access: true
+url_39:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/modders-release-gta-vice-city-nextgen-edition-despite-legal-pushback
+  depth: 1
+  access: true
+url_40:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/from-tariffs-to-restrictions-how-trumps-policies-could-affect-rockstar-games
+  depth: 1
+  access: true
+url_41:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/gta-6-100-dollars-cost-analysis
+  depth: 1
+  access: true
+url_42:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/how-world-travel-created-the-liberty-city-preservation-project
+  depth: 1
+  access: true
+url_43:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/gta-v-fivem-adds-support-for-xbox-game-pass-on-pc
+  depth: 1
+  access: true
+url_44:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/gta-v-and-gta-online-playstation-plus-may-leave-2025
+  depth: 1
+  access: true
+url_45:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/gta-online-content-event-week-april-24th-30th
+  depth: 1
+  access: true
+url_46:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/gta-online-content-event-week-april-17th-23rd
+  depth: 1
+  access: true
+url_47:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/rockstar-games-ends-support-for-your-videos-on-their-website
+  depth: 1
+  access: true
+url_48:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/gta-v-now-available-on-xbox-game-pass-and-pc-game-pass
+  depth: 1
+  access: true
+url_49:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/new-gta-v-update-released-on-pc-ahead-of-xbox-game-pass-inclusion
+  depth: 1
+  access: true
+url_50:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/gta-6-made-by-geniuses-says-ex-rockstar-games-exec-years-after-legal-battle
+  depth: 1
+  access: true
+url_51:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/category/build-a-rocket-boy
+  depth: 1
+  access: true
+url_52:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/gta-6-to-help-bring-in-a-record-92-billion-to-games-industry
+  depth: 1
+  access: true
+url_53:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/gta-online-content-event-week-april-10th-16th
+  depth: 1
+  access: true
+url_54:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/new-gta-v-beta-leak-reveals-never-before-seen-content
+  depth: 1
+  access: true
+url_55:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/author/rockstarintel
+  depth: 1
+  access: true
+url_56:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/gta-online-has-several-issues-this-week
+  depth: 1
+  access: true
+url_57:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/gta-v-red-dead-march-2025
+  depth: 1
+  access: true
+url_58:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/category/charts
+  depth: 1
+  access: true
+url_59:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/fans-make-gta-vice-city-sega-dreamcast-port
+  depth: 1
+  access: true
+url_60:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/you-can-now-visit-a-real-life-red-dead-redemption-2-saloon
+  depth: 1
+  access: true
+url_61:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/you-can-now-play-gta-6-map-in-gta-v
+  depth: 1
+  access: true
+url_62:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/red-dead-online-event-month-april-2025
+  depth: 1
+  access: true
+url_63:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/minecraft-movie-star-jason-momoa-never-heard-of-red-dead-redemption-2
+  depth: 1
+  access: true
+url_64:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/contact
+  depth: 1
+  access: true
+url_65:
+  father: https://rockstarintel.com
+  child: https://rockstarintel.com/privacy-policy
+  depth: 1
+  access: true
