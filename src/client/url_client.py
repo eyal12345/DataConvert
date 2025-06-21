@@ -267,5 +267,9 @@ class URLClient(Frame):
     def back_app(self) -> None:
         result = messagebox.askquestion(title='Back', message='Do you want to back?')
         if result == 'yes':
+            # initialize attributes accordingly
+            self.path = None
+            self.datasets = None
+            # save data and back to main frame
             self.save_user_choices()
             self.manager.show_frame('Select')
