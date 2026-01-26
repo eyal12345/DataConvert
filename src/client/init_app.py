@@ -41,5 +41,6 @@ class App(metaclass=Singleton):
         self.current.pipeline_frame()
 
     def on_closing(self) -> None:
-        if messagebox.askokcancel("Quit", "Do you want to quit?"):
+        result = messagebox.askquestion(title='Quit', message='Do you want to quit?')
+        if result == 'yes':
             self.frame.destroy()
