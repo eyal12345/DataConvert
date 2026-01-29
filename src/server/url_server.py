@@ -228,7 +228,7 @@ class URLServer(URLProcess):
         path = "sources/urls/" + folder + "/" + source + "_md" + str(self.max_depth)
         return path
 
-    def run_progress(self) -> str and list[dict]:
+    def run_progress(self) -> str | list[dict]:
         """
         decide order of actions for progress
         returns:
