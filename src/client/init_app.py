@@ -17,21 +17,23 @@ def resource_path(relative_path):
 class App(metaclass=Singleton):
 
     def __init__(self) -> None:
-        self.frame = Tk()
-        self.frame.attributes('-topmost', 'false')
-        self.frame.iconbitmap(resource_path("logo.ico"))
-        self.frame.title('Data Convert')
-        self.frame.protocol("WM_DELETE_WINDOW", self.on_closing)
-        self.frames = {
-            "Select": Client(self, self.frame),
-            "URL": URLClient(self, self.frame),
-        }
-        self.current = None
-        self.show_frame('Select')
-        # show the UI to user
         try:
+            self.frame = Tk()
+            self.frame.attributes('-topmost', 'false')
+            self.frame.iconbitmap(resource_path("logo.ico"))
+            self.frame.title('Data Convert')
+            self.frame.protocol("WM_DELETE_WINDOW", self.on_closing)
+            self.frames = {
+                "Select": Client(self, self.frame),
+                "URL": URLClient(self, self.frame),
+            }
+            self.current = None
+            self.show_frame('Select')
+            # show the UI to user
             self.frame.mainloop()
         except KeyboardInterrupt:
+            pass
+        except TclError as err:
             pass
 
     def show_frame(self, name: str) -> None:
