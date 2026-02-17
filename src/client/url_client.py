@@ -103,7 +103,7 @@ class URLClient(Frame):
         options = ["txt", "csv", "json", "yml", "xml", "xlsx", "db"]
         # put format type by user's choice
         format = self.args['format']
-        fix_format = format if format else 'txt'
+        fix_format = format if format in options else 'txt'
         # save found values in the attributes accordingly
         self.prev_format = fix_format
         # create combobox with default value
