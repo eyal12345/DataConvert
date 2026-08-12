@@ -2,6 +2,13 @@ from src.client.url_process import URLProcess
 import requests
 import re
 
+# seconds to wait for a connection and for each chunk of the response, so a
+# server that never answers cannot freeze the export
+TIMEOUT = (5, 10)
+# maximum bytes to download from a single page, so a slow endless response
+# cannot keep the export running forever
+MAX_PAGE_BYTES = 5 * 1024 * 1024
+
 class URLServer(URLProcess):
 
     def __init__(self, frame, root: str, max_depth: int) -> None:
@@ -42,17 +49,11 @@ class URLServer(URLProcess):
             True or False (bool): if a status code constitutes an approach to url
         """
         try:
-            access = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}, allow_redirects=False)
-            return access.status_code in [200, 301, 302, 303, 403, 406, 500, 999]
-        except requests.exceptions.HTTPError:
-            return False
-        except requests.exceptions.SSLError:
-            return False
-        except requests.exceptions.ProxyError:
-            return False
-        except requests.exceptions.ConnectTimeout:
-            return False
-        except requests.exceptions.ConnectionError:
+            # stream the answer, only the status code is needed and not the body
+            with requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}, allow_redirects=False,
+                              timeout=TIMEOUT, stream=True) as access:
+                return access.status_code in [200, 301, 302, 303, 403, 406, 500, 999]
+        except requests.exceptions.RequestException:
             return False
 
     def extract_data_childs(self, dataset: dict[str, any]) -> list[dict]:
@@ -66,16 +67,33 @@ class URLServer(URLProcess):
         father, depth = dataset['child'], dataset['depth']
         datasets = []
         try:
-            response = requests.get(father, headers={'User-Agent': 'Mozilla/5.0'}, allow_redirects=False)
-            html = response.content.decode('latin1')
+            html = self.read_page_content(father)
             urls = re.findall(r'(?<=href=")[https:]*[/{1,2}#]*[\w+.\-/=?_#]*(?=")', html)
             if urls:
                 self.track["added"]["sub-url"].config(text=f'waiting to new sources from this url')
                 childs = self.fix_urls(father, urls)
                 datasets = self.create_child_datasets(father, childs, depth + 1)
             return datasets
-        except requests.exceptions.HTTPError:
+        except requests.exceptions.RequestException:
             return []
+
+    def read_page_content(self, url: str) -> str:
+        """
+        download the html of an url up to a limited size
+        parameters:
+            url (str): the url which his content is downloaded
+        returns:
+            html (str): the decoded content of the page
+        """
+        content = bytearray()
+        with requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}, allow_redirects=False,
+                          timeout=TIMEOUT, stream=True) as response:
+            for chunk in response.iter_content(chunk_size=8192):
+                content += chunk
+                # stop reading a page that is too heavy instead of waiting for his end
+                if len(content) >= MAX_PAGE_BYTES:
+                    break
+        return content.decode('latin1')
 
     def fix_urls(self, father: str, urls: list[str]) -> list[str]:
         """
@@ -128,15 +146,30 @@ class URLServer(URLProcess):
             True or False (bool): returns if an url is under another path that is checked
         """
         if 'wikipedia' in url:
-            org_val_search = re.search(r"(?<=/)[\-\.()\w\d]+$", self.root).group(0)
-            cur_val_search = re.search(r"(?<=/)[\-\.()\w\d]+$", url).group(0)
-            org_language = re.search(r"(?<=//)[\-a-z]+(?=\.)", self.root).group(0)
-            cur_language = re.search(r"(?<=//)[\-a-z]+(?=\.)", url).group(0)
-            if (cur_language != org_language and cur_val_search == org_val_search) or re.findall(r"(?<=\.)m(?=\.)", url):
+            org_val_search = self.search_url_part(r"(?<=/)[\-\.()\w\d]+$", self.root)
+            cur_val_search = self.search_url_part(r"(?<=/)[\-\.()\w\d]+$", url)
+            org_language = self.search_url_part(r"(?<=//)[\-a-z]+(?=\.)", self.root)
+            cur_language = self.search_url_part(r"(?<=//)[\-a-z]+(?=\.)", url)
+            # compare only parts that were really found, an url without them is not familiar
+            same_value = bool(org_val_search) and org_val_search == cur_val_search
+            other_language = bool(org_language) and bool(cur_language) and cur_language != org_language
+            if (other_language and same_value) or re.findall(r"(?<=\.)m(?=\.)", url):
                 return True
         elif re.findall(r"(?<=//)(m|([a-z]{2})+(-[a-z]{2})*)(?=\.)", url) or re.findall(r"(?<=/)[a-z]{2}$", url):
             return True
         return False
+
+    def search_url_part(self, pattern: str, url: str) -> str:
+        """
+        return a part of an url by a pattern, or empty when the url does not contain him
+        parameters:
+            pattern (str): the regex of the part which is searched
+            url (str): the url which from him the part is extracted
+        returns:
+            part (str): the found part of the url or an empty string
+        """
+        search = re.search(pattern, url)
+        return search.group(0) if search else ''
 
     def create_child_datasets(self, father: str, childs: list[str], depth: int) -> list[dict]:
         """

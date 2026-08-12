@@ -195,6 +195,10 @@ class URLClient(Frame):
             messagebox.showerror(title='Error', message=err)
         except (TclError, RuntimeError) as err:
             pass
+        except Exception as err:
+            # an unexpected failure must not leave the export button disabled forever
+            self.export.config(state=NORMAL)
+            messagebox.showerror(title='Error', message=str(err))
 
     @ShareTools.get_widget_row(next_row=False)
     def create_convert_button(self) -> None:
@@ -231,9 +235,14 @@ class URLClient(Frame):
             # save found values in the attributes accordingly
             self.prev_format = format
         except IOError as err:
+            self.convert.config(state=NORMAL)
             messagebox.showerror(title='Error', message=err)
         except (TclError, RuntimeError) as err:
             pass
+        except Exception as err:
+            # an unexpected failure must not leave the convert button disabled forever
+            self.convert.config(state=NORMAL)
+            messagebox.showerror(title='Error', message=str(err))
 
     @ShareTools.get_widget_row(next_row=True)
     def create_restart_button(self) -> None:
