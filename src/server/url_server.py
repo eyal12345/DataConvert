@@ -5,6 +5,12 @@ import threading
 import requests
 import re
 
+try:
+    from playwright.sync_api import sync_playwright
+except ImportError:
+    # the export works without him, only pages which build their links by scripts are lost
+    sync_playwright = None
+
 # seconds to wait for a connection and for each chunk of the response, so a
 # server that never answers cannot freeze the export
 TIMEOUT = (5, 10)
@@ -17,6 +23,9 @@ MAX_WORKERS = 8
 MAX_PENDING = MAX_WORKERS * 2
 # status codes which constitute an approach to an url
 ACCESS_CODES = [200, 301, 302, 303, 403, 406, 500, 999]
+# milliseconds to wait for a page which is rendered by a browser and for his first link
+RENDER_TIMEOUT = 20000
+RENDER_WAIT = 5000
 
 class URLServer(URLProcess):
 
@@ -30,6 +39,9 @@ class URLServer(URLProcess):
             serial (int): the id number for a new url
             visited (set): cumulative group of urls that is checked
             local (local): the storage of the session which belongs to each thread
+            player (Playwright): the engine of the browser which renders pages of scripts
+            browser (Browser): the browser which is opened once for all the rendered pages
+            rendered (int): how many pages were taken from the browser
         """
         super().__init__(frame)
         self.root = root
@@ -37,6 +49,9 @@ class URLServer(URLProcess):
         self.serial = 0
         self.visited = set()
         self.local = threading.local()
+        self.player = None
+        self.browser = None
+        self.rendered = 0
         self.track = None
 
     def update_track_widgets(self):
@@ -95,12 +110,12 @@ class URLServer(URLProcess):
         """
         try:
             # stream the answer, only the status code is needed and not the body
-            with self.get_session().get(url, allow_redirects=False, timeout=TIMEOUT, stream=True) as access:
+            with self.get_session().get(url, timeout=TIMEOUT, stream=True) as access:
                 return access.status_code in ACCESS_CODES
         except requests.exceptions.RequestException:
             return False
 
-    def read_page_data(self, url: str) -> tuple[bool, str]:
+    def read_page_data(self, url: str) -> tuple[bool, str, str]:
         """
         download the html of an url up to a limited size together with his access, one
         request supplies both instead of asking the same url twice
@@ -109,36 +124,103 @@ class URLServer(URLProcess):
         returns:
             access (bool): if a status code constitutes an approach to url
             html (str): the decoded content of the page, empty when there is no access
+            final (str): the address which the url reached, when him leads to another one
         """
         content = bytearray()
         try:
-            with self.get_session().get(url, allow_redirects=False, timeout=TIMEOUT, stream=True) as response:
+            with self.get_session().get(url, timeout=TIMEOUT, stream=True) as response:
                 access = response.status_code in ACCESS_CODES
+                final = response.url
                 if access:
                     for chunk in response.iter_content(chunk_size=8192):
                         content += chunk
                         # stop reading a page that is too heavy instead of waiting for his end
                         if len(content) >= MAX_PAGE_BYTES:
                             break
-            return access, content.decode('latin1')
+            return access, content.decode('latin1'), final
         except requests.exceptions.RequestException:
-            return False, ''
+            return False, '', url
 
-    def extract_data_childs(self, dataset: dict[str, any], html: str) -> list[dict]:
+    def get_browser(self):
+        """
+        open the headless browser once and keep him for all the pages which need a render,
+        opening a browser for each page costs much more than the render itself
+        returns:
+            browser (Browser): the opened browser, or None when he is not available
+        """
+        if self.browser is None and self.player is None and sync_playwright is not None:
+            try:
+                self.player = sync_playwright().start()
+                self.browser = self.player.chromium.launch(headless=True)
+            except Exception:
+                # the browser is not installed on this machine, continue without a render
+                self.player = False
+        return self.browser
+
+    def close_browser(self) -> None:
+        """
+        close the browser at the end of the progress, he holds his own process
+        """
+        try:
+            self.browser.close() if self.browser else None
+            self.player.stop() if self.player else None
+        except Exception:
+            pass
+        self.browser, self.player = None, None
+
+    def render_page_data(self, url: str) -> str:
+        """
+        return the html of an url after his scripts built the page, sites which create
+        their links only in the browser have no links at all in their downloaded html
+        parameters:
+            url (str): the url which his page is rendered
+        returns:
+            html (str): the content of the built page, empty when the render failed
+        """
+        browser = self.get_browser()
+        if browser is None:
+            return ''
+        page = None
+        try:
+            page = browser.new_page()
+            page.goto(url, timeout=RENDER_TIMEOUT, wait_until='domcontentloaded')
+            try:
+                # take the page as soon as his first link exists, without waiting for images
+                page.wait_for_selector('a[href]', timeout=RENDER_WAIT)
+            except Exception:
+                pass
+            html = page.content()
+            self.rendered += 1
+            return html[:MAX_PAGE_BYTES]
+        except Exception:
+            return ''
+        finally:
+            try:
+                page.close() if page else None
+            except Exception:
+                pass
+
+    def extract_data_childs(self, dataset: dict[str, any], html: str, base: str) -> list[dict]:
         """
         extract data sub-urls set from the content of the url in the dataset
         parameters:
             dataset (dict): data of sub-url which from him extract all sub-urls which is contains
             html (str): the already downloaded content of the url in the dataset
+            base (str): the address which the content arrived from, incomplete sub-urls
+            belong to him and not to an url which leads to him
         returns:
             datasets (list): collection of sub-urls in same depth level from the main url
         """
         father, depth = dataset['child'], dataset['depth']
         datasets = []
+        # a page without any anchor builds his links by scripts, only a browser reaches them
+        if not re.search(r'<a[\s>]', html, re.I):
+            self.track["added"]["sub-url"].config(text=f'the page is built by scripts, rendering him')
+            html = self.render_page_data(base) or html
         urls = re.findall(r'(?<=href=")[https:]*[/{1,2}#]*[\w+.\-/=?_#]*(?=")', html)
         if urls:
             self.track["added"]["sub-url"].config(text=f'waiting to new sources from this url')
-            childs = self.fix_urls(father, urls)
+            childs = self.fix_urls(base, urls)
             datasets = self.create_child_datasets(father, childs, depth + 1)
         return datasets
 
@@ -202,8 +284,16 @@ class URLServer(URLProcess):
             other_language = bool(org_language) and bool(cur_language) and cur_language != org_language
             if (other_language and same_value) or re.findall(r"(?<=\.)m(?=\.)", url):
                 return True
-        elif re.findall(r"(?<=//)(m|([a-z]{2})+(-[a-z]{2})*)(?=\.)", url) or re.findall(r"(?<=/)[a-z]{2}$", url):
-            return True
+        else:
+            prefix = self.search_url_part(r"(?<=//)[\w\-]+(?=\.)", url)
+            root_prefix = self.search_url_part(r"(?<=//)[\w\-]+(?=\.)", self.root)
+            # a short prefix like "he." or "m." marks another copy of the site, but the prefix
+            # of the root is the site which is scanned now and not a copy of him
+            other_site = prefix != root_prefix and bool(re.findall(r"(?<=//)(m|([a-z]{2})+(-[a-z]{2})*)(?=\.)", url))
+            # a path which ends with a language code leads to a copy of the same page
+            other_language = bool(re.findall(r"(?<=/)[a-z]{2}$", url))
+            if other_site or other_language:
+                return True
         return False
 
     def search_url_part(self, pattern: str, url: str) -> str:
@@ -289,12 +379,12 @@ class URLServer(URLProcess):
             # download all the pages of this depth with several threads together, the results
             # are received by order while the next pages are already on their way
             pages = self.run_in_parallel(self.read_page_data, [dataset['child'] for dataset in datasets])
-            for dataset, (access, html) in zip(datasets, pages):
+            for dataset, (access, html, base) in zip(datasets, pages):
                 father = dataset['child']
                 # the download of the page supplies also the access of his url
                 dataset['access'] = access
                 self.track["status"]["quantity"].config(text=f'now extract sub-urls from url number {sub_url} out of {len(datasets)}\n{father}')
-                new_datasets = self.extract_data_childs(dataset, html) if access else []
+                new_datasets = self.extract_data_childs(dataset, html, base) if access else []
                 if new_datasets:
                     cumulative = cumulative + new_datasets
                     self.track["added"]["sub-url"].config(text=f'were added {len(new_datasets)} more new sources')
@@ -313,6 +403,20 @@ class URLServer(URLProcess):
             return datasets
         else:
             raise ValueError(f'You entered a negative max depth')
+
+    def resolve_root(self) -> str:
+        """
+        return the address which the root really reaches, a site may lead his main page to
+        another address like a local version of him, and that address is the scanned site
+        returns:
+            root (str): the final address of the root, the original one when he is unreachable
+        """
+        try:
+            with self.get_session().get(self.root, timeout=TIMEOUT, stream=True) as response:
+                final = response.url
+        except requests.exceptions.RequestException:
+            return self.root
+        return final[:-1] if final.endswith('/') else final
 
     def build_result_file_path(self) -> str:
         """
@@ -339,6 +443,9 @@ class URLServer(URLProcess):
             self.pipeline_frame()
             # update all track widgets from process frame
             self.update_track_widgets()
+            # a site may lead his main page to another address, the address which him reaches
+            # is the site that is really scanned, so all his sub-urls belong to the same site
+            self.root = self.resolve_root()
             # build the path for result file
             path = self.build_result_file_path()
             # insert root server into dataset, his access is checked here only when he is
@@ -346,8 +453,12 @@ class URLServer(URLProcess):
             access = self.try_open_url(self.root) if self.max_depth == 0 else None
             self.visited.add(self.root)
             init = self.insert_into_dataset('child input', self.root, 0, access)
-            # read data offsprings of root from the cloud
-            datasets = self.read_data_offsprings([init])
+            try:
+                # read data offsprings of root from the cloud
+                datasets = self.read_data_offsprings([init])
+            finally:
+                # the browser holds his own process, he is closed also when the export failed
+                self.close_browser()
             # return data offsprings
             return path, datasets
         elif not self.root:
