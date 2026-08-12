@@ -1,4 +1,7 @@
 from src.client.url_process import URLProcess
+from concurrent.futures import ThreadPoolExecutor
+from collections import deque
+import threading
 import requests
 import re
 
@@ -8,6 +11,12 @@ TIMEOUT = (5, 10)
 # maximum bytes to download from a single page, so a slow endless response
 # cannot keep the export running forever
 MAX_PAGE_BYTES = 5 * 1024 * 1024
+# how many urls are downloaded at the same time instead of one after the other
+MAX_WORKERS = 8
+# how many urls may wait for their turn, keeps the memory of the downloads bounded
+MAX_PENDING = MAX_WORKERS * 2
+# status codes which constitute an approach to an url
+ACCESS_CODES = [200, 301, 302, 303, 403, 406, 500, 999]
 
 class URLServer(URLProcess):
 
@@ -19,13 +28,15 @@ class URLServer(URLProcess):
             max_depth (int): the depth level to be extracted sub-urls up to him
             format (str): the configuration data file for the item
             serial (int): the id number for a new url
-            visited (list): cumulative list of urls that is checked
+            visited (set): cumulative group of urls that is checked
+            local (local): the storage of the session which belongs to each thread
         """
         super().__init__(frame)
         self.root = root
         self.max_depth = max_depth
         self.serial = 0
-        self.visited = []
+        self.visited = set()
+        self.local = threading.local()
         self.track = None
 
     def update_track_widgets(self):
@@ -40,6 +51,40 @@ class URLServer(URLProcess):
             "so_far": {"update": tracks[7], "count": 1},
         }
 
+    def get_session(self) -> requests.Session:
+        """
+        return the session of the running thread, a session keeps the connections to a
+        host open instead of opening a new connection for each url of the same host
+        returns:
+            session (Session): the requests session which belongs to the running thread
+        """
+        session = getattr(self.local, 'session', None)
+        if session is None:
+            session = requests.Session()
+            session.headers.update({'User-Agent': 'Mozilla/5.0'})
+            self.local.session = session
+        return session
+
+    def run_in_parallel(self, action, items: list):
+        """
+        run an action on all the items with several threads at the same time, while the
+        results are returned by the original order of the items
+        parameters:
+            action (callable): the action which is executed for each item
+            items (list): the items which are handled
+        yields:
+            result (any): the result of the action for the next item by order
+        """
+        with ThreadPoolExecutor(max_workers=MAX_WORKERS) as pool:
+            pending = deque()
+            for item in items:
+                # hold a limited number of downloads at a time, the rest wait for their turn
+                pending.append(pool.submit(action, item))
+                if len(pending) >= MAX_PENDING:
+                    yield pending.popleft().result()
+            while pending:
+                yield pending.popleft().result()
+
     def try_open_url(self, url: str) -> bool:
         """
         return if url is valid access
@@ -50,50 +95,52 @@ class URLServer(URLProcess):
         """
         try:
             # stream the answer, only the status code is needed and not the body
-            with requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}, allow_redirects=False,
-                              timeout=TIMEOUT, stream=True) as access:
-                return access.status_code in [200, 301, 302, 303, 403, 406, 500, 999]
+            with self.get_session().get(url, allow_redirects=False, timeout=TIMEOUT, stream=True) as access:
+                return access.status_code in ACCESS_CODES
         except requests.exceptions.RequestException:
             return False
 
-    def extract_data_childs(self, dataset: dict[str, any]) -> list[dict]:
+    def read_page_data(self, url: str) -> tuple[bool, str]:
         """
-        extract data sub-urls set from each url in the dataset
+        download the html of an url up to a limited size together with his access, one
+        request supplies both instead of asking the same url twice
+        parameters:
+            url (str): the url which his content is downloaded
+        returns:
+            access (bool): if a status code constitutes an approach to url
+            html (str): the decoded content of the page, empty when there is no access
+        """
+        content = bytearray()
+        try:
+            with self.get_session().get(url, allow_redirects=False, timeout=TIMEOUT, stream=True) as response:
+                access = response.status_code in ACCESS_CODES
+                if access:
+                    for chunk in response.iter_content(chunk_size=8192):
+                        content += chunk
+                        # stop reading a page that is too heavy instead of waiting for his end
+                        if len(content) >= MAX_PAGE_BYTES:
+                            break
+            return access, content.decode('latin1')
+        except requests.exceptions.RequestException:
+            return False, ''
+
+    def extract_data_childs(self, dataset: dict[str, any], html: str) -> list[dict]:
+        """
+        extract data sub-urls set from the content of the url in the dataset
         parameters:
             dataset (dict): data of sub-url which from him extract all sub-urls which is contains
+            html (str): the already downloaded content of the url in the dataset
         returns:
             datasets (list): collection of sub-urls in same depth level from the main url
         """
         father, depth = dataset['child'], dataset['depth']
         datasets = []
-        try:
-            html = self.read_page_content(father)
-            urls = re.findall(r'(?<=href=")[https:]*[/{1,2}#]*[\w+.\-/=?_#]*(?=")', html)
-            if urls:
-                self.track["added"]["sub-url"].config(text=f'waiting to new sources from this url')
-                childs = self.fix_urls(father, urls)
-                datasets = self.create_child_datasets(father, childs, depth + 1)
-            return datasets
-        except requests.exceptions.RequestException:
-            return []
-
-    def read_page_content(self, url: str) -> str:
-        """
-        download the html of an url up to a limited size
-        parameters:
-            url (str): the url which his content is downloaded
-        returns:
-            html (str): the decoded content of the page
-        """
-        content = bytearray()
-        with requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}, allow_redirects=False,
-                          timeout=TIMEOUT, stream=True) as response:
-            for chunk in response.iter_content(chunk_size=8192):
-                content += chunk
-                # stop reading a page that is too heavy instead of waiting for his end
-                if len(content) >= MAX_PAGE_BYTES:
-                    break
-        return content.decode('latin1')
+        urls = re.findall(r'(?<=href=")[https:]*[/{1,2}#]*[\w+.\-/=?_#]*(?=")', html)
+        if urls:
+            self.track["added"]["sub-url"].config(text=f'waiting to new sources from this url')
+            childs = self.fix_urls(father, urls)
+            datasets = self.create_child_datasets(father, childs, depth + 1)
+        return datasets
 
     def fix_urls(self, father: str, urls: list[str]) -> list[str]:
         """
@@ -182,28 +229,39 @@ class URLServer(URLProcess):
             datasets (list): list of datasets is contains all sub-urls of a father url
         """
         datasets = []
+        if not childs:
+            return datasets
+        # filter first, so only the urls which are really new are asked in the network
+        new_childs = []
         for child in childs:
             if not (child in self.visited or self.is_ignore_url(child) or self.is_familiar_url(child)):
-                self.serial += 1
-                dataset = self.insert_into_dataset(father, child, depth)
-                datasets.append(dataset)
+                self.visited.add(child)
+                new_childs.append(child)
+        # advance the bar for the urls which were filtered out without any request
+        self.track["progress"]["per_url"]['value'] += ((len(childs) - len(new_childs)) / len(childs))
+        # the access of urls which are scanned in the next depth is taken from that scan,
+        # only urls of the last depth are checked here and with several threads together
+        accesses = self.run_in_parallel(self.try_open_url, new_childs) if depth == self.max_depth else [None] * len(new_childs)
+        for child, access in zip(new_childs, accesses):
+            self.serial += 1
+            dataset = self.insert_into_dataset(father, child, depth, access)
+            datasets.append(dataset)
             self.track["progress"]["per_url"]['value'] += (1 / len(childs))
             self.track["progress"]["per_depth"]['value'] = self.track["progress"]["per_url"]['value'] if depth == 1 else None
         self.track["progress"]["per_url"]['value'] = 0
         return datasets
 
-    def insert_into_dataset(self, father: str, child: str, depth: int) -> dict[str, any]:
+    def insert_into_dataset(self, father: str, child: str, depth: int, access: bool | None) -> dict[str, any]:
         """
         insert url server into dataset
         parameters:
             father (str): the url that is contains the sub-url
             child (str): sub-url of father url
             depth (int): depth level of the sub-url
+            access (bool): if the url is approachable, None when it is filled from his scan
         returns:
             dataset (dict): collection data of sub-url
         """
-        access = self.try_open_url(child)
-        self.visited.append(child)
         dataset = {
             "serial": 'url_' + str(self.serial),
             "father": father,
@@ -228,10 +286,15 @@ class URLServer(URLProcess):
             self.track["status"]["depth"].config(text=f'extract sub-urls in depth {depth + 1} from\n{self.root}')
             sub_url = 1
             cumulative = []
-            for dataset in datasets:
-                father, access = dataset['child'], dataset['access']
+            # download all the pages of this depth with several threads together, the results
+            # are received by order while the next pages are already on their way
+            pages = self.run_in_parallel(self.read_page_data, [dataset['child'] for dataset in datasets])
+            for dataset, (access, html) in zip(datasets, pages):
+                father = dataset['child']
+                # the download of the page supplies also the access of his url
+                dataset['access'] = access
                 self.track["status"]["quantity"].config(text=f'now extract sub-urls from url number {sub_url} out of {len(datasets)}\n{father}')
-                new_datasets = self.extract_data_childs(dataset) if access else []
+                new_datasets = self.extract_data_childs(dataset, html) if access else []
                 if new_datasets:
                     cumulative = cumulative + new_datasets
                     self.track["added"]["sub-url"].config(text=f'were added {len(new_datasets)} more new sources')
@@ -278,8 +341,11 @@ class URLServer(URLProcess):
             self.update_track_widgets()
             # build the path for result file
             path = self.build_result_file_path()
-            # insert root server into dataset
-            init = self.insert_into_dataset('child input', self.root, 0)
+            # insert root server into dataset, his access is checked here only when he is
+            # not scanned at all, otherwise it is taken from his scan
+            access = self.try_open_url(self.root) if self.max_depth == 0 else None
+            self.visited.add(self.root)
+            init = self.insert_into_dataset('child input', self.root, 0, access)
             # read data offsprings of root from the cloud
             datasets = self.read_data_offsprings([init])
             # return data offsprings
