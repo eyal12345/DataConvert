@@ -98,6 +98,8 @@ class URLServer(URLProcess):
                 url = father.split('/')[0] + '' + url
             elif url.startswith('/') and len(url) > 1:
                 url = father.split('/')[0] + '//' + father.split('/')[2] + url
+            elif url.startswith('./'):
+                url = father.split('/')[0] + '//' + father.split('/')[2] + '/' + url[2:]
             elif not '/' in url or re.match(r'^[a-zA-Z]+/', url) is not None:
                 url = father.split('/')[0] + '//' + father.split('/')[2] + '/' + url
             url = url[:-1] if url.endswith('/') else url
