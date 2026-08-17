@@ -1,0 +1,4365 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+	<url id="&lt;built-in function next&gt;">
+		<father>child input</father>
+		<child>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</child>
+		<depth>0</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/w/rest.php/v1/search</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://creativecommons.org/licenses/by-sa/4.0/deed.en</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Main_Page</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://tr.wikipedia.org/wiki/Spider-Man_Brand_New_Day</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Destin_Daniel_Cretton</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Erik_Sommers</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Spider-Man</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Stan_Lee</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Steve_Ditko</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Kevin_Feige</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Amy_Pascal</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Avi_Arad</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Tom_Holland</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Zendaya</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Sadie_Sink</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Jacob_Batalon</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Jon_Bernthal</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Florence_Pugh</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Tramell_Tillman</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Marisa_Tomei</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Mark_Ruffalo</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Brett_Pawlak</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Nat_Sanders</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Harry_Yoon</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Michael_Giacchino</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Columbia_Pictures</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Marvel_Studios</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Pascal_Pictures</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Sony_Pictures_Releasing</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Dolby_Theatre</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Superhero_film</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Marvel_Comics</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/List_of_Marvel_Cinematic_Universe_films</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Telepath</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Justin_Kuritzkes</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Glasgow</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Pinewood_Studios</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Spider-Man_in_film</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/2026_in_film</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/List_of_highest_grossing_films</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/New_York_City</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Department_of_Damage_Control</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/MIT</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/SiRNA</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Alter_ego</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Roosevelt_Island</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Psionic</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Tobey_Maguire</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Sam_Raimi</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Telekinesis</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Telepathy</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Spirit_possession</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Origin_story</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Disney+</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/United_States_Army_Special_Forces</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Houseboat</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Command_center</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Safe_house</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Public_bathing</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Barack_Obama</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Gamma_radiation</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Quantum_mechanics</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Mid-credits_scene</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Shang-Chi_and_the_Legend_of_the_Ten_Rings</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Michael_Mando</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Liza_ColÃ³n-Zayas</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/New_York_City_Police_Department</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Olivia_Booth-Ford</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Fan_Xiaoshuang</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Naomi_Watts</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/AI</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Keith_David</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Nature_documentary</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Eman_Esfandi</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Paul_Rabin</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Mary_Jane_Watson</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Pat_Kiernan</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Zabryna_Guevara</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Sheila_Rivera</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Mayor_of_New_York_City</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Marvin_Jones_III</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Crime_boss</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Albinism_in_humans</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Cyborg</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Tony_Revolori</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Martin_Starr</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Sony_Pictures</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Disney</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Miles_Morales</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/The_Hollywood_Reporter</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Jon_Watts</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Tom_Rothman</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/2023_Writers_Guild_of_America_strike</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Jeff_Sneider</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Justin_Lin</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Euphoria_season_3</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Charlie_Cox</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/X-Men</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Andrew_Garfield</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/CinemaCon</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Profanity</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Brad_Winderbaum</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Marvel_Team-Up</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Team-up</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Three-act_structure</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Digital_age</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/List_of_Spider-Man_enemies</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Trapster</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Xu_Shang-Chi</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/John_Romita_Sr.</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Artificial_intelligence</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Sewing_machine</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/3D_printing</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/List_of_Punisher_titles</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/John_Buscema</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/List_of_Hulk_titles</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Total_Film</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Mister_Negative</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Principal_photography</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Working_title</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Christopher_Nolan</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Wingsuit_flying</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Parkour</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Body_hopping</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/List_of_vehicles_of_the_New_York_City_Police_Department</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Taxis_of_New_York_City</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Glasgow_city_centre</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Merchant_City</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/George_Square</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Trongate</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Set_piece</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Location_shooting</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Impact_of_the_COVID-19_pandemic_on_cinema</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/COVID-19_pandemic</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Queens</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Buckinghamshire</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Queensboro_Bridge</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Brookwood_Cemetery</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Surrey</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Battersea_Park</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Concussion</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Fanum_House</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Basingstoke</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Ravenscourt_Park</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/HM_Prison_Dorchester</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/ScreenX</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/IMAX</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Amazing_Fantasy</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/The_Spectacular_Spider-Man</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/The_Punisher_War_Journal</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Spider-Man_Adventures</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/The_New_Avengers</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Frames_per_second</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Key_to_the_city</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Rosario_Dawson</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Additional_photography</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Assembly_cut</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Sony_Pictures_Imageworks</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Framestore</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Rise_FX</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Cantina_Creative</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Leitmotif</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Sony_Classical</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Spider-Man_theme_song</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Screen_Rant</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/YouTube</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Sony_Pictures_Entertainment</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.youtube.com/watch</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Gizmodo</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Influencer</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/ComicBook.com</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Bleeding_Cool</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Scavenger_hunt</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/The_Six_Arms_Saga</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/TheWrap</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/CineEurope</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/San_Diego_Comic-Con</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Little_Caesars</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Asus</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/BMW</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/BMW_iX3</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Zillow</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_knockout_stage</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Argentina_national_football_team</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Lionel_Messi</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Galaxy_Z_series</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Kasra_Farahani</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Galaxy_Unpacked</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Major_League_Baseball</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Juan_Soto</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/New_York_Mets</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Mr._Met</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Citi_Field</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Fortnite_Battle_Royale</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Google</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Street_View</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Google_Search</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/TikTok</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Amazon_Prime</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/RealD_3D</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/D-Box</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Dolby_Cinema</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/4DX</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/70_mm_film</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Hulu</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/List_of_highest-grossing_films</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/List_of_highest-grossing_openings_for_films</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Box_office_market</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Rotten_Tomatoes</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Metacritic</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Weighted_average</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/CinemaScore</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/PostTrak</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Deadline_Hollywood</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Owen_Gleiberman</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Peter_Bradshaw</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/The_Guardian</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/David_Ehrlich</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/IndieWire</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Rolling_Stone</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.bbfc.co.uk/release/spider-man-brand-new-day-q29sbgvjdglvbjpwwc0xmtezmty0</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/British_Board_of_Film_Classification</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://deadline.com/2026/07/spider-man-brand-new-day-box-office-projection-1237005824</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.boxofficemojo.com/title/tt22084616</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Box_Office_Mojo</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/IMDb</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://deadline.com/2024/10/spider-man-tom-holland-new-movie-1236158673</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.gamesradar.com/entertainment/superhero-movies/mcu-boss-kevin-feige-reveals-why-marvel-is-pairing-up-spider-man-and-the-punisher-in-brand-new-day-its-street-level-crime-as-opposed-to-world-ending-events</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/GamesRadar+</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.empireonline.com/movies/news/spider-man-brand-new-day-classic-elements-of-spidey-kevin-feige-exclusive</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.esbnyc.com/blog/watch-tom-holland-swings-esb-drop-spider-man-brand-new-day-trailer</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/The_Empire_State_Building</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://ew.com/spider-man-brand-new-day-trailer-punisher-hulk-scorpion-11928072</child>
+		<depth>1</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Entertainment_Weekly</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://screenrant.com/spider-man-new-powers-brand-new-day-confirmed</child>
+		<depth>1</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://gizmodo.com/spider-man-brand-new-day-trailer-breakdown-marvel-2000734989</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.motionpictures.org/2026/07/why-sadie-sinks-spider-man-brand-new-way-role-has-been-kept-a-secret</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/The_Credits</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Motion_Picture_Association</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-trailer</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://ew.com/zendaya-mj-pass-spider-man-brand-new-day-script-12028408</child>
+		<depth>1</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.gamesradar.com/entertainment/marvel-movies/who-does-sadie-sink-play-in-spider-man-brand-new-day</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-ending-explained-who-dies</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://variety.com/2026/film/features/sadie-sink-jean-grey-interview-spider-man-brand-new-day-x-men-1236829644</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://ew.com/sadie-sink-spider-man-brand-new-day-character-officially-revealed-12028693</child>
+		<depth>1</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://ew.com/sadie-sink-talks-jean-grey-marvel-future-x-men-after-spider-man-brand-new-day-12035221</child>
+		<depth>1</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.vanityfair.com/story/sadie-sink-x-men-jean-grey-spider-man</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.thewrap.com/creative-content/movies/spider-man-brand-new-day-destin-daniel-cretton-interview</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://variety.com/2026/film/news/spider-man-brand-new-day-footage-cinemacon-tom-holland-zendaya-love-interest-1236704423</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://ew.com/spider-man-brand-new-day-cinemacon-footage-11948022</child>
+		<depth>1</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://variety.com/2026/tv/news/samsung-galaxy-spider-man-brand-new-day-1236782164</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://screenrant.com/spider-man-brand-new-day-mj-peter-optimism-reversal-zendaya</child>
+		<depth>1</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-jon-bernthal-1236296073</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://thedirect.com/article/the-punisher-one-last-kill-perfectly-sets-up-frank-castle-for-spider-man-brand-new-dayheres-why</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://collider.com/spider-man-brand-new-day-tom-holland-sadie-sink-jon-bernthal-punisher</child>
+		<depth>1</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://variety.com/2026/film/features/spider-man-brand-new-day-punisher-jon-bernthal-odyssey-1236822987</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.gamesradar.com/entertainment/marvel-movies/tom-holland-compares-jon-bernthals-frank-castle-to-robert-downey-jr-s-tony-stark-in-spider-man-brand-new-day-the-relationship-between-spider-man-and-the-punisher-is-so-funny</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.gamesradar.com/entertainment/marvel-movies/punisher-easter-egg-in-spider-man-brand-new-day-trailer-could-give-away-which-marvel-comic-run-the-mcu-movie-is-adapting</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://aiptcomics.com/2026/07/08/the-art-of-spider-man-brand-new-day-review-highlights</child>
+		<depth>1</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.gamesradar.com/entertainment/marvel-movies/yelenas-cameo-in-spider-man-brand-new-day-finally-answers-one-of-the-mcus-biggest-questions-about-the-avengers</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://deadline.com/gallery/spider-man-brand-new-day-cast-characters-mutants-avengers</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-confirms-that-the-mcu-has-a-new-black-widow</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://comicbook.com/movies/news/x-men-villain-officially-confirmed-for-spider-man-brand-new-day-setting-up-marvels-mutant-saga</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.gq.com/story/tramell-tillman-spider-man-brand-new-day</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.radiotimes.com/movies/scifi/spider-man-brand-new-day-lesson-grief-comment</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Radio_Times</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-mark-ruffalo-1236232140</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.slashfilm.com/2126438/why-mark-ruffalo-hulk-human-again-spider-man-brand-new-day</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki//Film</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.thewrap.com/creative-content/movies/spider-man-brand-new-day-trailer-savage-hulk</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://collider.com/spider-man-brand-new-day-trailer-hulk-mcu-change-savage-hulk</child>
+		<depth>1</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://comicbook.com/movies/news/spider-man-brand-new-day-scorpion-first-look</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.gamesradar.com/entertainment/marvel-movies/comic-book-characters-in-the-spider-man-brand-new-day-trailer</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://deadline.com/2026/07/liza-colon-zayas-hulu-david-shore-series-conviction-1236998671</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.superherohype.com/news/683043-spider-man-fans-found-major-mcu-cameo-hidden-brand-new-day</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/SuperHeroHype</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.ign.com/articles/spider-man-brand-new-day-director-gives-best-look-yet-at-villains-boomerang-and-the-hand-but-are-the-photos-a-misdirect</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/IGN</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://comicbook.com/movies/list/all-5-mcu-spider-man-stories-that-happened-before-brand-new-day</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.slashfilm.com/2226537/peter-parker-ai-assistant-ev-spider-man-brand-new-day-voice-naomi-watts</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://screenrant.com/spiderman-brand-new-day-movie-easter-eggs-references</child>
+		<depth>1</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://comicbook.com/movies/news/spider-man-brand-new-day-confirms-identity-of-mjs-boyfriend-and-hes-a-marvel-character-fans-love-to-hate</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-star-strongly-debunks-theory-about-the-identity-of-mjs-new-boyfriend</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.denofgeek.com/movies/spider-man-brand-new-day-looks-to-directly-tie-into-daredevil-born-again</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Den_of_Geek</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://deadline.com/2025/09/spider-man-brand-new-day-casts-marvin-jones-iii-tombstone-1236553455</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.superherohype.com/news/683720-spider-man-brand-new-day-cast-daredevil-star-key-villain</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-villain-says-a-lot-of-his-scenes-were-cut-and-more-recognizable-actors-were-removed-entirely</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.hollywoodreporter.com/heat-vision/sony-fires-back-at-marvel-spider-man-movie-divorce-1233490</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://deadline.com/2019/08/kevin-feige-spider-man-franchise-exit-disney-sony-dispute-avengers-endgame-captain-america-winter-soldier-tom-rothman-bob-iger-1202672545</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://variety.com/2019/film/news/sony-marvel-tom-holland-spider-man-1203351489</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://collider.com/tom-holland-spider-man-contract-spider-man-no-way-home</child>
+		<depth>1</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.gq-magazine.co.uk/culture/article/tom-holland-cherry-interview</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/British_GQ</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://ew.com/movies/tom-holland-spider-man-no-way-home-preview</child>
+		<depth>1</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.gq.com/story/tom-holland-superhero-of-the-year-2021</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://movieweb.com/tom-holland-casts-more-doubt-possible-return-spider-man</child>
+		<depth>1</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/MovieWeb</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.fandango.com/movie-news/spider-man-no-way-home-producer-amy-pascal-reveals-more-about-the-historic-film-and-confirms-tom-hollands-future-as-spider-man-754461</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Fandango_Media</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.hollywoodreporter.com/movies/movie-news/spider-man-movies-marvel-sony-no-way-home-1235054015</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.nytimes.com/2021/12/17/movies/kevin-feige-amy-pascal-spider-man-no-way-home.html</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/The_New_York_Times</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://search.worldcat.org/issn/0362-4331</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://deadline.com/2022/04/spider-man-jon-watts-exits-marvel-fantastic-four-film-1235013110</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://deadline.com/2022/05/sony-tom-rothman-spider-man-ghostbusters-1235024137</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://ew.com/movies/kevin-feige-marvel-phase-5-exclusive-interview</child>
+		<depth>1</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://variety.com/2023/film/columns/across-the-spider-verse-miles-morales-spider-woman-1235629183</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.empireonline.com/movies/news/spider-man-brand-new-day-tom-holland-pitched-spider-puberty-story-exclusive</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://variety.com/2023/film/news/tom-holland-spider-man-4-writers-strike-1235631143</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.hollywoodreporter.com/feature/tom-holland-the-crowded-room-future-spider-man-1235514347</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://theplaylist.net/tom-holland-spider-man-brand-new-day-is-mature-20260603</child>
+		<depth>1</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://collider.com/tom-holland-spider-man-future</child>
+		<depth>1</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.hollywoodreporter.com/business/business-news/writers-guild-deal-reached-studios-end-of-strike-1235403981</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://deadline.com/2024/04/tom-holland-spider-man-sands-film-festival-2024-1235891203</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://editorial.rottentomatoes.com/article/spider-man-brand-new-day-interview-tom-holland-zendaya-jacob-batalon-sadie-sink</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.ladbible.com/entertainment/celebrity/tom-holland-spiderman-how-long-play-for-lego-671643-20250828</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/LAD_Bible</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.esquire.com/style/grooming/a66014069/tom-holland-prada-paradigme-fragrance-interview</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.hollywoodreporter.com/movies/movie-news/spider-man-the-beatles-jumanji-sony-tom-rothman-interview-1236663221</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.superherohype.com/news/670448-spider-man-brand-new-day-scrapped-idea-would-have-been-adorable</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.theinsneider.com/p/euphoria-season-3-delay-zendaya-spider-man-4-scarlett-johansson-jurassic-world-movie-batman-2-shoot</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/The_InSneider</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://comicbook.com/movies/news/spider-man-4-justin-lin-directing-report</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.theinsneider.com/p/madame-web-reshoots-spiderman-4-rumors-harry-potter-tv-series-lorne-michaels-jason-reitman-snl</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://gizmodo.com/xmen-team-mcu-kevin-feige-spiderman-4-update-2000476926</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.cinemablend.com/interviews/kevin-feige-explains-why-spider-man-4-probably-will-replace-jon-watts-as-director</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/CinemaBlend</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.hollywoodreporter.com/movies/movie-features/wolfs-director-jon-watts-brad-pitt-george-clooney-interview-venice-1235979433</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://deadline.com/2024/09/spider-man-movie-destin-daniel-cretton-1236082823</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.hollywoodreporter.com/movies/movie-news/spider-man-4-finds-its-director-1235995984</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://variety.com/2022/film/news/avenger-the-kang-dynasty-destin-daniel-cretton-director-1235326300</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.hollywoodreporter.com/movies/movie-news/avengers-the-kang-dynasty-loses-director-1235648140</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://variety.com/2024/film/news/avengers-secret-wars-doomsday-russo-brothers-return-1235879783</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.indiewire.com/features/interviews/spider-man-brand-new-day-director-interview-1235206443</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://variety.com/2024/film/news/spider-man-4-destin-daniel-cretton-tom-holland-1235364633</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.hollywoodreporter.com/movies/movie-news/tom-holland-to-star-in-christopher-nolan-next-film-1236040294</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://variety.com/2026/film/news/zendaya-tom-holland-spider-man-brand-new-day-rewrite-bad-scene-1236765076</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://theplaylist.net/tom-holland-the-odyssey-spider-man-brand-new-day-20260603</child>
+		<depth>1</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.hollywoodreporter.com/movies/movie-news/tom-holland-read-spider-man-4-script-zendaya-1236034546</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>http://theplaylist.net/spider-man-brand-new-day-destin-daniel-cretton-begged-direct-tom-holland-saved-film-20260723</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://variety.com/2024/film/global/tom-holland-spider-man-4-shooting-next-summer-1236187529</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.thewrap.com/creative-content/movies/spider-man-brand-new-day-written-by-challengers-scribe</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://directories.wga.org/project/1284194/spider-man-brand-new-day</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Writers_Guild_of_America_West</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.theinsneider.com/p/spiderman-4-director-destin-daniel-cretton-spiderverse-3-may-be-delayed-to-2027-to-make-room</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.theinsneider.com/p/spider-man-4-rumors-marvel-pr-what-would-nikki-finke-do-luigi-mangione-movie-dune-3-dp</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://featurefirst.net/new-spider-man-4-rumours-imply-a-hellish-adventure</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://variety.com/2024/film/news/zendaya-anne-hathaway-chrirstopher-nolan-new-movie-1236205153</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.thewrap.com/charlie-cox-debunks-spider-man-rumors-video</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://comicbook.com/movies/news/marvel-spider-man-4-filming-start-confirmed-tom-holland-schedule</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://deadline.com/2025/02/tom-holland-spider-man-release-date-2026-1236297935</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://variety.com/2025/film/news/spider-man-4-delayed-two-weeks-tom-holland-nolan-odyssey-1236316067</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://deadline.com/2025/03/sadie-sink-spider-man-movie-1236323300</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.nylon.com/entertainment/sadie-sink-spider-man-brand-new-day-theater-john-proctor-is-the-villain-romeo-and-juliet-interview</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.rollingstone.com/tv-movies/tv-movie-features/spider-man-brand-new-day-interview-director-tom-holland-1235595446</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.syfy.com/syfy-wire/who-is-sadie-sink-playing-in-spider-man-brand-new-day-fan-theories-explored</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Syfy</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-producer-compares-sadie-sinks-mystery-character-to-no-way-homes-worst-kept-secret-multiverse-reveal-people-love-to-be-surprised</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.gamesradar.com/entertainment/marvel-movies/kevin-feige-says-spider-man-brand-new-days-villain-was-originally-a-very-obscure-character-nobody-has-ever-heard-of</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://deadline.com/2026/08/spider-man-brand-new-day-director-explains-ending-sadie-sink-1237016256</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://variety.com/2025/film/news/spider-man-4-brand-new-day-cinemacon-tom-holland-1236349305</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://deadline.com/2025/05/spider-man-brand-new-day-casts-liza-colon-zayas-1236389841</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.screendaily.com/news/spider-man-brand-new-day-gearing-up-to-shoot-in-uk-for-sony-marvel/5206111.article</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Screen_Daily</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.heraldscotland.com/news/25220900.spider-man-4-everything-know-far</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.hollywoodreporter.com/movies/movie-news/marvels-kevin-feige-fantastic-four-superman-1236324127</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.empireonline.com/movies/news/tom-holland-repay-the-favour-spider-man-r-rated-punisher-exclusive</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.mensjournal.com/entertainment/tom-holland-jon-bernthal-punisher-hulk-spider-man</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.empireonline.com/movies/news/spider-man-brand-new-day-authentic-frank-castle-exclusive</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.comicbasics.com/tom-holland-reveals-why-spider-man-keeps-webbing-the-punishers-mouth-shut-in-brand-new-day</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://screenrant.com/spiderman-brand-new-day-punisher-role-mcu-disney-plus-continuity-jon-bernthal</child>
+		<depth>1</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://ew.com/wonder-man-daredevil-born-again-season-2-x-men-97-marvel-nycc-exclusive-11827139</child>
+		<depth>1</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://view.email.hollywoodreporter.com</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://screenrant.com/spider-man-tom-holland-hulk-team-up</child>
+		<depth>1</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.cbr.com/kevin-feige-finally-sees-mcu-dream-come-true-in-spider-man-brand-new-day</child>
+		<depth>1</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Comic_Book_Resources</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.ign.com/articles/spider-man-star-tom-holland-says-brand-new-day-feels-like-a-rebirth-and-the-first-movie-in-the-next-chapter-though-hes-planning-acting-break-in-2027</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://comicbook.com/movies/news/spider-man-brand-new-day-director-confirms-1-big-change-from-first-3-movies-exclusive</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://collider.com/spider-man-brand-new-day-reaction-kevin-feige-amy-pascal-interview</child>
+		<depth>1</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.thewrap.com/creative-content/movies/spider-man-chris-mckenna-erik-sommers-interview</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.ign.com/articles/tom-holland-teases-potentially-huge-part-of-the-spider-man-brand-new-day-story</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.denofgeek.com/culture/den-of-geek-sdcc-spider-man-brand-new-day-collectible-variant-magazine-covers</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.superherohype.com/movies/679784-tom-holland-spider-man-ignores-no-way-home-warning-in-brand-new-day</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.marvel.com/articles/movies/spider-man-brand-new-day-trailer-and-movie-tickets-go-live</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Marvel.com</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.gamesradar.com/entertainment/marvel-movies/tom-holland-teases-that-the-last-frame-of-spider-man-brand-new-day-will-explain-the-title</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://screenrant.com/destin-daniel-cretton-interview-spider-man-brand-new-day</child>
+		<depth>1</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-footage-reveals-a-surprise-villain-is-joining-the-cast</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://outnow.ch/en/News/2026/08/01/Spider-Man-Brand-New-Day-Director-Destin-Daniel-Cretton-in-an-interview-about-fight-scenes-heartbrea</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://comicbook.com/movies/news/new-spider-man-brand-new-day-footage-officially-reveals-spideys-anti-hulk-weapon</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.polygon.com/spider-man-brand-new-day-director-destin-daniel-cretton-interview</child>
+		<depth>1</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://screenrant.com/spider-man-4-tom-holland-new-mcu-costume-set-photos</child>
+		<depth>1</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.netflixjunkie.com/tom-holland-says-his-new-spider-man-suit-is-the-spider-child-of-three-spider-man-eras</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.esquire.com/uk/culture/film/a71587645/tom-hollands-interview-2026</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://ew.com/spider-man-brand-new-day-script-pages-opening-scene-exclusive-11960491</child>
+		<depth>1</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://comicbook.com/movies/news/spider-man-brand-new-day-leak-reveals-alternate-looks-for-punisher-savage-hulk-and-villains</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-leaks-are-here-already-as-filming-begins-and-they-might-have-just-confirmed-mister-negative-as-the-films-villain</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-designer-explains-where-those-mister-negative-rumors-came-from</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.glasgowtimes.co.uk/news/scottish-news/25288190.details-spider-man-4-filming-shut-glasgow-roads</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Glasgow_Times</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://variety.com/2025/film/news/tom-holland-spider-man-brand-new-day-set-photos-1236477549</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://variety.com/2026/film/news/tom-holland-sony-spider-man-brand-new-day-delay-the-odyssey-1236764785</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.gamesradar.com/entertainment/action-movies/spider-mans-tom-holland-thinks-superhero-movies-can-learn-from-the-odyssey-and-improve-by-being-more-practical</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.inverse.com/entertainment/spider-man-brand-new-day-destin-daniel-cretton-interview</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-director-says-the-insomniac-games-were-a-great-inspiration-for-certain-stunts-in-the-upcoming-marvel-movie</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.ign.com/articles/tom-holland-reveals-how-he-brought-finishing-moves-from-sonys-spider-man-games-to-brand-new-day</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.glasgowlive.co.uk/whats-on/whats-on-news/major-glasgow-city-centre-roads-32016846</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Glasgow_Live</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://variety.com/2025/film/news/tom-holland-spider-man-brand-new-day-filming-real-locations-1236459474</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://variety.com/2025/film/news/spider-man-brand-new-day-footage-tom-holland-tank-1236486147</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.elle.com/culture/celebrities/a65637479/zendaya-visits-tom-holland-set-spider-man-brand-new-day-2025</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://variety.com/2026/film/global/tom-holland-zendaya-wedding-venue-beaverbrook-1236829874</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://variety.com/2025/film/news/tramell-tillman-spider-man-brand-new-day-1236493296</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://deadline.com/2025/09/spider-man-brand-new-day-pause-tom-holland-return-1236552600</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.hollywoodreporter.com/movies/movie-features/spider-man-brand-new-day-jacob-batalon-ending-handshake-1236664173</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://variety.com/2025/film/news/mark-ruffalo-hulk-spider-man-brand-new-day-no-script-1236509189</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.instagram.com/batterseabeat/p/DOQMcrOiHB4</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://ghostarchive.org/archive/zsw4f</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Instagram</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.instagram.com/batterseabeat/p/DOvCUKgCCkk</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://ghostarchive.org/archive/lTD0O</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.hollywoodreporter.com/movies/movie-news/tom-holland-suffers-concussion-spider-man-set-1236377062</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.basingstokegazette.co.uk/news/25482212.spider-man-brand-new-day-filming-basingstoke</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Basingstoke_Gazette</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.basingstokegazette.co.uk/news/25531552.tom-holland-spotted-spider-man-set-basingstoke</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://comicbook.com/movies/news/mcu-villain-missing-for-8-years-finally-returns-in-spider-man-brand-new-day-set-photos</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.ign.com/articles/spider-man-brand-new-day-set-photos-reveal-stranger-things-star-sadie-sink-sparking-fresh-speculation-around-who-shes-playing</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://collider.com/spider-man-4-mark-ruffalo-hulk-return-mcu-set-images-brand-new-day</child>
+		<depth>1</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://cheesegratermagazine.org/2025/10/26/ucl-provost-set-to-join-the-mcu</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/The_Cheese_Grater</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.omelete.com.br/homem-aranha/policia-entra-em-acao-em-video-do-set-de-homem-aranha-4</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Omelete</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.dorsetecho.co.uk/news/25591862.spiderman-brand-new-day-suspected-filming-dorchester</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Dorset_Echo</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.dorsetecho.co.uk/news/25618224.dorchester-filming-spiderman-parking-suspensions</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://deadline.com/2025/12/spider-man-brand-new-day-wraps-filming-1236654246</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://variety.com/2026/film/news/screen-x-premium-large-format-spider-man-brand-new-day-1236781390</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.marvel.com/articles/comics/spider-man-brand-new-day-comic-book-references-and-villains</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://screenrant.com/spider-man-brand-new-day-scorpion-scene-trailers-omitted</child>
+		<depth>1</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://ftw.usatoday.com/story/entertainment/pop-culture/2026/06/27/watch-how-spider-man-brand-new-day-honors-comics-in-fight-scene/90722069007</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/USA_Today</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://gizmodo.com/spider-man-brand-new-day-is-all-about-the-comics-2000778704</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.hollywoodreporter.com/movies/movie-features/spider-man-brand-new-day-sadie-sink-role-1236654512</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.gamesradar.com/entertainment/marvel-movies/marvel-boss-kevin-feige-is-reportedly-no-longer-stretched-so-thin-with-disney-plus-shows-and-is-solely-focused-on-avengers-doomsday-and-secret-wars-like-he-used-to-back-in-the-day-with-iron-man-or-thor</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.thewrap.com/creative-content/movies/spider-man-brand-new-day-trailer-tom-holland</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://deadline.com/2026/08/spider-man-brand-new-day-amy-pascal-interview-1237016593</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://ew.com/kevin-feige-teases-new-avenger-spider-man-brand-new-day-florence-pugh-12016623</child>
+		<depth>1</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://comicbook.com/movies/news/spider-man-brand-new-day-cut-a-marvel-favorites-mcu-return-and-it-would-have-been-perfect</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.gq.com/story/tom-holland-vuori-campaign-interview</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://variety.com/2026/film/global/tom-holland-spider-man-4-filmed-new-scenes-more-humor-villain-1236711205</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.instagram.com/destindaniel/p/Da0R0d3lJni</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://ghostarchive.org/archive/VtwrV</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://collider.com/spider-man-brand-new-day-director-destin-daniel-cretton-interview</child>
+		<depth>1</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://variety.com/2026/film/news/tom-holland-spider-man-brand-new-day-test-screenings-1236824202</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.ign.com/articles/what-does-the-spider-man-brand-new-day-post-credits-scene-mean-for-peter-parker</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.artofvfx.com/spider-man-brand-new-day</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-composer-says-he-wanted-to-make-a-sad-spider-man-movie</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://filmmusicreporter.com/2026/07/31/spider-man-brand-new-day-soundtrack-album-released</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-easter-eggs-cameos</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.polygon.com/movies/24203068/spider-man-brand-new-day-tom-holland-release-date</child>
+		<depth>1</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://comicbook.com/movies/news/marvels-spider-man-4-title-means-brand-new-day-mcu</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://screenrant.com/spider-man-brand-new-day-movie-title-explained</child>
+		<depth>1</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://variety.com/2025/film/news/spider-man-brand-new-day-tom-holland-costume-spider-man-4-1236476073</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.polygon.com/spider-man-4-brand-new-day-teaser-marvel-movie-new-suit</child>
+		<depth>1</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://gizmodo.com/spider-man-brand-new-day-teaser-new-suit-marvel-2000637775</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://gizmodo.com/tom-holland-just-gave-us-a-proper-look-at-the-brand-new-day-spider-suit-2000638268</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.cbr.com/tom-holland-confirms-spider-man-brand-new-day-costume-reveal-director</child>
+		<depth>1</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://variety.com/2025/film/news/spider-man-brand-new-day-tom-holland-costume-1236476920</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.hollywoodreporter.com/movies/movie-news/tom-holland-spider-man-brand-new-day-set-photos-1236336567</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-trailer-tom-holland-zendaya-1236529290</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-days-24-hour-trailer-launch-is-making-avengers-doomsdays-cast-reveal-look-small-scope-its-never-been-done-before</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://comicbook.com/movies/feature/spider-man-brand-new-day-is-already-copying-avengers-doomsday-fans-arent-impressed</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.mensjournal.com/entertainment/tom-holland-sets-off-internet-scavenger-hunt-with-spider-man-brand-new-day-trailer-release</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://bleedingcool.com/movies/spider-man-brand-new-day-trailer-debut-tomorrow-tiny-teasers-today</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.usatoday.com/story/entertainment/movies/2026/03/17/spider-man-brand-new-day-trailer-clips-where-to-watch/89191555007</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://gizmodo.com/spider-man-brand-new-day-trailer-teaser-marvel-2000734557</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.polygon.com/spider-man-brand-new-day-trailer-date-first-look</child>
+		<depth>1</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.ign.com/articles/spider-man-brand-new-day-trailer-features-mj-bruce-banner-punisher-and-scorpion-and-a-brief-glimpse-at-sadie-sinks-character</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.ign.com/articles/spider-man-brand-new-day-trailer-questions-tom-holland-sadie-sink-character</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.polygon.com/spider-man-brand-new-day-animated-series-arc</child>
+		<depth>1</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.slashfilm.com/2126781/spider-man-brand-new-day-first-trailer-peter-parker-new-powers</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.gamesradar.com/entertainment/marvel-movies/the-story-of-spider-man-brand-new-day-may-tie-back-to-one-of-the-most-controversial-spidey-comics-of-all-time-where-peter-parker-dies</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Newsarama</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-sets-24-hour-trailer-record-1236172758</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://variety.com/2026/film/news/spider-man-brand-new-day-trailer-biggest-ever-break-record-1236694163</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://variety.com/2026/film/news/spider-man-brand-new-day-trailer-1-billion-views-first-history-1236697959</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://kotaku.com/spider-man-brand-new-day-trailer-ps5-update-hulk-2000707682</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Kotaku</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.gamesradar.com/entertainment/marvel-movies/new-spider-man-brand-new-day-trailer-sees-tom-hollands-peter-parker-start-to-lose-control-as-an-invisible-villain-causes-hulk-level-havoc</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://gizmodo.com/all-the-secrets-we-found-in-the-new-spider-man-brand-new-day-trailer-2000773257</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.empireonline.com/movies/news/spider-man-brand-new-day-trailer-sees-peter-parker-fighting-with-scorpion-the-hulk-and-himself</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://deadline.com/2026/06/spider-man-brand-new-day-second-trailer-record-1236968469</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.screendaily.com/news/sony-shows-first-chunks-of-new-spider-man-and-resident-evil-films-at-cineeurope/5217931.article</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://gizmodo.com/the-final-spider-man-brand-new-day-trailer-takes-us-back-in-time-2000788512</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-comic-con-exclusive-footage-description-has-spidey-and-the-punisher-team-up-to-take-on-the-hulk</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://deadline.com/2026/07/spider-man-brand-new-day-marketing-campaign-record-bmw-1237013669</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.cnet.com/tech/mobile/samsung-built-a-real-spider-man-tracker-you-can-use-this-summer</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/CNET</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.adweek.com/creativity/samsung-swings-into-the-marvel-universe-to-give-spider-man-the-ultimate-gadget</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://attractionsmagazine.com/peter-parkers-apartment-brooklyn-new-york-city-pizza-party</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Attractions_Magazine</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://nerdtropolis.com/spider-man-brand-new-day-exclusive-first-look-tombstone-jean-dewolff-boomerang-powers</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.ign.com/articles/lionel-messi-swings-alongside-tom-holland-in-latest-spider-man-brand-new-day-trailer-for-some-reason</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.marketingdive.com/news/liquid-iv-samsung-spider-man-to-spotlight-new-products/825212</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Marketing_Dive</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://mashable.com/tech/samsung-galaxy-unpacked-spider-man</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Mashable</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.mlb.com/news/juan-soto-and-spider-man-collaborate-in-new-advertisement</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/MLB.com</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.gamesradar.com/games/open-world/marvels-spider-man-2-is-getting-its-first-update-in-over-a-year-as-insomniac-brings-spideys-brand-new-day-suit-to-ps5-and-pc</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://deadline.com/2026/08/box-office-spider-man-brand-new-day-tuesday-record-1237018454</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://deadline.com/gallery/spider-man-brand-new-day-los-angeles-premiere-red-carpet-photos-zendaya-tom-holland</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.gamesradar.com/entertainment/marvel-movies/amazon-prime-members-can-watch-spider-man-brand-new-day-early-heres-how</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://deadline.com/2026/07/box-office-spider-man-brand-new-day-1237014268</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://thedirect.com/article/spider-man-brand-new-day-theaters-release-versions</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.slashfilm.com/2111155/avengers-doomsday-spider-man-brand-new-day-marvel-imax-releases</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://variety.com/2026/film/box-office/spider-man-brand-new-day-imax-release-odyssey-exclusive-run-ends-1236826306</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://gizmodo.com/new-marvel-studios-release-dates-avengers-blade-2000482779</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://screenrant.com/mcu-spider-man-4-release-date-sony-marvel</child>
+		<depth>1</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.hollywoodreporter.com/news/netflix-nabs-streaming-rights-to-sonys-feature-beginning-in-2022</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://deadline.com/2021/04/disney-sony-streaming-spider-man-disney-plus-1234741215</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.hollywoodreporter.com/news/disney-nabs-post-pay-1-rights-for-sonys-feature-films</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://variety.com/2026/film/news/sony-netflix-streaming-movies-1236632330</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://variety.com/2026/film/box-office/spider-man-brand-new-day-2-billion-worldwide-box-office-second-fastest-milestone-1236834058</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://deadline.com/2026/08/spider-man-brand-new-day-box-office-records-1237016328</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://deadline.com/2026/08/box-office-spider-man-brand-new-day-billion-record-1237017056</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-oak-street-paw-patrol-1236674347</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://deadline.com/2026/06/spider-man-brand-new-day-presales-record-1236959396</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://variety.com/2026/film/news/spider-man-brand-new-day-box-office-opening-records-1236822094</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://variety.com/2026/film/box-office/spider-man-brand-new-day-billion-dollars-six-days-1236826658</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://deadline.com/2026/08/box-office-spider-man-brand-new-day-fastest-half-billion-record-1237028214</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://deadline.com/2026/08/box-office-global-spider-man-brand-new-day-foreign-record-1237029582</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://deadline.com/2026/08/box-office-spider-man-brand-new-day-one-night-only-1237028481</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.the-numbers.com/market/2026/top-grossing-movies</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://variety.com/2026/film/box-office/spider-man-brand-new-day-box-office-opening-weekend-1236825953</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://deadline.com/2026/08/spider-man-brand-new-day-sony-india-box-office-1237029987</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://editorial.rottentomatoes.com/article/spider-man-brand-new-day-first-reviews</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.bbc.co.uk/news/articles/cwyeq0wpn0go</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/BBC_News</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-superhero-fatigue-1236663071</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://ew.com/spider-man-brand-new-day-first-reactions-call-it-an-emotional-triumph-praise-sadie-sink-12028241</child>
+		<depth>1</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.rottentomatoes.com/m/spider_man_brand_new_day</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.metacritic.com/movie/spider-man-brand-new-day</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://deadline.com/2026/07/spider-man-brand-new-day-review-tom-holland-and-zendaya-forge-a-challenging-path-forward-in-dark-and-thrilling-new-chapter-from-marvel-superhero-1237005422</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://variety.com/2026/film/reviews/spider-man-brand-new-day-review-tom-holland-zendaya-1236821873</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.theguardian.com/film/2026/jul/28/spider-man-brand-new-day-review-zendaya-saves-tom-hollands-semi-cronenberg-style-superhero</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://search.worldcat.org/issn/0261-3077</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.thewrap.com/creative-content/movies/spider-man-brand-new-day-review-tom-holland-zendaya</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.empireonline.com/movies/reviews/spider-man-brand-new-day</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.hollywoodreporter.com/movies/movie-reviews/spider-man-brand-new-day-review-tom-holland-zendaya-1236657988</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.indiewire.com/criticism/movies/spider-man-brand-new-day-review-1235207238</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.rollingstone.com/tv-movies/tv-movie-reviews/spider-man-brand-new-day-review-mcu-1235592690</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.gq.com/story/matt-damon-robert-pattinson-tom-holland-cover-interview-summer-2026</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://variety.com/2026/film/news/spider-man-actors-tom-holland-successor-1236824415</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.ign.com/articles/kevin-feige-says-marvel-has-movies-planned-all-the-way-up-to-2042-including-a-major-x-men-push-and-live-action-miles-morales</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://comicbook.com/movies/news/spider-man-producers-comments-about-mcu-future-is-great-news-for-marvel-fans</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://variety.com/2026/film/news/kevin-feige-spider-man-brand-new-day-sequel-tom-holland-1236826503</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://spidermanbrandnewday.movie</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.wikidata.org/wiki/Q113244935</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.marvel.com/movies/spider-man-brand-new-day</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.sonypictures.com/movies/spidermanbrandnewday</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://www.imdb.com/title/tt22084616</child>
+		<depth>1</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Spider-Man_in_other_media</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Spider-Man_in_television</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Spidey_Super_Stories</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Spider-Man_and_His_Amazing_Friends</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Spider-Man_Unlimited</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Spidey_and_His_Amazing_Friends</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Your_Friendly_Neighborhood_Spider-Man</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Spider-Noir</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Spider-Man_Strikes_Back</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Spider-Man_2</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Spider-Man_3</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/The_Amazing_Spider-Man_2</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/List_of_video_games_featuring_Spider-Man</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Questprobe_featuring_Spider-Man</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Spider-Man_vs._The_Kingpin</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Spider-Man_in_literature</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Spider-Man_in_novels</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Spider-Man_book_series</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Mr._and_Mrs._Spider-Man</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Music_from_and_Inspired_by_Spider-Man</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/The_Amazing_Adventures_of_Spider-Man</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Meet_Spider-Man_and_the_Marvel_Super_Heroes</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/List_of_Spider-Man_enemies_in_other_media</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Green_Goblin_in_other_media</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/List_of_Spider-Man_films_cast_members</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Meant_to_Live</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Web_of_Night</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Najane_Kyun</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Spider-Man_Versus_Kraven_the_Hunter</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Viva_Spider-Man</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/3_Dev_Adam</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/SpiderBabe</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Spider-Plant_Man</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Italian_Spiderman</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Lego_Spider-Man</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/The_Spider-Man_of_Sudan</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/List_of_Spider-Man_film_cast_members</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/List_of_accolades_received_by_Marvel_Cinematic_Universe_films</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/List_of_accolades_received_by_Marvel_Cinematic_Universe_television_series</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_timeline</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Iron_Man_2</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Iron_Man_3</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_Vol._2</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Ant-Man_and_the_Wasp</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Avengers_assemble_scene</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Doctor_Strange_in_the_Multiverse_of_Madness</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/WandaVision</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/List_of_accolades_received_by_WandaVision</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/The_Falcon_and_the_Winter_Soldier</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Loki_season_1</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/The_Guardians_of_the_Galaxy_Holiday_Special</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_Vol._3</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/The_Marvels</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Loki_season_2</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Agatha_All_Along</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Your_Friendly_Neighborhood_Spider-Man_season_1</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Eyes_of_Wakanda</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/VisionQuest</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Your_Friendly_Neighborhood_Spider-Man_season_2</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Marvel_Studios_Animation</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Mid-credits_and_post-credits_scenes_in_the_Marvel_Cinematic_Universe</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Reception_of_the_Marvel_Cinematic_Universe</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/David_Maisel</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Victoria_Alonso</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Captain_America_in_film</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Fantastic_Four_in_film</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/X-Men_in_film</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Marvel_Television</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Agents_of_S.H.I.E.L.D.</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/List_of_Agents_of_S.H.I.E.L.D._episodes</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Agents_of_S.H.I.E.L.D._season_1</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Agents_of_S.H.I.E.L.D._season_2</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Agents_of_S.H.I.E.L.D._season_3</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Agents_of_S.H.I.E.L.D._season_4</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Agents_of_S.H.I.E.L.D._season_5</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Agents_of_S.H.I.E.L.D._season_6</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Agents_of_S.H.I.E.L.D._season_7</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/List_of_Agents_of_S.H.I.E.L.D._characters</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Agent_Carter_season_1</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Agent_Carter_season_2</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/List_of_Agent_Carter_characters</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Inhumans_premiere</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Daredevil_season_1</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Daredevil_season_2</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Daredevil_season_3</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Jessica_Jones_season_1</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Jessica_Jones_season_2</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Jessica_Jones_season_3</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/List_of_Jessica_Jones_characters</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Luke_Cage_season_1</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Luke_Cage_season_2</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/List_of_Luke_Cage_characters</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Iron_Fist_season_1</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Iron_Fist_season_2</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/List_of_Iron_Fist_characters</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/The_Punisher_season_1</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/The_Punisher_season_2</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Marvel_One-Shots</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Item_47</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/All_Hail_the_King</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Team_Thor</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/I_Am_Groot</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/WHIH_Newsfront</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Agents_of_S.H.I.E.L.D._web_series</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_tie-in_comics</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Lists_of_Marvel_Cinematic_Universe_cast_members</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/List_of_Marvel_Cinematic_Universe_film_actors</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Characters_of_the_Marvel_Cinematic_Universe</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Phil_Coulson</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/J.A.R.V.I.S.</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Kahhori</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Erik_Selvig</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Trevor_Slattery</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Hope_van_Dyne</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Leo_Fitz</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Melinda_May</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Jemma_Simmons</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Teams_and_organizations_of_the_Marvel_Cinematic_Universe</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Species_of_the_Marvel_Cinematic_Universe</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Features_of_the_Marvel_Cinematic_Universe</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/The_Blip</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Infinity_Stones</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Music_of_the_Marvel_Cinematic_Universe</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Live_to_Rise</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/All_the_Stars</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Deadpool_and_Korg_React</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Avengers_Campus</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Iron_Man_Experience</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Avengers_Infinity_Defense</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Stark_Flight_Lab</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Disney_Wish</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Outline_of_the_Marvel_Cinematic_Universe</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Blade_II</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Deadpool_2</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Punisher_in_film</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Stuntnuts_Does_School_Fight</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Men_in_Black_II</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Men_in_Black_3</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/List_of_unproduced_film_projects_based_on_Marvel_Comics</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/List_of_unproduced_films_based_on_Marvel_Comics_imprints_publications</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/List_of_unproduced_20th_Century_Fox_projects_based_on_Marvel_Comics</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/List_of_unproduced_X-Men_film_series_projects</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/I_Am_Not_a_Hipster</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Short_Term_12</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Just_Mercy</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/The_Lego_Batman_Movie</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Lousy_Carter</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Fart-Break_Hotel</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/The_Art_of_Discourse</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Anthropology_101</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Conspiracy_Theories_and_Interior_Design</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Paradigms_of_Human_Memory</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Remedial_Chaos_Theory</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Digital_Exploration_of_Interior_Design</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Repilot</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Emotional_Consequences_of_Broadcast_Television</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/You_Debt_Your_Life</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Ricky_Spanish</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day</father>
+		<child>https://en.wikipedia.org/wiki/Basic_Intergluteal_Numismatics</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+</data>

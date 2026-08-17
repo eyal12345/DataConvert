@@ -1,0 +1,5 @@
+url_0:
+  father: child input
+  child: https://www.gamespot.com
+  depth: 0
+  access: true

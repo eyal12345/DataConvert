@@ -1,0 +1,100 @@
+url_0:
+  father: child input
+  child: https://www.rockstargames.com
+  depth: 0
+  access: true
+url_1:
+  father: https://www.rockstargames.com
+  child: https://www.rockstargames.com/newswire
+  depth: 1
+  access: true
+url_2:
+  father: https://www.rockstargames.com
+  child: https://www.rockstargames.com/videos
+  depth: 1
+  access: true
+url_3:
+  father: https://www.rockstargames.com
+  child: https://www.rockstargames.com/downloads
+  depth: 1
+  access: true
+url_4:
+  father: https://www.rockstargames.com
+  child: https://store.rockstargames.com
+  depth: 1
+  access: true
+url_5:
+  father: https://www.rockstargames.com
+  child: https://support.rockstargames.com
+  depth: 1
+  access: false
+url_6:
+  father: https://www.rockstargames.com
+  child: https://www.rockstargames.com/contact
+  depth: 1
+  access: true
+url_7:
+  father: https://www.rockstargames.com
+  child: https://www.rockstargames.com/careers
+  depth: 1
+  access: true
+url_8:
+  father: https://www.rockstargames.com
+  child: https://www.rockstargames.com/community-resources
+  depth: 1
+  access: true
+url_9:
+  father: https://www.rockstargames.com
+  child: https://www.rockstargames.com/account/communications
+  depth: 1
+  access: true
+url_10:
+  father: https://www.rockstargames.com
+  child: https://instagram.com/rockstargames
+  depth: 1
+  access: true
+url_11:
+  father: https://www.rockstargames.com
+  child: https://x.com/rockstargames
+  depth: 1
+  access: true
+url_12:
+  father: https://www.rockstargames.com
+  child: https://www.youtube.com/rockstargames
+  depth: 1
+  access: true
+url_13:
+  father: https://www.rockstargames.com
+  child: https://www.facebook.com/rockstargames
+  depth: 1
+  access: true
+url_14:
+  father: https://www.rockstargames.com
+  child: https://discord.gg/rockstargames
+  depth: 1
+  access: true
+url_15:
+  father: https://www.rockstargames.com
+  child: https://www.rockstargames.com/corpinfo
+  depth: 1
+  access: true
+url_16:
+  father: https://www.rockstargames.com
+  child: https://www.rockstargames.com/privacy
+  depth: 1
+  access: true
+url_17:
+  father: https://www.rockstargames.com
+  child: https://www.rockstargames.com/cookies
+  depth: 1
+  access: true
+url_18:
+  father: https://www.rockstargames.com
+  child: https://www.rockstargames.com/legal
+  depth: 1
+  access: true
+url_19:
+  father: https://www.rockstargames.com
+  child: https://www.rockstargames.com/ccpa
+  depth: 1
+  access: true

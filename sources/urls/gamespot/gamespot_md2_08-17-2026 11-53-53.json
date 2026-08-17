@@ -1,0 +1,188 @@
+{
+    "url_0": {
+        "father": "child input",
+        "child": "https://www.gamespot.com/feeds/news",
+        "depth": 0,
+        "access": true
+    },
+    "url_1": {
+        "father": "https://www.gamespot.com/feeds/news",
+        "child": "https://www.gamespot.com/articles/rideshare-stimulator-outlines-ai-usage-after-contentious-exchange-with-ex-writer",
+        "depth": 1,
+        "access": true
+    },
+    "url_2": {
+        "father": "https://www.gamespot.com/feeds/news",
+        "child": "https://www.gamespot.com/articles/halo-campaign-evolved-will-look-way-better-soon",
+        "depth": 1,
+        "access": true
+    },
+    "url_3": {
+        "father": "https://www.gamespot.com/feeds/news",
+        "child": "https://www.gamespot.com/articles/watch-god-of-war-laufey-star-smash-the-last-of-us-golf-club-prop-on-her-first-day",
+        "depth": 1,
+        "access": true
+    },
+    "url_4": {
+        "father": "https://www.gamespot.com/feeds/news",
+        "child": "https://www.gamespot.com/articles/roblox-is-now-the-target-of-a-congressional-investigation-children-are-hurting",
+        "depth": 1,
+        "access": true
+    },
+    "url_5": {
+        "father": "https://www.gamespot.com/feeds/news",
+        "child": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-beta-will-do-something-no-previous-cod-beta-has",
+        "depth": 1,
+        "access": true
+    },
+    "url_6": {
+        "father": "https://www.gamespot.com/feeds/news",
+        "child": "https://www.gamespot.com/articles/disney-has-9-gaming-franchises-that-have-generated-1-billion-at-retail-including-kingdom-hearts",
+        "depth": 1,
+        "access": true
+    },
+    "url_7": {
+        "father": "https://www.gamespot.com/feeds/news",
+        "child": "https://www.gamespot.com/articles/call-of-duty-modern-warfare-4-beta-dates-revealed-heres-how-to-get-in",
+        "depth": 1,
+        "access": true
+    },
+    "url_8": {
+        "father": "https://www.gamespot.com/feeds/news",
+        "child": "https://www.gamespot.com/articles/high-on-life-is-coming-to-vr-and-yes-you-can-stroke-your-weird-guns",
+        "depth": 1,
+        "access": true
+    },
+    "url_9": {
+        "father": "https://www.gamespot.com/feeds/news",
+        "child": "https://www.gamespot.com/articles/2011-lord-of-the-rings-game-didnt-get-a-fair-shake-launching-near-skyrim-former-wb-boss-says",
+        "depth": 1,
+        "access": true
+    },
+    "url_10": {
+        "father": "https://www.gamespot.com/feeds/news",
+        "child": "https://www.gamespot.com/articles/2k-games-is-making-a-new-sports-franchise-and-all-signs-point-to-soccer",
+        "depth": 1,
+        "access": true
+    },
+    "url_11": {
+        "father": "https://www.gamespot.com/feeds/news",
+        "child": "https://www.gamespot.com/articles/netflix-closes-two-more-studios",
+        "depth": 1,
+        "access": true
+    },
+    "url_12": {
+        "father": "https://www.gamespot.com/feeds/news",
+        "child": "https://www.gamespot.com/articles/matthew-mcconaughey-discusses-passing-on-playing-joel-in-the-last-of-us-show",
+        "depth": 1,
+        "access": true
+    },
+    "url_13": {
+        "father": "https://www.gamespot.com/feeds/news",
+        "child": "https://www.gamespot.com/articles/former-uncharted-dev-on-possible-new-remake-or-remaster-whats-the-point",
+        "depth": 1,
+        "access": true
+    },
+    "url_14": {
+        "father": "https://www.gamespot.com/feeds/news",
+        "child": "https://www.gamespot.com/articles/shooter-climbing-steam-charts-lists-10-reasons-not-to-buy-it",
+        "depth": 1,
+        "access": true
+    },
+    "url_15": {
+        "father": "https://www.gamespot.com/feeds/news",
+        "child": "https://www.gamespot.com/articles/marvel-tokon-nears-500k-sales-in-its-first-week-despite-fighting-games-niche-appeal",
+        "depth": 1,
+        "access": true
+    },
+    "url_16": {
+        "father": "https://www.gamespot.com/feeds/news",
+        "child": "https://www.gamespot.com/articles/ignore-your-growing-backlog-its-time-to-play-south-of-midnight-on-steam",
+        "depth": 1,
+        "access": true
+    },
+    "url_17": {
+        "father": "https://www.gamespot.com/feeds/news",
+        "child": "https://www.gamespot.com/articles/marvels-wolverine-has-you-hunting-for-resources-drinking-whiskey-and-beating-up-nightmares",
+        "depth": 1,
+        "access": true
+    },
+    "url_18": {
+        "father": "https://www.gamespot.com/feeds/news",
+        "child": "https://www.gamespot.com/articles/gta-6-preorders-alone-could-pay-for-production-budget-expert",
+        "depth": 1,
+        "access": true
+    },
+    "url_19": {
+        "father": "https://www.gamespot.com/feeds/news",
+        "child": "https://www.gamespot.com/articles/new-krispy-kreme-pokemon-doughnuts-announced-and-youre-gonna-wanna-eat-em-all",
+        "depth": 1,
+        "access": true
+    },
+    "url_20": {
+        "father": "https://www.gamespot.com/feeds/news",
+        "child": "https://www.gamespot.com/articles/free-games-epic-games-store/1100-6476419",
+        "depth": 1,
+        "access": true
+    },
+    "url_21": {
+        "father": "https://www.gamespot.com/feeds/news",
+        "child": "https://www.gamespot.com/articles/jurassic-park-meets-alien-in-this-childhood-dream-turned-horror-game",
+        "depth": 1,
+        "access": true
+    },
+    "url_22": {
+        "father": "https://www.gamespot.com/feeds/news",
+        "child": "https://www.gamespot.com/articles/nintendo-is-pulling-the-plug-on-one-of-the-best-ways-to-get-rare-pokemon",
+        "depth": 1,
+        "access": true
+    },
+    "url_23": {
+        "father": "https://www.gamespot.com/feeds/news",
+        "child": "https://www.gamespot.com/articles/elder-scrolls-fans-think-theyve-worked-out-the-subtitle-for-elder-scrolls-6",
+        "depth": 1,
+        "access": true
+    },
+    "url_24": {
+        "father": "https://www.gamespot.com/feeds/news",
+        "child": "https://www.gamespot.com/articles/assassins-creed-black-flag-resynced-players-are-absolutely-destroying-edward-kenways-back",
+        "depth": 1,
+        "access": true
+    },
+    "url_25": {
+        "father": "https://www.gamespot.com/feeds/news",
+        "child": "https://www.gamespot.com/articles/twitch-is-now-using-channels-to-train-generative-ai-and-the-company-knows-its-unpopular",
+        "depth": 1,
+        "access": true
+    },
+    "url_26": {
+        "father": "https://www.gamespot.com/feeds/news",
+        "child": "https://www.gamespot.com/articles/the-rumored-new-james-bond-could-be-an-actor-from-battlefield-1",
+        "depth": 1,
+        "access": true
+    },
+    "url_27": {
+        "father": "https://www.gamespot.com/feeds/news",
+        "child": "https://www.gamespot.com/articles/new-bully-like-agefield-high-isnt-having-the-best-first-day-of-school",
+        "depth": 1,
+        "access": true
+    },
+    "url_28": {
+        "father": "https://www.gamespot.com/feeds/news",
+        "child": "https://www.gamespot.com/articles/helldivers-2-npcs-will-hug-you-back-now-even-when-no-one-else-will",
+        "depth": 1,
+        "access": true
+    },
+    "url_29": {
+        "father": "https://www.gamespot.com/feeds/news",
+        "child": "https://www.gamespot.com/articles/amazon-will-soon-be-out-of-the-mmo-business-entirely",
+        "depth": 1,
+        "access": true
+    },
+    "url_30": {
+        "father": "https://www.gamespot.com/feeds/news",
+        "child": "https://www.gamespot.com/articles/the-new-guitar-hero-err-stage-tour-reveals-its-first-songs",
+        "depth": 1,
+        "access": true
+    }
+}

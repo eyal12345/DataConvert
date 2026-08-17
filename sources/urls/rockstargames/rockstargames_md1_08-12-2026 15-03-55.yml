@@ -1,0 +1,160 @@
+url_0:
+  father: child input
+  child: https://www.rockstargames.com
+  depth: 0
+  access: true
+url_1:
+  father: https://www.rockstargames.com
+  child: https://www.rockstargames.com/newswire
+  depth: 1
+  access: true
+url_2:
+  father: https://www.rockstargames.com
+  child: https://www.rockstargames.com/videos
+  depth: 1
+  access: true
+url_3:
+  father: https://www.rockstargames.com
+  child: https://www.rockstargames.com/downloads
+  depth: 1
+  access: true
+url_4:
+  father: https://www.rockstargames.com
+  child: https://store.rockstargames.com
+  depth: 1
+  access: true
+url_5:
+  father: https://www.rockstargames.com
+  child: https://support.rockstargames.com
+  depth: 1
+  access: false
+url_6:
+  father: https://www.rockstargames.com
+  child: https://www.rockstargames.com/newswire/article/9k2kaa1o3297k9/grand-theft-auto-vi-an-extended-look
+  depth: 1
+  access: true
+url_7:
+  father: https://www.rockstargames.com
+  child: https://www.rockstargames.com/VI
+  depth: 1
+  access: true
+url_8:
+  father: https://www.rockstargames.com
+  child: https://www.rockstargames.com/VI/editions
+  depth: 1
+  access: true
+url_9:
+  father: https://www.rockstargames.com
+  child: https://www.rockstargames.com/newswire/article/2525o93834o413/the-kortz-center-heist-now-available-in-gta-online
+  depth: 1
+  access: true
+url_10:
+  father: https://www.rockstargames.com
+  child: https://www.rockstargames.com/games
+  depth: 1
+  access: true
+url_11:
+  father: https://www.rockstargames.com
+  child: https://www.rockstargames.com/gta-online
+  depth: 1
+  access: true
+url_12:
+  father: https://www.rockstargames.com
+  child: https://www.rockstargames.com/gta-plus
+  depth: 1
+  access: true
+url_13:
+  father: https://www.rockstargames.com
+  child: https://www.rockstargames.com/gta-online/license-plates
+  depth: 1
+  access: true
+url_14:
+  father: https://www.rockstargames.com
+  child: https://www.rockstargames.com/gta-online/career-progress
+  depth: 1
+  access: true
+url_15:
+  father: https://www.rockstargames.com
+  child: https://www.rockstargames.com/reddeadonline
+  depth: 1
+  access: true
+url_16:
+  father: https://www.rockstargames.com
+  child: https://www.rockstargames.com/newswire/article/ak4k33327a9k99/dispatch-from-the-frontier-get-triple-rewards-on-all-red-dead-online-t
+  depth: 1
+  access: true
+url_17:
+  father: https://www.rockstargames.com
+  child: https://store.rockstargames.com/new-arrivals
+  depth: 1
+  access: true
+url_18:
+  father: https://www.rockstargames.com
+  child: https://www.rockstargames.com/contact
+  depth: 1
+  access: true
+url_19:
+  father: https://www.rockstargames.com
+  child: https://www.rockstargames.com/careers
+  depth: 1
+  access: true
+url_20:
+  father: https://www.rockstargames.com
+  child: https://www.rockstargames.com/community-resources
+  depth: 1
+  access: true
+url_21:
+  father: https://www.rockstargames.com
+  child: https://www.rockstargames.com/account/communications
+  depth: 1
+  access: true
+url_22:
+  father: https://www.rockstargames.com
+  child: https://instagram.com/rockstargames
+  depth: 1
+  access: true
+url_23:
+  father: https://www.rockstargames.com
+  child: https://x.com/rockstargames
+  depth: 1
+  access: true
+url_24:
+  father: https://www.rockstargames.com
+  child: https://www.youtube.com/rockstargames
+  depth: 1
+  access: true
+url_25:
+  father: https://www.rockstargames.com
+  child: https://www.facebook.com/rockstargames
+  depth: 1
+  access: true
+url_26:
+  father: https://www.rockstargames.com
+  child: https://discord.gg/rockstargames
+  depth: 1
+  access: true
+url_27:
+  father: https://www.rockstargames.com
+  child: https://www.rockstargames.com/corpinfo
+  depth: 1
+  access: true
+url_28:
+  father: https://www.rockstargames.com
+  child: https://www.rockstargames.com/privacy
+  depth: 1
+  access: true
+url_29:
+  father: https://www.rockstargames.com
+  child: https://www.rockstargames.com/cookies
+  depth: 1
+  access: true
+url_30:
+  father: https://www.rockstargames.com
+  child: https://www.rockstargames.com/legal
+  depth: 1
+  access: true
+url_31:
+  father: https://www.rockstargames.com
+  child: https://www.rockstargames.com/ccpa
+  depth: 1
+  access: true

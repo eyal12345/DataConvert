@@ -11,6 +11,10 @@ import argparse
 import datetime
 import os
 
+# formats which hold a table, they are displayed by excel and not by the program which
+# windows connects to them, a table in a text editor is unreadable
+TABLE_FORMATS = ("csv", "xlsx")
+
 class URLClient(Frame):
 
     def __init__(self, manager, frame) -> None:
@@ -150,22 +154,43 @@ class URLClient(Frame):
         try:
             # get format argument from the UI
             format = self.entry3.get()
-            # initialize cmd command
-            cmd_command = ''
-            # open associated file of the format
-            if format in ["txt", "csv", "json", "yml", "xml"]:
-                cmd_command = f'notepad.exe "{self.full_path}"'
-            elif format in ["xlsx"]:
-                cmd_command = f'start excel "{self.full_path}"'
-            elif format in ["db"]:
+            # the file is opened by his full address, a relative address depends on the
+            # folder which the application was started from and the program misses him
+            path = os.path.abspath(self.full_path) if self.full_path else ''
+            if not path or not os.path.exists(path):
+                raise IOError('The result file does not exist, convert him before his display')
+            if format == "db":
+                # a database is not a file which a program displays, his rows are shown
+                # by the tool of sqlite in a console window
                 sqlite_path = self.get_sqlite_path()
                 cmd_command = [
                     "start", "cmd", "/k",
-                    f'{sqlite_path}\\sqlite3.exe', self.full_path, ".mode column", ".header on", "SELECT * FROM RESULTS;"
+                    f'{sqlite_path}\\sqlite3.exe', path, ".mode column", ".header on", "SELECT * FROM RESULTS;"
                 ]
-            subprocess.run(cmd_command, shell=True, check=True)
-        except IndexError as err:
+                subprocess.run(cmd_command, shell=True, check=True)
+            elif format in TABLE_FORMATS:
+                # a table belongs to excel, windows does not connect csv to him by himself
+                # and answers a request to open him with a window of choosing a program
+                subprocess.run(f'start excel "{path}"', shell=True, check=True)
+            else:
+                self.open_by_format(path)
+        except Exception as err:
+            # a failure of the display must be seen, otherwise the button looks broken
             messagebox.showerror(title='Error', message=str(err))
+
+    def open_by_format(self, path: str) -> None:
+        """
+        open the result file with the program which the machine connects to his extension, so
+        each format is displayed by the tool which matches him and not all of them as text
+        parameters:
+            path (str): the full address of the result file
+        """
+        try:
+            os.startfile(path)
+        except OSError:
+            # no program on this machine is connected to that extension, every format of the
+            # export is a text file underneath, so he is readable as plain text
+            subprocess.run(f'notepad.exe "{path}"', shell=True, check=True)
 
     def get_sqlite_path(self) -> str | None:
         path_directories = os.environ.get('PATH').split(os.pathsep)

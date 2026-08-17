@@ -1,0 +1,3635 @@
+url_0:
+  father: child input
+  child: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  depth: 0
+  access: true
+url_1:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/w/rest.php/v1/search
+  depth: 1
+  access: true
+url_2:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://creativecommons.org/licenses/by-sa/4.0/deed.en
+  depth: 1
+  access: true
+url_3:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Main_Page
+  depth: 1
+  access: true
+url_4:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://tr.wikipedia.org/wiki/Spider-Man_Brand_New_Day
+  depth: 1
+  access: true
+url_5:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Destin_Daniel_Cretton
+  depth: 1
+  access: true
+url_6:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Erik_Sommers
+  depth: 1
+  access: true
+url_7:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Spider-Man
+  depth: 1
+  access: true
+url_8:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Stan_Lee
+  depth: 1
+  access: true
+url_9:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Steve_Ditko
+  depth: 1
+  access: true
+url_10:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Kevin_Feige
+  depth: 1
+  access: true
+url_11:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Amy_Pascal
+  depth: 1
+  access: true
+url_12:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Avi_Arad
+  depth: 1
+  access: true
+url_13:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Tom_Holland
+  depth: 1
+  access: true
+url_14:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Zendaya
+  depth: 1
+  access: true
+url_15:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Sadie_Sink
+  depth: 1
+  access: true
+url_16:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Jacob_Batalon
+  depth: 1
+  access: true
+url_17:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Jon_Bernthal
+  depth: 1
+  access: true
+url_18:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Florence_Pugh
+  depth: 1
+  access: true
+url_19:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Tramell_Tillman
+  depth: 1
+  access: true
+url_20:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Marisa_Tomei
+  depth: 1
+  access: true
+url_21:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Mark_Ruffalo
+  depth: 1
+  access: true
+url_22:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Brett_Pawlak
+  depth: 1
+  access: true
+url_23:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Nat_Sanders
+  depth: 1
+  access: true
+url_24:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Harry_Yoon
+  depth: 1
+  access: true
+url_25:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Michael_Giacchino
+  depth: 1
+  access: true
+url_26:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Columbia_Pictures
+  depth: 1
+  access: true
+url_27:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Marvel_Studios
+  depth: 1
+  access: true
+url_28:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Pascal_Pictures
+  depth: 1
+  access: true
+url_29:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Sony_Pictures_Releasing
+  depth: 1
+  access: true
+url_30:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Dolby_Theatre
+  depth: 1
+  access: true
+url_31:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Superhero_film
+  depth: 1
+  access: true
+url_32:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Marvel_Comics
+  depth: 1
+  access: true
+url_33:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/List_of_Marvel_Cinematic_Universe_films
+  depth: 1
+  access: true
+url_34:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe
+  depth: 1
+  access: true
+url_35:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Telepath
+  depth: 1
+  access: true
+url_36:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Justin_Kuritzkes
+  depth: 1
+  access: true
+url_37:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Glasgow
+  depth: 1
+  access: true
+url_38:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Pinewood_Studios
+  depth: 1
+  access: true
+url_39:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Spider-Man_in_film
+  depth: 1
+  access: true
+url_40:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/2026_in_film
+  depth: 1
+  access: true
+url_41:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/List_of_highest_grossing_films
+  depth: 1
+  access: true
+url_42:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/New_York_City
+  depth: 1
+  access: true
+url_43:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Department_of_Damage_Control
+  depth: 1
+  access: true
+url_44:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/MIT
+  depth: 1
+  access: true
+url_45:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/SiRNA
+  depth: 1
+  access: true
+url_46:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Alter_ego
+  depth: 1
+  access: true
+url_47:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Roosevelt_Island
+  depth: 1
+  access: true
+url_48:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Psionic
+  depth: 1
+  access: true
+url_49:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Tobey_Maguire
+  depth: 1
+  access: true
+url_50:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Sam_Raimi
+  depth: 1
+  access: true
+url_51:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology
+  depth: 1
+  access: true
+url_52:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Telekinesis
+  depth: 1
+  access: true
+url_53:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Telepathy
+  depth: 1
+  access: true
+url_54:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Spirit_possession
+  depth: 1
+  access: true
+url_55:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Origin_story
+  depth: 1
+  access: true
+url_56:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Disney+
+  depth: 1
+  access: true
+url_57:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/United_States_Army_Special_Forces
+  depth: 1
+  access: true
+url_58:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Houseboat
+  depth: 1
+  access: true
+url_59:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Command_center
+  depth: 1
+  access: true
+url_60:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Safe_house
+  depth: 1
+  access: true
+url_61:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Public_bathing
+  depth: 1
+  access: true
+url_62:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Barack_Obama
+  depth: 1
+  access: true
+url_63:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Gamma_radiation
+  depth: 1
+  access: true
+url_64:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Quantum_mechanics
+  depth: 1
+  access: true
+url_65:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Mid-credits_scene
+  depth: 1
+  access: true
+url_66:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Shang-Chi_and_the_Legend_of_the_Ten_Rings
+  depth: 1
+  access: true
+url_67:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Michael_Mando
+  depth: 1
+  access: true
+url_68:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Liza_ColÃ³n-Zayas
+  depth: 1
+  access: true
+url_69:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/New_York_City_Police_Department
+  depth: 1
+  access: true
+url_70:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Olivia_Booth-Ford
+  depth: 1
+  access: true
+url_71:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Fan_Xiaoshuang
+  depth: 1
+  access: true
+url_72:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Naomi_Watts
+  depth: 1
+  access: true
+url_73:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/AI
+  depth: 1
+  access: true
+url_74:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Keith_David
+  depth: 1
+  access: true
+url_75:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Nature_documentary
+  depth: 1
+  access: true
+url_76:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Eman_Esfandi
+  depth: 1
+  access: true
+url_77:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Paul_Rabin
+  depth: 1
+  access: true
+url_78:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Mary_Jane_Watson
+  depth: 1
+  access: true
+url_79:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Pat_Kiernan
+  depth: 1
+  access: true
+url_80:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Zabryna_Guevara
+  depth: 1
+  access: true
+url_81:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Sheila_Rivera
+  depth: 1
+  access: true
+url_82:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Mayor_of_New_York_City
+  depth: 1
+  access: true
+url_83:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Marvin_Jones_III
+  depth: 1
+  access: true
+url_84:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Crime_boss
+  depth: 1
+  access: true
+url_85:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Albinism_in_humans
+  depth: 1
+  access: true
+url_86:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Cyborg
+  depth: 1
+  access: true
+url_87:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Tony_Revolori
+  depth: 1
+  access: true
+url_88:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Martin_Starr
+  depth: 1
+  access: true
+url_89:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Sony_Pictures
+  depth: 1
+  access: true
+url_90:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Disney
+  depth: 1
+  access: true
+url_91:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Miles_Morales
+  depth: 1
+  access: true
+url_92:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/The_Hollywood_Reporter
+  depth: 1
+  access: true
+url_93:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Jon_Watts
+  depth: 1
+  access: true
+url_94:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Tom_Rothman
+  depth: 1
+  access: true
+url_95:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/2023_Writers_Guild_of_America_strike
+  depth: 1
+  access: true
+url_96:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Jeff_Sneider
+  depth: 1
+  access: true
+url_97:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Justin_Lin
+  depth: 1
+  access: true
+url_98:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Euphoria_season_3
+  depth: 1
+  access: true
+url_99:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Charlie_Cox
+  depth: 1
+  access: true
+url_100:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/X-Men
+  depth: 1
+  access: true
+url_101:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Andrew_Garfield
+  depth: 1
+  access: true
+url_102:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/CinemaCon
+  depth: 1
+  access: true
+url_103:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Profanity
+  depth: 1
+  access: true
+url_104:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Brad_Winderbaum
+  depth: 1
+  access: true
+url_105:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Marvel_Team-Up
+  depth: 1
+  access: true
+url_106:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Team-up
+  depth: 1
+  access: true
+url_107:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Three-act_structure
+  depth: 1
+  access: true
+url_108:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Digital_age
+  depth: 1
+  access: true
+url_109:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/List_of_Spider-Man_enemies
+  depth: 1
+  access: true
+url_110:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Trapster
+  depth: 1
+  access: true
+url_111:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Xu_Shang-Chi
+  depth: 1
+  access: true
+url_112:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/John_Romita_Sr.
+  depth: 1
+  access: true
+url_113:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Artificial_intelligence
+  depth: 1
+  access: true
+url_114:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Sewing_machine
+  depth: 1
+  access: true
+url_115:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/3D_printing
+  depth: 1
+  access: true
+url_116:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/List_of_Punisher_titles
+  depth: 1
+  access: true
+url_117:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/John_Buscema
+  depth: 1
+  access: true
+url_118:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/List_of_Hulk_titles
+  depth: 1
+  access: true
+url_119:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Total_Film
+  depth: 1
+  access: true
+url_120:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Mister_Negative
+  depth: 1
+  access: true
+url_121:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Principal_photography
+  depth: 1
+  access: true
+url_122:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Working_title
+  depth: 1
+  access: true
+url_123:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Christopher_Nolan
+  depth: 1
+  access: true
+url_124:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Wingsuit_flying
+  depth: 1
+  access: true
+url_125:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Parkour
+  depth: 1
+  access: true
+url_126:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Body_hopping
+  depth: 1
+  access: true
+url_127:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/List_of_vehicles_of_the_New_York_City_Police_Department
+  depth: 1
+  access: true
+url_128:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Taxis_of_New_York_City
+  depth: 1
+  access: true
+url_129:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Glasgow_city_centre
+  depth: 1
+  access: true
+url_130:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Merchant_City
+  depth: 1
+  access: true
+url_131:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/George_Square
+  depth: 1
+  access: true
+url_132:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Trongate
+  depth: 1
+  access: true
+url_133:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Set_piece
+  depth: 1
+  access: true
+url_134:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Location_shooting
+  depth: 1
+  access: true
+url_135:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Impact_of_the_COVID-19_pandemic_on_cinema
+  depth: 1
+  access: true
+url_136:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/COVID-19_pandemic
+  depth: 1
+  access: true
+url_137:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Queens
+  depth: 1
+  access: true
+url_138:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Buckinghamshire
+  depth: 1
+  access: true
+url_139:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Queensboro_Bridge
+  depth: 1
+  access: true
+url_140:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Brookwood_Cemetery
+  depth: 1
+  access: true
+url_141:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Surrey
+  depth: 1
+  access: true
+url_142:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Battersea_Park
+  depth: 1
+  access: true
+url_143:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Concussion
+  depth: 1
+  access: true
+url_144:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Fanum_House
+  depth: 1
+  access: true
+url_145:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Basingstoke
+  depth: 1
+  access: true
+url_146:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Ravenscourt_Park
+  depth: 1
+  access: true
+url_147:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/HM_Prison_Dorchester
+  depth: 1
+  access: true
+url_148:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/ScreenX
+  depth: 1
+  access: true
+url_149:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/IMAX
+  depth: 1
+  access: true
+url_150:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Amazing_Fantasy
+  depth: 1
+  access: true
+url_151:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/The_Spectacular_Spider-Man
+  depth: 1
+  access: true
+url_152:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/The_Punisher_War_Journal
+  depth: 1
+  access: true
+url_153:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Spider-Man_Adventures
+  depth: 1
+  access: true
+url_154:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/The_New_Avengers
+  depth: 1
+  access: true
+url_155:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Frames_per_second
+  depth: 1
+  access: true
+url_156:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Key_to_the_city
+  depth: 1
+  access: true
+url_157:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Rosario_Dawson
+  depth: 1
+  access: true
+url_158:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Additional_photography
+  depth: 1
+  access: true
+url_159:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Assembly_cut
+  depth: 1
+  access: true
+url_160:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Sony_Pictures_Imageworks
+  depth: 1
+  access: true
+url_161:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Framestore
+  depth: 1
+  access: true
+url_162:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Rise_FX
+  depth: 1
+  access: true
+url_163:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Cantina_Creative
+  depth: 1
+  access: true
+url_164:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Leitmotif
+  depth: 1
+  access: true
+url_165:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Sony_Classical
+  depth: 1
+  access: true
+url_166:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Spider-Man_theme_song
+  depth: 1
+  access: true
+url_167:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Screen_Rant
+  depth: 1
+  access: true
+url_168:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/YouTube
+  depth: 1
+  access: true
+url_169:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Sony_Pictures_Entertainment
+  depth: 1
+  access: true
+url_170:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.youtube.com/watch
+  depth: 1
+  access: true
+url_171:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Gizmodo
+  depth: 1
+  access: true
+url_172:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Influencer
+  depth: 1
+  access: true
+url_173:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/ComicBook.com
+  depth: 1
+  access: true
+url_174:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Bleeding_Cool
+  depth: 1
+  access: true
+url_175:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Scavenger_hunt
+  depth: 1
+  access: true
+url_176:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/The_Six_Arms_Saga
+  depth: 1
+  access: true
+url_177:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI
+  depth: 1
+  access: true
+url_178:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/TheWrap
+  depth: 1
+  access: true
+url_179:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/CineEurope
+  depth: 1
+  access: true
+url_180:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/San_Diego_Comic-Con
+  depth: 1
+  access: true
+url_181:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Little_Caesars
+  depth: 1
+  access: true
+url_182:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Asus
+  depth: 1
+  access: true
+url_183:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/BMW
+  depth: 1
+  access: true
+url_184:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/BMW_iX3
+  depth: 1
+  access: true
+url_185:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Zillow
+  depth: 1
+  access: true
+url_186:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_knockout_stage
+  depth: 1
+  access: true
+url_187:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Argentina_national_football_team
+  depth: 1
+  access: true
+url_188:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Lionel_Messi
+  depth: 1
+  access: true
+url_189:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Galaxy_Z_series
+  depth: 1
+  access: true
+url_190:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Kasra_Farahani
+  depth: 1
+  access: true
+url_191:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Galaxy_Unpacked
+  depth: 1
+  access: true
+url_192:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Major_League_Baseball
+  depth: 1
+  access: true
+url_193:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Juan_Soto
+  depth: 1
+  access: true
+url_194:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/New_York_Mets
+  depth: 1
+  access: true
+url_195:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Mr._Met
+  depth: 1
+  access: true
+url_196:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Citi_Field
+  depth: 1
+  access: true
+url_197:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Fortnite_Battle_Royale
+  depth: 1
+  access: true
+url_198:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Google
+  depth: 1
+  access: true
+url_199:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Street_View
+  depth: 1
+  access: true
+url_200:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Google_Search
+  depth: 1
+  access: true
+url_201:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/TikTok
+  depth: 1
+  access: true
+url_202:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Amazon_Prime
+  depth: 1
+  access: true
+url_203:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/RealD_3D
+  depth: 1
+  access: true
+url_204:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/D-Box
+  depth: 1
+  access: true
+url_205:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Dolby_Cinema
+  depth: 1
+  access: true
+url_206:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/4DX
+  depth: 1
+  access: true
+url_207:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/70_mm_film
+  depth: 1
+  access: true
+url_208:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Hulu
+  depth: 1
+  access: true
+url_209:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/List_of_highest-grossing_films
+  depth: 1
+  access: true
+url_210:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/List_of_highest-grossing_openings_for_films
+  depth: 1
+  access: true
+url_211:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Box_office_market
+  depth: 1
+  access: true
+url_212:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Rotten_Tomatoes
+  depth: 1
+  access: true
+url_213:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Metacritic
+  depth: 1
+  access: true
+url_214:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Weighted_average
+  depth: 1
+  access: true
+url_215:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/CinemaScore
+  depth: 1
+  access: true
+url_216:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/PostTrak
+  depth: 1
+  access: true
+url_217:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Deadline_Hollywood
+  depth: 1
+  access: true
+url_218:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Owen_Gleiberman
+  depth: 1
+  access: true
+url_219:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Peter_Bradshaw
+  depth: 1
+  access: true
+url_220:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/The_Guardian
+  depth: 1
+  access: true
+url_221:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/David_Ehrlich
+  depth: 1
+  access: true
+url_222:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/IndieWire
+  depth: 1
+  access: true
+url_223:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Rolling_Stone
+  depth: 1
+  access: true
+url_224:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.bbfc.co.uk/release/spider-man-brand-new-day-q29sbgvjdglvbjpwwc0xmtezmty0
+  depth: 1
+  access: true
+url_225:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/British_Board_of_Film_Classification
+  depth: 1
+  access: true
+url_226:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://deadline.com/2026/07/spider-man-brand-new-day-box-office-projection-1237005824
+  depth: 1
+  access: true
+url_227:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.boxofficemojo.com/title/tt22084616
+  depth: 1
+  access: true
+url_228:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Box_Office_Mojo
+  depth: 1
+  access: true
+url_229:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/IMDb
+  depth: 1
+  access: true
+url_230:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://deadline.com/2024/10/spider-man-tom-holland-new-movie-1236158673
+  depth: 1
+  access: true
+url_231:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.gamesradar.com/entertainment/superhero-movies/mcu-boss-kevin-feige-reveals-why-marvel-is-pairing-up-spider-man-and-the-punisher-in-brand-new-day-its-street-level-crime-as-opposed-to-world-ending-events
+  depth: 1
+  access: true
+url_232:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/GamesRadar+
+  depth: 1
+  access: true
+url_233:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.empireonline.com/movies/news/spider-man-brand-new-day-classic-elements-of-spidey-kevin-feige-exclusive
+  depth: 1
+  access: true
+url_234:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.esbnyc.com/blog/watch-tom-holland-swings-esb-drop-spider-man-brand-new-day-trailer
+  depth: 1
+  access: true
+url_235:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/The_Empire_State_Building
+  depth: 1
+  access: true
+url_236:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://ew.com/spider-man-brand-new-day-trailer-punisher-hulk-scorpion-11928072
+  depth: 1
+  access: false
+url_237:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Entertainment_Weekly
+  depth: 1
+  access: true
+url_238:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://screenrant.com/spider-man-new-powers-brand-new-day-confirmed
+  depth: 1
+  access: false
+url_239:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://gizmodo.com/spider-man-brand-new-day-trailer-breakdown-marvel-2000734989
+  depth: 1
+  access: true
+url_240:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.motionpictures.org/2026/07/why-sadie-sinks-spider-man-brand-new-way-role-has-been-kept-a-secret
+  depth: 1
+  access: true
+url_241:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/The_Credits
+  depth: 1
+  access: true
+url_242:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Motion_Picture_Association
+  depth: 1
+  access: true
+url_243:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-trailer
+  depth: 1
+  access: true
+url_244:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://ew.com/zendaya-mj-pass-spider-man-brand-new-day-script-12028408
+  depth: 1
+  access: false
+url_245:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.gamesradar.com/entertainment/marvel-movies/who-does-sadie-sink-play-in-spider-man-brand-new-day
+  depth: 1
+  access: true
+url_246:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-ending-explained-who-dies
+  depth: 1
+  access: true
+url_247:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://variety.com/2026/film/features/sadie-sink-jean-grey-interview-spider-man-brand-new-day-x-men-1236829644
+  depth: 1
+  access: true
+url_248:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://ew.com/sadie-sink-spider-man-brand-new-day-character-officially-revealed-12028693
+  depth: 1
+  access: false
+url_249:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://ew.com/sadie-sink-talks-jean-grey-marvel-future-x-men-after-spider-man-brand-new-day-12035221
+  depth: 1
+  access: false
+url_250:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.vanityfair.com/story/sadie-sink-x-men-jean-grey-spider-man
+  depth: 1
+  access: true
+url_251:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.thewrap.com/creative-content/movies/spider-man-brand-new-day-destin-daniel-cretton-interview
+  depth: 1
+  access: true
+url_252:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://variety.com/2026/film/news/spider-man-brand-new-day-footage-cinemacon-tom-holland-zendaya-love-interest-1236704423
+  depth: 1
+  access: true
+url_253:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://ew.com/spider-man-brand-new-day-cinemacon-footage-11948022
+  depth: 1
+  access: false
+url_254:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://variety.com/2026/tv/news/samsung-galaxy-spider-man-brand-new-day-1236782164
+  depth: 1
+  access: true
+url_255:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://screenrant.com/spider-man-brand-new-day-mj-peter-optimism-reversal-zendaya
+  depth: 1
+  access: false
+url_256:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-jon-bernthal-1236296073
+  depth: 1
+  access: true
+url_257:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://thedirect.com/article/the-punisher-one-last-kill-perfectly-sets-up-frank-castle-for-spider-man-brand-new-dayheres-why
+  depth: 1
+  access: true
+url_258:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://collider.com/spider-man-brand-new-day-tom-holland-sadie-sink-jon-bernthal-punisher
+  depth: 1
+  access: false
+url_259:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://variety.com/2026/film/features/spider-man-brand-new-day-punisher-jon-bernthal-odyssey-1236822987
+  depth: 1
+  access: true
+url_260:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.gamesradar.com/entertainment/marvel-movies/tom-holland-compares-jon-bernthals-frank-castle-to-robert-downey-jr-s-tony-stark-in-spider-man-brand-new-day-the-relationship-between-spider-man-and-the-punisher-is-so-funny
+  depth: 1
+  access: true
+url_261:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.gamesradar.com/entertainment/marvel-movies/punisher-easter-egg-in-spider-man-brand-new-day-trailer-could-give-away-which-marvel-comic-run-the-mcu-movie-is-adapting
+  depth: 1
+  access: true
+url_262:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://aiptcomics.com/2026/07/08/the-art-of-spider-man-brand-new-day-review-highlights
+  depth: 1
+  access: false
+url_263:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.gamesradar.com/entertainment/marvel-movies/yelenas-cameo-in-spider-man-brand-new-day-finally-answers-one-of-the-mcus-biggest-questions-about-the-avengers
+  depth: 1
+  access: true
+url_264:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://deadline.com/gallery/spider-man-brand-new-day-cast-characters-mutants-avengers
+  depth: 1
+  access: true
+url_265:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-confirms-that-the-mcu-has-a-new-black-widow
+  depth: 1
+  access: true
+url_266:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://comicbook.com/movies/news/x-men-villain-officially-confirmed-for-spider-man-brand-new-day-setting-up-marvels-mutant-saga
+  depth: 1
+  access: true
+url_267:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.gq.com/story/tramell-tillman-spider-man-brand-new-day
+  depth: 1
+  access: true
+url_268:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.radiotimes.com/movies/scifi/spider-man-brand-new-day-lesson-grief-comment
+  depth: 1
+  access: true
+url_269:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Radio_Times
+  depth: 1
+  access: true
+url_270:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-mark-ruffalo-1236232140
+  depth: 1
+  access: true
+url_271:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.slashfilm.com/2126438/why-mark-ruffalo-hulk-human-again-spider-man-brand-new-day
+  depth: 1
+  access: true
+url_272:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki//Film
+  depth: 1
+  access: true
+url_273:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.thewrap.com/creative-content/movies/spider-man-brand-new-day-trailer-savage-hulk
+  depth: 1
+  access: true
+url_274:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://collider.com/spider-man-brand-new-day-trailer-hulk-mcu-change-savage-hulk
+  depth: 1
+  access: false
+url_275:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://comicbook.com/movies/news/spider-man-brand-new-day-scorpion-first-look
+  depth: 1
+  access: true
+url_276:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.gamesradar.com/entertainment/marvel-movies/comic-book-characters-in-the-spider-man-brand-new-day-trailer
+  depth: 1
+  access: true
+url_277:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://deadline.com/2026/07/liza-colon-zayas-hulu-david-shore-series-conviction-1236998671
+  depth: 1
+  access: true
+url_278:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.superherohype.com/news/683043-spider-man-fans-found-major-mcu-cameo-hidden-brand-new-day
+  depth: 1
+  access: true
+url_279:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/SuperHeroHype
+  depth: 1
+  access: true
+url_280:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.ign.com/articles/spider-man-brand-new-day-director-gives-best-look-yet-at-villains-boomerang-and-the-hand-but-are-the-photos-a-misdirect
+  depth: 1
+  access: true
+url_281:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/IGN
+  depth: 1
+  access: true
+url_282:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://comicbook.com/movies/list/all-5-mcu-spider-man-stories-that-happened-before-brand-new-day
+  depth: 1
+  access: true
+url_283:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.slashfilm.com/2226537/peter-parker-ai-assistant-ev-spider-man-brand-new-day-voice-naomi-watts
+  depth: 1
+  access: true
+url_284:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://screenrant.com/spiderman-brand-new-day-movie-easter-eggs-references
+  depth: 1
+  access: false
+url_285:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://comicbook.com/movies/news/spider-man-brand-new-day-confirms-identity-of-mjs-boyfriend-and-hes-a-marvel-character-fans-love-to-hate
+  depth: 1
+  access: true
+url_286:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-star-strongly-debunks-theory-about-the-identity-of-mjs-new-boyfriend
+  depth: 1
+  access: true
+url_287:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.denofgeek.com/movies/spider-man-brand-new-day-looks-to-directly-tie-into-daredevil-born-again
+  depth: 1
+  access: true
+url_288:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Den_of_Geek
+  depth: 1
+  access: true
+url_289:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://deadline.com/2025/09/spider-man-brand-new-day-casts-marvin-jones-iii-tombstone-1236553455
+  depth: 1
+  access: true
+url_290:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.superherohype.com/news/683720-spider-man-brand-new-day-cast-daredevil-star-key-villain
+  depth: 1
+  access: true
+url_291:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-villain-says-a-lot-of-his-scenes-were-cut-and-more-recognizable-actors-were-removed-entirely
+  depth: 1
+  access: true
+url_292:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.hollywoodreporter.com/heat-vision/sony-fires-back-at-marvel-spider-man-movie-divorce-1233490
+  depth: 1
+  access: true
+url_293:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://deadline.com/2019/08/kevin-feige-spider-man-franchise-exit-disney-sony-dispute-avengers-endgame-captain-america-winter-soldier-tom-rothman-bob-iger-1202672545
+  depth: 1
+  access: true
+url_294:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://variety.com/2019/film/news/sony-marvel-tom-holland-spider-man-1203351489
+  depth: 1
+  access: true
+url_295:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://collider.com/tom-holland-spider-man-contract-spider-man-no-way-home
+  depth: 1
+  access: false
+url_296:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.gq-magazine.co.uk/culture/article/tom-holland-cherry-interview
+  depth: 1
+  access: true
+url_297:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/British_GQ
+  depth: 1
+  access: true
+url_298:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://ew.com/movies/tom-holland-spider-man-no-way-home-preview
+  depth: 1
+  access: false
+url_299:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.gq.com/story/tom-holland-superhero-of-the-year-2021
+  depth: 1
+  access: true
+url_300:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://movieweb.com/tom-holland-casts-more-doubt-possible-return-spider-man
+  depth: 1
+  access: false
+url_301:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/MovieWeb
+  depth: 1
+  access: true
+url_302:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.fandango.com/movie-news/spider-man-no-way-home-producer-amy-pascal-reveals-more-about-the-historic-film-and-confirms-tom-hollands-future-as-spider-man-754461
+  depth: 1
+  access: true
+url_303:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Fandango_Media
+  depth: 1
+  access: true
+url_304:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.hollywoodreporter.com/movies/movie-news/spider-man-movies-marvel-sony-no-way-home-1235054015
+  depth: 1
+  access: true
+url_305:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.nytimes.com/2021/12/17/movies/kevin-feige-amy-pascal-spider-man-no-way-home.html
+  depth: 1
+  access: true
+url_306:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/The_New_York_Times
+  depth: 1
+  access: true
+url_307:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://search.worldcat.org/issn/0362-4331
+  depth: 1
+  access: true
+url_308:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://deadline.com/2022/04/spider-man-jon-watts-exits-marvel-fantastic-four-film-1235013110
+  depth: 1
+  access: true
+url_309:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://deadline.com/2022/05/sony-tom-rothman-spider-man-ghostbusters-1235024137
+  depth: 1
+  access: true
+url_310:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://ew.com/movies/kevin-feige-marvel-phase-5-exclusive-interview
+  depth: 1
+  access: false
+url_311:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://variety.com/2023/film/columns/across-the-spider-verse-miles-morales-spider-woman-1235629183
+  depth: 1
+  access: true
+url_312:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.empireonline.com/movies/news/spider-man-brand-new-day-tom-holland-pitched-spider-puberty-story-exclusive
+  depth: 1
+  access: true
+url_313:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://variety.com/2023/film/news/tom-holland-spider-man-4-writers-strike-1235631143
+  depth: 1
+  access: true
+url_314:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.hollywoodreporter.com/feature/tom-holland-the-crowded-room-future-spider-man-1235514347
+  depth: 1
+  access: true
+url_315:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://theplaylist.net/tom-holland-spider-man-brand-new-day-is-mature-20260603
+  depth: 1
+  access: false
+url_316:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://collider.com/tom-holland-spider-man-future
+  depth: 1
+  access: false
+url_317:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.hollywoodreporter.com/business/business-news/writers-guild-deal-reached-studios-end-of-strike-1235403981
+  depth: 1
+  access: true
+url_318:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://deadline.com/2024/04/tom-holland-spider-man-sands-film-festival-2024-1235891203
+  depth: 1
+  access: true
+url_319:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://editorial.rottentomatoes.com/article/spider-man-brand-new-day-interview-tom-holland-zendaya-jacob-batalon-sadie-sink
+  depth: 1
+  access: true
+url_320:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.ladbible.com/entertainment/celebrity/tom-holland-spiderman-how-long-play-for-lego-671643-20250828
+  depth: 1
+  access: true
+url_321:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/LAD_Bible
+  depth: 1
+  access: true
+url_322:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.esquire.com/style/grooming/a66014069/tom-holland-prada-paradigme-fragrance-interview
+  depth: 1
+  access: true
+url_323:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.hollywoodreporter.com/movies/movie-news/spider-man-the-beatles-jumanji-sony-tom-rothman-interview-1236663221
+  depth: 1
+  access: true
+url_324:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.superherohype.com/news/670448-spider-man-brand-new-day-scrapped-idea-would-have-been-adorable
+  depth: 1
+  access: true
+url_325:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.theinsneider.com/p/euphoria-season-3-delay-zendaya-spider-man-4-scarlett-johansson-jurassic-world-movie-batman-2-shoot
+  depth: 1
+  access: true
+url_326:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/The_InSneider
+  depth: 1
+  access: true
+url_327:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://comicbook.com/movies/news/spider-man-4-justin-lin-directing-report
+  depth: 1
+  access: true
+url_328:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.theinsneider.com/p/madame-web-reshoots-spiderman-4-rumors-harry-potter-tv-series-lorne-michaels-jason-reitman-snl
+  depth: 1
+  access: true
+url_329:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://gizmodo.com/xmen-team-mcu-kevin-feige-spiderman-4-update-2000476926
+  depth: 1
+  access: true
+url_330:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.cinemablend.com/interviews/kevin-feige-explains-why-spider-man-4-probably-will-replace-jon-watts-as-director
+  depth: 1
+  access: true
+url_331:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/CinemaBlend
+  depth: 1
+  access: true
+url_332:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.hollywoodreporter.com/movies/movie-features/wolfs-director-jon-watts-brad-pitt-george-clooney-interview-venice-1235979433
+  depth: 1
+  access: true
+url_333:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://deadline.com/2024/09/spider-man-movie-destin-daniel-cretton-1236082823
+  depth: 1
+  access: true
+url_334:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.hollywoodreporter.com/movies/movie-news/spider-man-4-finds-its-director-1235995984
+  depth: 1
+  access: true
+url_335:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://variety.com/2022/film/news/avenger-the-kang-dynasty-destin-daniel-cretton-director-1235326300
+  depth: 1
+  access: true
+url_336:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.hollywoodreporter.com/movies/movie-news/avengers-the-kang-dynasty-loses-director-1235648140
+  depth: 1
+  access: true
+url_337:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://variety.com/2024/film/news/avengers-secret-wars-doomsday-russo-brothers-return-1235879783
+  depth: 1
+  access: true
+url_338:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.indiewire.com/features/interviews/spider-man-brand-new-day-director-interview-1235206443
+  depth: 1
+  access: true
+url_339:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://variety.com/2024/film/news/spider-man-4-destin-daniel-cretton-tom-holland-1235364633
+  depth: 1
+  access: true
+url_340:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.hollywoodreporter.com/movies/movie-news/tom-holland-to-star-in-christopher-nolan-next-film-1236040294
+  depth: 1
+  access: true
+url_341:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://variety.com/2026/film/news/zendaya-tom-holland-spider-man-brand-new-day-rewrite-bad-scene-1236765076
+  depth: 1
+  access: true
+url_342:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://theplaylist.net/tom-holland-the-odyssey-spider-man-brand-new-day-20260603
+  depth: 1
+  access: false
+url_343:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.hollywoodreporter.com/movies/movie-news/tom-holland-read-spider-man-4-script-zendaya-1236034546
+  depth: 1
+  access: true
+url_344:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: http://theplaylist.net/spider-man-brand-new-day-destin-daniel-cretton-begged-direct-tom-holland-saved-film-20260723
+  depth: 1
+  access: true
+url_345:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://variety.com/2024/film/global/tom-holland-spider-man-4-shooting-next-summer-1236187529
+  depth: 1
+  access: true
+url_346:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.thewrap.com/creative-content/movies/spider-man-brand-new-day-written-by-challengers-scribe
+  depth: 1
+  access: true
+url_347:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://directories.wga.org/project/1284194/spider-man-brand-new-day
+  depth: 1
+  access: true
+url_348:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Writers_Guild_of_America_West
+  depth: 1
+  access: true
+url_349:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.theinsneider.com/p/spiderman-4-director-destin-daniel-cretton-spiderverse-3-may-be-delayed-to-2027-to-make-room
+  depth: 1
+  access: true
+url_350:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.theinsneider.com/p/spider-man-4-rumors-marvel-pr-what-would-nikki-finke-do-luigi-mangione-movie-dune-3-dp
+  depth: 1
+  access: true
+url_351:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://featurefirst.net/new-spider-man-4-rumours-imply-a-hellish-adventure
+  depth: 1
+  access: true
+url_352:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://variety.com/2024/film/news/zendaya-anne-hathaway-chrirstopher-nolan-new-movie-1236205153
+  depth: 1
+  access: true
+url_353:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.thewrap.com/charlie-cox-debunks-spider-man-rumors-video
+  depth: 1
+  access: true
+url_354:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://comicbook.com/movies/news/marvel-spider-man-4-filming-start-confirmed-tom-holland-schedule
+  depth: 1
+  access: true
+url_355:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://deadline.com/2025/02/tom-holland-spider-man-release-date-2026-1236297935
+  depth: 1
+  access: true
+url_356:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://variety.com/2025/film/news/spider-man-4-delayed-two-weeks-tom-holland-nolan-odyssey-1236316067
+  depth: 1
+  access: true
+url_357:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://deadline.com/2025/03/sadie-sink-spider-man-movie-1236323300
+  depth: 1
+  access: true
+url_358:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.nylon.com/entertainment/sadie-sink-spider-man-brand-new-day-theater-john-proctor-is-the-villain-romeo-and-juliet-interview
+  depth: 1
+  access: true
+url_359:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.rollingstone.com/tv-movies/tv-movie-features/spider-man-brand-new-day-interview-director-tom-holland-1235595446
+  depth: 1
+  access: true
+url_360:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.syfy.com/syfy-wire/who-is-sadie-sink-playing-in-spider-man-brand-new-day-fan-theories-explored
+  depth: 1
+  access: true
+url_361:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Syfy
+  depth: 1
+  access: true
+url_362:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-producer-compares-sadie-sinks-mystery-character-to-no-way-homes-worst-kept-secret-multiverse-reveal-people-love-to-be-surprised
+  depth: 1
+  access: true
+url_363:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.gamesradar.com/entertainment/marvel-movies/kevin-feige-says-spider-man-brand-new-days-villain-was-originally-a-very-obscure-character-nobody-has-ever-heard-of
+  depth: 1
+  access: true
+url_364:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://deadline.com/2026/08/spider-man-brand-new-day-director-explains-ending-sadie-sink-1237016256
+  depth: 1
+  access: true
+url_365:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://variety.com/2025/film/news/spider-man-4-brand-new-day-cinemacon-tom-holland-1236349305
+  depth: 1
+  access: true
+url_366:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://deadline.com/2025/05/spider-man-brand-new-day-casts-liza-colon-zayas-1236389841
+  depth: 1
+  access: true
+url_367:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.screendaily.com/news/spider-man-brand-new-day-gearing-up-to-shoot-in-uk-for-sony-marvel/5206111.article
+  depth: 1
+  access: true
+url_368:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Screen_Daily
+  depth: 1
+  access: true
+url_369:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.heraldscotland.com/news/25220900.spider-man-4-everything-know-far
+  depth: 1
+  access: true
+url_370:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.hollywoodreporter.com/movies/movie-news/marvels-kevin-feige-fantastic-four-superman-1236324127
+  depth: 1
+  access: true
+url_371:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.empireonline.com/movies/news/tom-holland-repay-the-favour-spider-man-r-rated-punisher-exclusive
+  depth: 1
+  access: true
+url_372:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.mensjournal.com/entertainment/tom-holland-jon-bernthal-punisher-hulk-spider-man
+  depth: 1
+  access: true
+url_373:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.empireonline.com/movies/news/spider-man-brand-new-day-authentic-frank-castle-exclusive
+  depth: 1
+  access: true
+url_374:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.comicbasics.com/tom-holland-reveals-why-spider-man-keeps-webbing-the-punishers-mouth-shut-in-brand-new-day
+  depth: 1
+  access: true
+url_375:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://screenrant.com/spiderman-brand-new-day-punisher-role-mcu-disney-plus-continuity-jon-bernthal
+  depth: 1
+  access: false
+url_376:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://ew.com/wonder-man-daredevil-born-again-season-2-x-men-97-marvel-nycc-exclusive-11827139
+  depth: 1
+  access: false
+url_377:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://view.email.hollywoodreporter.com
+  depth: 1
+  access: true
+url_378:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://screenrant.com/spider-man-tom-holland-hulk-team-up
+  depth: 1
+  access: false
+url_379:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.cbr.com/kevin-feige-finally-sees-mcu-dream-come-true-in-spider-man-brand-new-day
+  depth: 1
+  access: false
+url_380:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Comic_Book_Resources
+  depth: 1
+  access: true
+url_381:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.ign.com/articles/spider-man-star-tom-holland-says-brand-new-day-feels-like-a-rebirth-and-the-first-movie-in-the-next-chapter-though-hes-planning-acting-break-in-2027
+  depth: 1
+  access: true
+url_382:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://comicbook.com/movies/news/spider-man-brand-new-day-director-confirms-1-big-change-from-first-3-movies-exclusive
+  depth: 1
+  access: true
+url_383:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://collider.com/spider-man-brand-new-day-reaction-kevin-feige-amy-pascal-interview
+  depth: 1
+  access: false
+url_384:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.thewrap.com/creative-content/movies/spider-man-chris-mckenna-erik-sommers-interview
+  depth: 1
+  access: true
+url_385:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.ign.com/articles/tom-holland-teases-potentially-huge-part-of-the-spider-man-brand-new-day-story
+  depth: 1
+  access: true
+url_386:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.denofgeek.com/culture/den-of-geek-sdcc-spider-man-brand-new-day-collectible-variant-magazine-covers
+  depth: 1
+  access: true
+url_387:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.superherohype.com/movies/679784-tom-holland-spider-man-ignores-no-way-home-warning-in-brand-new-day
+  depth: 1
+  access: true
+url_388:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.marvel.com/articles/movies/spider-man-brand-new-day-trailer-and-movie-tickets-go-live
+  depth: 1
+  access: true
+url_389:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Marvel.com
+  depth: 1
+  access: true
+url_390:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.gamesradar.com/entertainment/marvel-movies/tom-holland-teases-that-the-last-frame-of-spider-man-brand-new-day-will-explain-the-title
+  depth: 1
+  access: true
+url_391:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://screenrant.com/destin-daniel-cretton-interview-spider-man-brand-new-day
+  depth: 1
+  access: false
+url_392:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-footage-reveals-a-surprise-villain-is-joining-the-cast
+  depth: 1
+  access: true
+url_393:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://outnow.ch/en/News/2026/08/01/Spider-Man-Brand-New-Day-Director-Destin-Daniel-Cretton-in-an-interview-about-fight-scenes-heartbrea
+  depth: 1
+  access: true
+url_394:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://comicbook.com/movies/news/new-spider-man-brand-new-day-footage-officially-reveals-spideys-anti-hulk-weapon
+  depth: 1
+  access: true
+url_395:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.polygon.com/spider-man-brand-new-day-director-destin-daniel-cretton-interview
+  depth: 1
+  access: false
+url_396:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://screenrant.com/spider-man-4-tom-holland-new-mcu-costume-set-photos
+  depth: 1
+  access: false
+url_397:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.netflixjunkie.com/tom-holland-says-his-new-spider-man-suit-is-the-spider-child-of-three-spider-man-eras
+  depth: 1
+  access: true
+url_398:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.esquire.com/uk/culture/film/a71587645/tom-hollands-interview-2026
+  depth: 1
+  access: true
+url_399:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://ew.com/spider-man-brand-new-day-script-pages-opening-scene-exclusive-11960491
+  depth: 1
+  access: false
+url_400:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://comicbook.com/movies/news/spider-man-brand-new-day-leak-reveals-alternate-looks-for-punisher-savage-hulk-and-villains
+  depth: 1
+  access: true
+url_401:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-leaks-are-here-already-as-filming-begins-and-they-might-have-just-confirmed-mister-negative-as-the-films-villain
+  depth: 1
+  access: true
+url_402:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-designer-explains-where-those-mister-negative-rumors-came-from
+  depth: 1
+  access: true
+url_403:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.glasgowtimes.co.uk/news/scottish-news/25288190.details-spider-man-4-filming-shut-glasgow-roads
+  depth: 1
+  access: true
+url_404:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Glasgow_Times
+  depth: 1
+  access: true
+url_405:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://variety.com/2025/film/news/tom-holland-spider-man-brand-new-day-set-photos-1236477549
+  depth: 1
+  access: true
+url_406:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://variety.com/2026/film/news/tom-holland-sony-spider-man-brand-new-day-delay-the-odyssey-1236764785
+  depth: 1
+  access: true
+url_407:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.gamesradar.com/entertainment/action-movies/spider-mans-tom-holland-thinks-superhero-movies-can-learn-from-the-odyssey-and-improve-by-being-more-practical
+  depth: 1
+  access: true
+url_408:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.inverse.com/entertainment/spider-man-brand-new-day-destin-daniel-cretton-interview
+  depth: 1
+  access: true
+url_409:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-director-says-the-insomniac-games-were-a-great-inspiration-for-certain-stunts-in-the-upcoming-marvel-movie
+  depth: 1
+  access: true
+url_410:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.ign.com/articles/tom-holland-reveals-how-he-brought-finishing-moves-from-sonys-spider-man-games-to-brand-new-day
+  depth: 1
+  access: true
+url_411:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.glasgowlive.co.uk/whats-on/whats-on-news/major-glasgow-city-centre-roads-32016846
+  depth: 1
+  access: true
+url_412:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Glasgow_Live
+  depth: 1
+  access: true
+url_413:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://variety.com/2025/film/news/tom-holland-spider-man-brand-new-day-filming-real-locations-1236459474
+  depth: 1
+  access: true
+url_414:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://variety.com/2025/film/news/spider-man-brand-new-day-footage-tom-holland-tank-1236486147
+  depth: 1
+  access: true
+url_415:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.elle.com/culture/celebrities/a65637479/zendaya-visits-tom-holland-set-spider-man-brand-new-day-2025
+  depth: 1
+  access: true
+url_416:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://variety.com/2026/film/global/tom-holland-zendaya-wedding-venue-beaverbrook-1236829874
+  depth: 1
+  access: true
+url_417:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://variety.com/2025/film/news/tramell-tillman-spider-man-brand-new-day-1236493296
+  depth: 1
+  access: true
+url_418:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://deadline.com/2025/09/spider-man-brand-new-day-pause-tom-holland-return-1236552600
+  depth: 1
+  access: true
+url_419:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.hollywoodreporter.com/movies/movie-features/spider-man-brand-new-day-jacob-batalon-ending-handshake-1236664173
+  depth: 1
+  access: true
+url_420:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://variety.com/2025/film/news/mark-ruffalo-hulk-spider-man-brand-new-day-no-script-1236509189
+  depth: 1
+  access: true
+url_421:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.instagram.com/batterseabeat/p/DOQMcrOiHB4
+  depth: 1
+  access: true
+url_422:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://ghostarchive.org/archive/zsw4f
+  depth: 1
+  access: true
+url_423:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Instagram
+  depth: 1
+  access: true
+url_424:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.instagram.com/batterseabeat/p/DOvCUKgCCkk
+  depth: 1
+  access: true
+url_425:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://ghostarchive.org/archive/lTD0O
+  depth: 1
+  access: true
+url_426:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.hollywoodreporter.com/movies/movie-news/tom-holland-suffers-concussion-spider-man-set-1236377062
+  depth: 1
+  access: true
+url_427:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.basingstokegazette.co.uk/news/25482212.spider-man-brand-new-day-filming-basingstoke
+  depth: 1
+  access: true
+url_428:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Basingstoke_Gazette
+  depth: 1
+  access: true
+url_429:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.basingstokegazette.co.uk/news/25531552.tom-holland-spotted-spider-man-set-basingstoke
+  depth: 1
+  access: true
+url_430:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://comicbook.com/movies/news/mcu-villain-missing-for-8-years-finally-returns-in-spider-man-brand-new-day-set-photos
+  depth: 1
+  access: true
+url_431:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.ign.com/articles/spider-man-brand-new-day-set-photos-reveal-stranger-things-star-sadie-sink-sparking-fresh-speculation-around-who-shes-playing
+  depth: 1
+  access: true
+url_432:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://collider.com/spider-man-4-mark-ruffalo-hulk-return-mcu-set-images-brand-new-day
+  depth: 1
+  access: false
+url_433:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://cheesegratermagazine.org/2025/10/26/ucl-provost-set-to-join-the-mcu
+  depth: 1
+  access: true
+url_434:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/The_Cheese_Grater
+  depth: 1
+  access: true
+url_435:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.omelete.com.br/homem-aranha/policia-entra-em-acao-em-video-do-set-de-homem-aranha-4
+  depth: 1
+  access: true
+url_436:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Omelete
+  depth: 1
+  access: true
+url_437:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.dorsetecho.co.uk/news/25591862.spiderman-brand-new-day-suspected-filming-dorchester
+  depth: 1
+  access: true
+url_438:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Dorset_Echo
+  depth: 1
+  access: true
+url_439:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.dorsetecho.co.uk/news/25618224.dorchester-filming-spiderman-parking-suspensions
+  depth: 1
+  access: true
+url_440:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://deadline.com/2025/12/spider-man-brand-new-day-wraps-filming-1236654246
+  depth: 1
+  access: true
+url_441:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://variety.com/2026/film/news/screen-x-premium-large-format-spider-man-brand-new-day-1236781390
+  depth: 1
+  access: true
+url_442:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.marvel.com/articles/comics/spider-man-brand-new-day-comic-book-references-and-villains
+  depth: 1
+  access: true
+url_443:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://screenrant.com/spider-man-brand-new-day-scorpion-scene-trailers-omitted
+  depth: 1
+  access: false
+url_444:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://ftw.usatoday.com/story/entertainment/pop-culture/2026/06/27/watch-how-spider-man-brand-new-day-honors-comics-in-fight-scene/90722069007
+  depth: 1
+  access: true
+url_445:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/USA_Today
+  depth: 1
+  access: true
+url_446:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://gizmodo.com/spider-man-brand-new-day-is-all-about-the-comics-2000778704
+  depth: 1
+  access: true
+url_447:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.hollywoodreporter.com/movies/movie-features/spider-man-brand-new-day-sadie-sink-role-1236654512
+  depth: 1
+  access: true
+url_448:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.gamesradar.com/entertainment/marvel-movies/marvel-boss-kevin-feige-is-reportedly-no-longer-stretched-so-thin-with-disney-plus-shows-and-is-solely-focused-on-avengers-doomsday-and-secret-wars-like-he-used-to-back-in-the-day-with-iron-man-or-thor
+  depth: 1
+  access: true
+url_449:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.thewrap.com/creative-content/movies/spider-man-brand-new-day-trailer-tom-holland
+  depth: 1
+  access: true
+url_450:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://deadline.com/2026/08/spider-man-brand-new-day-amy-pascal-interview-1237016593
+  depth: 1
+  access: true
+url_451:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://ew.com/kevin-feige-teases-new-avenger-spider-man-brand-new-day-florence-pugh-12016623
+  depth: 1
+  access: false
+url_452:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://comicbook.com/movies/news/spider-man-brand-new-day-cut-a-marvel-favorites-mcu-return-and-it-would-have-been-perfect
+  depth: 1
+  access: true
+url_453:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.gq.com/story/tom-holland-vuori-campaign-interview
+  depth: 1
+  access: true
+url_454:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://variety.com/2026/film/global/tom-holland-spider-man-4-filmed-new-scenes-more-humor-villain-1236711205
+  depth: 1
+  access: true
+url_455:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.instagram.com/destindaniel/p/Da0R0d3lJni
+  depth: 1
+  access: true
+url_456:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://ghostarchive.org/archive/VtwrV
+  depth: 1
+  access: true
+url_457:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://collider.com/spider-man-brand-new-day-director-destin-daniel-cretton-interview
+  depth: 1
+  access: false
+url_458:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://variety.com/2026/film/news/tom-holland-spider-man-brand-new-day-test-screenings-1236824202
+  depth: 1
+  access: true
+url_459:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.ign.com/articles/what-does-the-spider-man-brand-new-day-post-credits-scene-mean-for-peter-parker
+  depth: 1
+  access: true
+url_460:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.artofvfx.com/spider-man-brand-new-day
+  depth: 1
+  access: true
+url_461:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-composer-says-he-wanted-to-make-a-sad-spider-man-movie
+  depth: 1
+  access: true
+url_462:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://filmmusicreporter.com/2026/07/31/spider-man-brand-new-day-soundtrack-album-released
+  depth: 1
+  access: true
+url_463:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-easter-eggs-cameos
+  depth: 1
+  access: true
+url_464:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.polygon.com/movies/24203068/spider-man-brand-new-day-tom-holland-release-date
+  depth: 1
+  access: false
+url_465:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://comicbook.com/movies/news/marvels-spider-man-4-title-means-brand-new-day-mcu
+  depth: 1
+  access: true
+url_466:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://screenrant.com/spider-man-brand-new-day-movie-title-explained
+  depth: 1
+  access: false
+url_467:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://variety.com/2025/film/news/spider-man-brand-new-day-tom-holland-costume-spider-man-4-1236476073
+  depth: 1
+  access: true
+url_468:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.polygon.com/spider-man-4-brand-new-day-teaser-marvel-movie-new-suit
+  depth: 1
+  access: false
+url_469:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://gizmodo.com/spider-man-brand-new-day-teaser-new-suit-marvel-2000637775
+  depth: 1
+  access: true
+url_470:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://gizmodo.com/tom-holland-just-gave-us-a-proper-look-at-the-brand-new-day-spider-suit-2000638268
+  depth: 1
+  access: true
+url_471:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.cbr.com/tom-holland-confirms-spider-man-brand-new-day-costume-reveal-director
+  depth: 1
+  access: false
+url_472:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://variety.com/2025/film/news/spider-man-brand-new-day-tom-holland-costume-1236476920
+  depth: 1
+  access: true
+url_473:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.hollywoodreporter.com/movies/movie-news/tom-holland-spider-man-brand-new-day-set-photos-1236336567
+  depth: 1
+  access: true
+url_474:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-trailer-tom-holland-zendaya-1236529290
+  depth: 1
+  access: true
+url_475:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-days-24-hour-trailer-launch-is-making-avengers-doomsdays-cast-reveal-look-small-scope-its-never-been-done-before
+  depth: 1
+  access: true
+url_476:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://comicbook.com/movies/feature/spider-man-brand-new-day-is-already-copying-avengers-doomsday-fans-arent-impressed
+  depth: 1
+  access: true
+url_477:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.mensjournal.com/entertainment/tom-holland-sets-off-internet-scavenger-hunt-with-spider-man-brand-new-day-trailer-release
+  depth: 1
+  access: true
+url_478:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://bleedingcool.com/movies/spider-man-brand-new-day-trailer-debut-tomorrow-tiny-teasers-today
+  depth: 1
+  access: true
+url_479:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.usatoday.com/story/entertainment/movies/2026/03/17/spider-man-brand-new-day-trailer-clips-where-to-watch/89191555007
+  depth: 1
+  access: true
+url_480:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://gizmodo.com/spider-man-brand-new-day-trailer-teaser-marvel-2000734557
+  depth: 1
+  access: true
+url_481:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.polygon.com/spider-man-brand-new-day-trailer-date-first-look
+  depth: 1
+  access: false
+url_482:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.ign.com/articles/spider-man-brand-new-day-trailer-features-mj-bruce-banner-punisher-and-scorpion-and-a-brief-glimpse-at-sadie-sinks-character
+  depth: 1
+  access: true
+url_483:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.ign.com/articles/spider-man-brand-new-day-trailer-questions-tom-holland-sadie-sink-character
+  depth: 1
+  access: true
+url_484:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.polygon.com/spider-man-brand-new-day-animated-series-arc
+  depth: 1
+  access: false
+url_485:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.slashfilm.com/2126781/spider-man-brand-new-day-first-trailer-peter-parker-new-powers
+  depth: 1
+  access: true
+url_486:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.gamesradar.com/entertainment/marvel-movies/the-story-of-spider-man-brand-new-day-may-tie-back-to-one-of-the-most-controversial-spidey-comics-of-all-time-where-peter-parker-dies
+  depth: 1
+  access: true
+url_487:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Newsarama
+  depth: 1
+  access: true
+url_488:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-sets-24-hour-trailer-record-1236172758
+  depth: 1
+  access: true
+url_489:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://variety.com/2026/film/news/spider-man-brand-new-day-trailer-biggest-ever-break-record-1236694163
+  depth: 1
+  access: true
+url_490:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://variety.com/2026/film/news/spider-man-brand-new-day-trailer-1-billion-views-first-history-1236697959
+  depth: 1
+  access: true
+url_491:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://kotaku.com/spider-man-brand-new-day-trailer-ps5-update-hulk-2000707682
+  depth: 1
+  access: true
+url_492:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Kotaku
+  depth: 1
+  access: true
+url_493:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.gamesradar.com/entertainment/marvel-movies/new-spider-man-brand-new-day-trailer-sees-tom-hollands-peter-parker-start-to-lose-control-as-an-invisible-villain-causes-hulk-level-havoc
+  depth: 1
+  access: true
+url_494:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://gizmodo.com/all-the-secrets-we-found-in-the-new-spider-man-brand-new-day-trailer-2000773257
+  depth: 1
+  access: true
+url_495:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.empireonline.com/movies/news/spider-man-brand-new-day-trailer-sees-peter-parker-fighting-with-scorpion-the-hulk-and-himself
+  depth: 1
+  access: true
+url_496:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://deadline.com/2026/06/spider-man-brand-new-day-second-trailer-record-1236968469
+  depth: 1
+  access: true
+url_497:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.screendaily.com/news/sony-shows-first-chunks-of-new-spider-man-and-resident-evil-films-at-cineeurope/5217931.article
+  depth: 1
+  access: true
+url_498:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://gizmodo.com/the-final-spider-man-brand-new-day-trailer-takes-us-back-in-time-2000788512
+  depth: 1
+  access: true
+url_499:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-comic-con-exclusive-footage-description-has-spidey-and-the-punisher-team-up-to-take-on-the-hulk
+  depth: 1
+  access: true
+url_500:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://deadline.com/2026/07/spider-man-brand-new-day-marketing-campaign-record-bmw-1237013669
+  depth: 1
+  access: true
+url_501:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.cnet.com/tech/mobile/samsung-built-a-real-spider-man-tracker-you-can-use-this-summer
+  depth: 1
+  access: true
+url_502:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/CNET
+  depth: 1
+  access: true
+url_503:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.adweek.com/creativity/samsung-swings-into-the-marvel-universe-to-give-spider-man-the-ultimate-gadget
+  depth: 1
+  access: true
+url_504:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://attractionsmagazine.com/peter-parkers-apartment-brooklyn-new-york-city-pizza-party
+  depth: 1
+  access: true
+url_505:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Attractions_Magazine
+  depth: 1
+  access: true
+url_506:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://nerdtropolis.com/spider-man-brand-new-day-exclusive-first-look-tombstone-jean-dewolff-boomerang-powers
+  depth: 1
+  access: true
+url_507:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.ign.com/articles/lionel-messi-swings-alongside-tom-holland-in-latest-spider-man-brand-new-day-trailer-for-some-reason
+  depth: 1
+  access: true
+url_508:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.marketingdive.com/news/liquid-iv-samsung-spider-man-to-spotlight-new-products/825212
+  depth: 1
+  access: true
+url_509:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Marketing_Dive
+  depth: 1
+  access: true
+url_510:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://mashable.com/tech/samsung-galaxy-unpacked-spider-man
+  depth: 1
+  access: true
+url_511:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Mashable
+  depth: 1
+  access: true
+url_512:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.mlb.com/news/juan-soto-and-spider-man-collaborate-in-new-advertisement
+  depth: 1
+  access: true
+url_513:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/MLB.com
+  depth: 1
+  access: true
+url_514:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.gamesradar.com/games/open-world/marvels-spider-man-2-is-getting-its-first-update-in-over-a-year-as-insomniac-brings-spideys-brand-new-day-suit-to-ps5-and-pc
+  depth: 1
+  access: true
+url_515:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://deadline.com/2026/08/box-office-spider-man-brand-new-day-tuesday-record-1237018454
+  depth: 1
+  access: true
+url_516:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://deadline.com/gallery/spider-man-brand-new-day-los-angeles-premiere-red-carpet-photos-zendaya-tom-holland
+  depth: 1
+  access: true
+url_517:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.gamesradar.com/entertainment/marvel-movies/amazon-prime-members-can-watch-spider-man-brand-new-day-early-heres-how
+  depth: 1
+  access: true
+url_518:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://deadline.com/2026/07/box-office-spider-man-brand-new-day-1237014268
+  depth: 1
+  access: true
+url_519:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://thedirect.com/article/spider-man-brand-new-day-theaters-release-versions
+  depth: 1
+  access: true
+url_520:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.slashfilm.com/2111155/avengers-doomsday-spider-man-brand-new-day-marvel-imax-releases
+  depth: 1
+  access: true
+url_521:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://variety.com/2026/film/box-office/spider-man-brand-new-day-imax-release-odyssey-exclusive-run-ends-1236826306
+  depth: 1
+  access: true
+url_522:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://gizmodo.com/new-marvel-studios-release-dates-avengers-blade-2000482779
+  depth: 1
+  access: true
+url_523:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://screenrant.com/mcu-spider-man-4-release-date-sony-marvel
+  depth: 1
+  access: false
+url_524:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.hollywoodreporter.com/news/netflix-nabs-streaming-rights-to-sonys-feature-beginning-in-2022
+  depth: 1
+  access: true
+url_525:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://deadline.com/2021/04/disney-sony-streaming-spider-man-disney-plus-1234741215
+  depth: 1
+  access: true
+url_526:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.hollywoodreporter.com/news/disney-nabs-post-pay-1-rights-for-sonys-feature-films
+  depth: 1
+  access: true
+url_527:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://variety.com/2026/film/news/sony-netflix-streaming-movies-1236632330
+  depth: 1
+  access: true
+url_528:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://variety.com/2026/film/box-office/spider-man-brand-new-day-2-billion-worldwide-box-office-second-fastest-milestone-1236834058
+  depth: 1
+  access: true
+url_529:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://deadline.com/2026/08/spider-man-brand-new-day-box-office-records-1237016328
+  depth: 1
+  access: true
+url_530:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://deadline.com/2026/08/box-office-spider-man-brand-new-day-billion-record-1237017056
+  depth: 1
+  access: true
+url_531:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-oak-street-paw-patrol-1236674347
+  depth: 1
+  access: true
+url_532:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://deadline.com/2026/06/spider-man-brand-new-day-presales-record-1236959396
+  depth: 1
+  access: true
+url_533:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://variety.com/2026/film/news/spider-man-brand-new-day-box-office-opening-records-1236822094
+  depth: 1
+  access: true
+url_534:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://variety.com/2026/film/box-office/spider-man-brand-new-day-billion-dollars-six-days-1236826658
+  depth: 1
+  access: true
+url_535:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://deadline.com/2026/08/box-office-spider-man-brand-new-day-fastest-half-billion-record-1237028214
+  depth: 1
+  access: true
+url_536:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://deadline.com/2026/08/box-office-global-spider-man-brand-new-day-foreign-record-1237029582
+  depth: 1
+  access: true
+url_537:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://deadline.com/2026/08/box-office-spider-man-brand-new-day-one-night-only-1237028481
+  depth: 1
+  access: true
+url_538:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.the-numbers.com/market/2026/top-grossing-movies
+  depth: 1
+  access: true
+url_539:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://variety.com/2026/film/box-office/spider-man-brand-new-day-box-office-opening-weekend-1236825953
+  depth: 1
+  access: true
+url_540:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://deadline.com/2026/08/spider-man-brand-new-day-sony-india-box-office-1237029987
+  depth: 1
+  access: true
+url_541:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://editorial.rottentomatoes.com/article/spider-man-brand-new-day-first-reviews
+  depth: 1
+  access: true
+url_542:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.bbc.co.uk/news/articles/cwyeq0wpn0go
+  depth: 1
+  access: true
+url_543:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/BBC_News
+  depth: 1
+  access: true
+url_544:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-box-office-superhero-fatigue-1236663071
+  depth: 1
+  access: true
+url_545:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://ew.com/spider-man-brand-new-day-first-reactions-call-it-an-emotional-triumph-praise-sadie-sink-12028241
+  depth: 1
+  access: false
+url_546:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.rottentomatoes.com/m/spider_man_brand_new_day
+  depth: 1
+  access: true
+url_547:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.metacritic.com/movie/spider-man-brand-new-day
+  depth: 1
+  access: true
+url_548:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://deadline.com/2026/07/spider-man-brand-new-day-review-tom-holland-and-zendaya-forge-a-challenging-path-forward-in-dark-and-thrilling-new-chapter-from-marvel-superhero-1237005422
+  depth: 1
+  access: true
+url_549:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://variety.com/2026/film/reviews/spider-man-brand-new-day-review-tom-holland-zendaya-1236821873
+  depth: 1
+  access: true
+url_550:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.theguardian.com/film/2026/jul/28/spider-man-brand-new-day-review-zendaya-saves-tom-hollands-semi-cronenberg-style-superhero
+  depth: 1
+  access: true
+url_551:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://search.worldcat.org/issn/0261-3077
+  depth: 1
+  access: true
+url_552:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.thewrap.com/creative-content/movies/spider-man-brand-new-day-review-tom-holland-zendaya
+  depth: 1
+  access: true
+url_553:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.empireonline.com/movies/reviews/spider-man-brand-new-day
+  depth: 1
+  access: true
+url_554:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.hollywoodreporter.com/movies/movie-reviews/spider-man-brand-new-day-review-tom-holland-zendaya-1236657988
+  depth: 1
+  access: true
+url_555:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.indiewire.com/criticism/movies/spider-man-brand-new-day-review-1235207238
+  depth: 1
+  access: true
+url_556:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.rollingstone.com/tv-movies/tv-movie-reviews/spider-man-brand-new-day-review-mcu-1235592690
+  depth: 1
+  access: true
+url_557:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.gq.com/story/matt-damon-robert-pattinson-tom-holland-cover-interview-summer-2026
+  depth: 1
+  access: true
+url_558:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://variety.com/2026/film/news/spider-man-actors-tom-holland-successor-1236824415
+  depth: 1
+  access: true
+url_559:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.ign.com/articles/kevin-feige-says-marvel-has-movies-planned-all-the-way-up-to-2042-including-a-major-x-men-push-and-live-action-miles-morales
+  depth: 1
+  access: true
+url_560:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://comicbook.com/movies/news/spider-man-producers-comments-about-mcu-future-is-great-news-for-marvel-fans
+  depth: 1
+  access: true
+url_561:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://variety.com/2026/film/news/kevin-feige-spider-man-brand-new-day-sequel-tom-holland-1236826503
+  depth: 1
+  access: true
+url_562:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://spidermanbrandnewday.movie
+  depth: 1
+  access: true
+url_563:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.wikidata.org/wiki/Q113244935
+  depth: 1
+  access: true
+url_564:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.marvel.com/movies/spider-man-brand-new-day
+  depth: 1
+  access: true
+url_565:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.sonypictures.com/movies/spidermanbrandnewday
+  depth: 1
+  access: true
+url_566:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://www.imdb.com/title/tt22084616
+  depth: 1
+  access: false
+url_567:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Spider-Man_in_other_media
+  depth: 1
+  access: true
+url_568:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Spider-Man_in_television
+  depth: 1
+  access: true
+url_569:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Spidey_Super_Stories
+  depth: 1
+  access: true
+url_570:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Spider-Man_and_His_Amazing_Friends
+  depth: 1
+  access: true
+url_571:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Spider-Man_Unlimited
+  depth: 1
+  access: true
+url_572:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Spidey_and_His_Amazing_Friends
+  depth: 1
+  access: true
+url_573:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Your_Friendly_Neighborhood_Spider-Man
+  depth: 1
+  access: true
+url_574:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Spider-Noir
+  depth: 1
+  access: true
+url_575:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Spider-Man_Strikes_Back
+  depth: 1
+  access: true
+url_576:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Spider-Man_2
+  depth: 1
+  access: true
+url_577:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Spider-Man_3
+  depth: 1
+  access: true
+url_578:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/The_Amazing_Spider-Man_2
+  depth: 1
+  access: true
+url_579:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/List_of_video_games_featuring_Spider-Man
+  depth: 1
+  access: true
+url_580:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Questprobe_featuring_Spider-Man
+  depth: 1
+  access: true
+url_581:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Spider-Man_vs._The_Kingpin
+  depth: 1
+  access: true
+url_582:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Spider-Man_in_literature
+  depth: 1
+  access: true
+url_583:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Spider-Man_in_novels
+  depth: 1
+  access: true
+url_584:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Spider-Man_book_series
+  depth: 1
+  access: true
+url_585:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Mr._and_Mrs._Spider-Man
+  depth: 1
+  access: true
+url_586:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Music_from_and_Inspired_by_Spider-Man
+  depth: 1
+  access: true
+url_587:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/The_Amazing_Adventures_of_Spider-Man
+  depth: 1
+  access: true
+url_588:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Meet_Spider-Man_and_the_Marvel_Super_Heroes
+  depth: 1
+  access: true
+url_589:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/List_of_Spider-Man_enemies_in_other_media
+  depth: 1
+  access: true
+url_590:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Green_Goblin_in_other_media
+  depth: 1
+  access: true
+url_591:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/List_of_Spider-Man_films_cast_members
+  depth: 1
+  access: true
+url_592:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Meant_to_Live
+  depth: 1
+  access: true
+url_593:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Web_of_Night
+  depth: 1
+  access: true
+url_594:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Najane_Kyun
+  depth: 1
+  access: true
+url_595:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Spider-Man_Versus_Kraven_the_Hunter
+  depth: 1
+  access: true
+url_596:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Viva_Spider-Man
+  depth: 1
+  access: true
+url_597:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/3_Dev_Adam
+  depth: 1
+  access: true
+url_598:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/SpiderBabe
+  depth: 1
+  access: true
+url_599:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Spider-Plant_Man
+  depth: 1
+  access: true
+url_600:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Italian_Spiderman
+  depth: 1
+  access: true
+url_601:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Lego_Spider-Man
+  depth: 1
+  access: true
+url_602:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/The_Spider-Man_of_Sudan
+  depth: 1
+  access: true
+url_603:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/List_of_Spider-Man_film_cast_members
+  depth: 1
+  access: true
+url_604:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/List_of_accolades_received_by_Marvel_Cinematic_Universe_films
+  depth: 1
+  access: true
+url_605:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/List_of_accolades_received_by_Marvel_Cinematic_Universe_television_series
+  depth: 1
+  access: true
+url_606:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_timeline
+  depth: 1
+  access: true
+url_607:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Iron_Man_2
+  depth: 1
+  access: true
+url_608:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Iron_Man_3
+  depth: 1
+  access: true
+url_609:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_Vol._2
+  depth: 1
+  access: true
+url_610:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Ant-Man_and_the_Wasp
+  depth: 1
+  access: true
+url_611:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Avengers_assemble_scene
+  depth: 1
+  access: true
+url_612:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Doctor_Strange_in_the_Multiverse_of_Madness
+  depth: 1
+  access: true
+url_613:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/WandaVision
+  depth: 1
+  access: true
+url_614:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/List_of_accolades_received_by_WandaVision
+  depth: 1
+  access: true
+url_615:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/The_Falcon_and_the_Winter_Soldier
+  depth: 1
+  access: true
+url_616:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Loki_season_1
+  depth: 1
+  access: true
+url_617:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/The_Guardians_of_the_Galaxy_Holiday_Special
+  depth: 1
+  access: true
+url_618:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_Vol._3
+  depth: 1
+  access: true
+url_619:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/The_Marvels
+  depth: 1
+  access: true
+url_620:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Loki_season_2
+  depth: 1
+  access: true
+url_621:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Agatha_All_Along
+  depth: 1
+  access: true
+url_622:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Your_Friendly_Neighborhood_Spider-Man_season_1
+  depth: 1
+  access: true
+url_623:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Eyes_of_Wakanda
+  depth: 1
+  access: true
+url_624:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/VisionQuest
+  depth: 1
+  access: true
+url_625:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Your_Friendly_Neighborhood_Spider-Man_season_2
+  depth: 1
+  access: true
+url_626:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Marvel_Studios_Animation
+  depth: 1
+  access: true
+url_627:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Mid-credits_and_post-credits_scenes_in_the_Marvel_Cinematic_Universe
+  depth: 1
+  access: true
+url_628:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Reception_of_the_Marvel_Cinematic_Universe
+  depth: 1
+  access: true
+url_629:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/David_Maisel
+  depth: 1
+  access: true
+url_630:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Victoria_Alonso
+  depth: 1
+  access: true
+url_631:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Captain_America_in_film
+  depth: 1
+  access: true
+url_632:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Fantastic_Four_in_film
+  depth: 1
+  access: true
+url_633:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/X-Men_in_film
+  depth: 1
+  access: true
+url_634:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Marvel_Television
+  depth: 1
+  access: true
+url_635:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Agents_of_S.H.I.E.L.D.
+  depth: 1
+  access: true
+url_636:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/List_of_Agents_of_S.H.I.E.L.D._episodes
+  depth: 1
+  access: true
+url_637:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Agents_of_S.H.I.E.L.D._season_1
+  depth: 1
+  access: true
+url_638:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Agents_of_S.H.I.E.L.D._season_2
+  depth: 1
+  access: true
+url_639:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Agents_of_S.H.I.E.L.D._season_3
+  depth: 1
+  access: true
+url_640:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Agents_of_S.H.I.E.L.D._season_4
+  depth: 1
+  access: true
+url_641:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Agents_of_S.H.I.E.L.D._season_5
+  depth: 1
+  access: true
+url_642:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Agents_of_S.H.I.E.L.D._season_6
+  depth: 1
+  access: true
+url_643:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Agents_of_S.H.I.E.L.D._season_7
+  depth: 1
+  access: true
+url_644:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/List_of_Agents_of_S.H.I.E.L.D._characters
+  depth: 1
+  access: true
+url_645:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Agent_Carter_season_1
+  depth: 1
+  access: true
+url_646:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Agent_Carter_season_2
+  depth: 1
+  access: true
+url_647:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/List_of_Agent_Carter_characters
+  depth: 1
+  access: true
+url_648:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Inhumans_premiere
+  depth: 1
+  access: true
+url_649:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Daredevil_season_1
+  depth: 1
+  access: true
+url_650:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Daredevil_season_2
+  depth: 1
+  access: true
+url_651:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Daredevil_season_3
+  depth: 1
+  access: true
+url_652:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Jessica_Jones_season_1
+  depth: 1
+  access: true
+url_653:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Jessica_Jones_season_2
+  depth: 1
+  access: true
+url_654:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Jessica_Jones_season_3
+  depth: 1
+  access: true
+url_655:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/List_of_Jessica_Jones_characters
+  depth: 1
+  access: true
+url_656:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Luke_Cage_season_1
+  depth: 1
+  access: true
+url_657:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Luke_Cage_season_2
+  depth: 1
+  access: true
+url_658:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/List_of_Luke_Cage_characters
+  depth: 1
+  access: true
+url_659:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Iron_Fist_season_1
+  depth: 1
+  access: true
+url_660:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Iron_Fist_season_2
+  depth: 1
+  access: true
+url_661:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/List_of_Iron_Fist_characters
+  depth: 1
+  access: true
+url_662:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/The_Punisher_season_1
+  depth: 1
+  access: true
+url_663:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/The_Punisher_season_2
+  depth: 1
+  access: true
+url_664:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Marvel_One-Shots
+  depth: 1
+  access: true
+url_665:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Item_47
+  depth: 1
+  access: true
+url_666:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/All_Hail_the_King
+  depth: 1
+  access: true
+url_667:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Team_Thor
+  depth: 1
+  access: true
+url_668:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/I_Am_Groot
+  depth: 1
+  access: true
+url_669:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/WHIH_Newsfront
+  depth: 1
+  access: true
+url_670:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Agents_of_S.H.I.E.L.D._web_series
+  depth: 1
+  access: true
+url_671:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe_tie-in_comics
+  depth: 1
+  access: true
+url_672:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Lists_of_Marvel_Cinematic_Universe_cast_members
+  depth: 1
+  access: true
+url_673:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/List_of_Marvel_Cinematic_Universe_film_actors
+  depth: 1
+  access: true
+url_674:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Characters_of_the_Marvel_Cinematic_Universe
+  depth: 1
+  access: true
+url_675:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Phil_Coulson
+  depth: 1
+  access: true
+url_676:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/J.A.R.V.I.S.
+  depth: 1
+  access: true
+url_677:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Kahhori
+  depth: 1
+  access: true
+url_678:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Erik_Selvig
+  depth: 1
+  access: true
+url_679:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Trevor_Slattery
+  depth: 1
+  access: true
+url_680:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Hope_van_Dyne
+  depth: 1
+  access: true
+url_681:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Leo_Fitz
+  depth: 1
+  access: true
+url_682:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Melinda_May
+  depth: 1
+  access: true
+url_683:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Jemma_Simmons
+  depth: 1
+  access: true
+url_684:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Teams_and_organizations_of_the_Marvel_Cinematic_Universe
+  depth: 1
+  access: true
+url_685:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Species_of_the_Marvel_Cinematic_Universe
+  depth: 1
+  access: true
+url_686:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Features_of_the_Marvel_Cinematic_Universe
+  depth: 1
+  access: true
+url_687:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/The_Blip
+  depth: 1
+  access: true
+url_688:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Infinity_Stones
+  depth: 1
+  access: true
+url_689:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Music_of_the_Marvel_Cinematic_Universe
+  depth: 1
+  access: true
+url_690:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Live_to_Rise
+  depth: 1
+  access: true
+url_691:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/All_the_Stars
+  depth: 1
+  access: true
+url_692:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Deadpool_and_Korg_React
+  depth: 1
+  access: true
+url_693:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Avengers_Campus
+  depth: 1
+  access: true
+url_694:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Iron_Man_Experience
+  depth: 1
+  access: true
+url_695:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Avengers_Infinity_Defense
+  depth: 1
+  access: true
+url_696:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Stark_Flight_Lab
+  depth: 1
+  access: true
+url_697:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Disney_Wish
+  depth: 1
+  access: true
+url_698:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Outline_of_the_Marvel_Cinematic_Universe
+  depth: 1
+  access: true
+url_699:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics_publications
+  depth: 1
+  access: true
+url_700:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Blade_II
+  depth: 1
+  access: true
+url_701:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Deadpool_2
+  depth: 1
+  access: true
+url_702:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Punisher_in_film
+  depth: 1
+  access: true
+url_703:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Stuntnuts_Does_School_Fight
+  depth: 1
+  access: true
+url_704:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Men_in_Black_II
+  depth: 1
+  access: true
+url_705:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Men_in_Black_3
+  depth: 1
+  access: true
+url_706:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/List_of_unproduced_film_projects_based_on_Marvel_Comics
+  depth: 1
+  access: true
+url_707:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/List_of_unproduced_films_based_on_Marvel_Comics_imprints_publications
+  depth: 1
+  access: true
+url_708:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/List_of_unproduced_20th_Century_Fox_projects_based_on_Marvel_Comics
+  depth: 1
+  access: true
+url_709:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/List_of_unproduced_X-Men_film_series_projects
+  depth: 1
+  access: true
+url_710:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/I_Am_Not_a_Hipster
+  depth: 1
+  access: true
+url_711:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Short_Term_12
+  depth: 1
+  access: true
+url_712:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Just_Mercy
+  depth: 1
+  access: true
+url_713:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/The_Lego_Batman_Movie
+  depth: 1
+  access: true
+url_714:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Lousy_Carter
+  depth: 1
+  access: true
+url_715:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Fart-Break_Hotel
+  depth: 1
+  access: true
+url_716:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/The_Art_of_Discourse
+  depth: 1
+  access: true
+url_717:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Anthropology_101
+  depth: 1
+  access: true
+url_718:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Conspiracy_Theories_and_Interior_Design
+  depth: 1
+  access: true
+url_719:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Paradigms_of_Human_Memory
+  depth: 1
+  access: true
+url_720:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Remedial_Chaos_Theory
+  depth: 1
+  access: true
+url_721:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Digital_Exploration_of_Interior_Design
+  depth: 1
+  access: true
+url_722:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Repilot
+  depth: 1
+  access: true
+url_723:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Emotional_Consequences_of_Broadcast_Television
+  depth: 1
+  access: true
+url_724:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/You_Debt_Your_Life
+  depth: 1
+  access: true
+url_725:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Ricky_Spanish
+  depth: 1
+  access: true
+url_726:
+  father: https://en.wikipedia.org/wiki/Spider-Man:_Brand_New_Day
+  child: https://en.wikipedia.org/wiki/Basic_Intergluteal_Numismatics
+  depth: 1
+  access: true

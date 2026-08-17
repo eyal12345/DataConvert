@@ -1,0 +1,1203 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+	<url id="&lt;built-in function next&gt;">
+		<father>child input</father>
+		<child>https://www.rockstargames.com</child>
+		<depth>0</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com</father>
+		<child>https://www.rockstargames.com/newswire</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com</father>
+		<child>https://www.rockstargames.com/videos</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com</father>
+		<child>https://www.rockstargames.com/downloads</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com</father>
+		<child>https://store.rockstargames.com</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com</father>
+		<child>https://support.rockstargames.com</child>
+		<depth>1</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com</father>
+		<child>https://www.rockstargames.com/contact</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com</father>
+		<child>https://www.rockstargames.com/careers</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com</father>
+		<child>https://www.rockstargames.com/community-resources</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com</father>
+		<child>https://www.rockstargames.com/account/communications</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com</father>
+		<child>https://instagram.com/rockstargames</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com</father>
+		<child>https://x.com/rockstargames</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com</father>
+		<child>https://www.youtube.com/rockstargames</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com</father>
+		<child>https://www.facebook.com/rockstargames</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com</father>
+		<child>https://discord.gg/rockstargames</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com</father>
+		<child>https://www.rockstargames.com/corpinfo</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com</father>
+		<child>https://www.rockstargames.com/privacy</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com</father>
+		<child>https://www.rockstargames.com/cookies</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com</father>
+		<child>https://www.rockstargames.com/legal</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com</father>
+		<child>https://www.rockstargames.com/ccpa</child>
+		<depth>1</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/newswire</father>
+		<child>https://www.rockstargames.com/de/newswire</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/newswire</father>
+		<child>https://www.rockstargames.com/fr/newswire</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/newswire</father>
+		<child>https://www.rockstargames.com/it/newswire</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/newswire</father>
+		<child>https://www.rockstargames.com/jp/newswire</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/newswire</father>
+		<child>https://www.rockstargames.com/ru/newswire</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/newswire</father>
+		<child>https://www.rockstargames.com/es/newswire</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/newswire</father>
+		<child>https://www.rockstargames.com/mx/newswire</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/newswire</father>
+		<child>https://www.rockstargames.com/br/newswire</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/newswire</father>
+		<child>https://www.rockstargames.com/kr/newswire</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/newswire</father>
+		<child>https://www.rockstargames.com/zh/newswire</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/newswire</father>
+		<child>https://www.rockstargames.com/tw/newswire</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/newswire</father>
+		<child>https://www.rockstargames.com/pl/newswire</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/videos</father>
+		<child>https://www.rockstargames.com/de/videos</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/videos</father>
+		<child>https://www.rockstargames.com/fr/videos</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/videos</father>
+		<child>https://www.rockstargames.com/it/videos</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/videos</father>
+		<child>https://www.rockstargames.com/jp/videos</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/videos</father>
+		<child>https://www.rockstargames.com/ru/videos</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/videos</father>
+		<child>https://www.rockstargames.com/es/videos</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/videos</father>
+		<child>https://www.rockstargames.com/mx/videos</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/videos</father>
+		<child>https://www.rockstargames.com/br/videos</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/videos</father>
+		<child>https://www.rockstargames.com/kr/videos</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/videos</father>
+		<child>https://www.rockstargames.com/zh/videos</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/videos</father>
+		<child>https://www.rockstargames.com/tw/videos</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/videos</father>
+		<child>https://www.rockstargames.com/pl/videos</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://store.rockstargames.com</father>
+		<child>http://store.rockstargames.com</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://store.rockstargames.com</father>
+		<child>https://store.rockstargames.com/view-all-games</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://store.rockstargames.com</father>
+		<child>https://store.rockstargames.com/game/buy-gta-vi</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://store.rockstargames.com</father>
+		<child>https://store.rockstargames.com/game/buy-gta-v</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://store.rockstargames.com</father>
+		<child>https://store.rockstargames.com/game/buy-red-dead-redemption-2</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://store.rockstargames.com</father>
+		<child>https://store.rockstargames.com/game/buy-red-dead-redemption</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://store.rockstargames.com</father>
+		<child>https://store.rockstargames.com/game/buy-bully-scholarship-edition</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://store.rockstargames.com</father>
+		<child>https://store.rockstargames.com/buy-gta-v-shark-cash-cards</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://store.rockstargames.com</father>
+		<child>https://store.rockstargames.com/buy-red-dead-online-gold-bars</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://store.rockstargames.com</father>
+		<child>https://store.rockstargames.com/game/gta-plus</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://store.rockstargames.com</father>
+		<child>https://store.rockstargames.com/merchandise</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://store.rockstargames.com</father>
+		<child>https://store.rockstargames.com/new-arrivals</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://store.rockstargames.com</father>
+		<child>https://store.rockstargames.com/grand-theft-auto-collection</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://store.rockstargames.com</father>
+		<child>https://store.rockstargames.com/red-dead-redemption-collection</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://store.rockstargames.com</father>
+		<child>https://store.rockstargames.com/rockstar-collection</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://store.rockstargames.com</father>
+		<child>https://store.rockstargames.com/cart</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://store.rockstargames.com</father>
+		<child>https://store.rockstargames.com/game/buy-grand-theft-auto-the-trilogy-the-definitive-edition</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://store.rockstargames.com</father>
+		<child>https://store.rockstargames.com/game/buy-la-noire</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://store.rockstargames.com</father>
+		<child>https://store.rockstargames.com/game/buy-max-payne-3</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://store.rockstargames.com</father>
+		<child>https://store.rockstargames.com/game/buy-grand-theft-auto-iv</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://store.rockstargames.com</father>
+		<child>https://store.rockstargames.com/merchandise/buy-rockstar-games-welcome-mat</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://store.rockstargames.com</father>
+		<child>https://store.rockstargames.com/merchandise/buy-gta-trilogy-enamel-pins-set-1</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://store.rockstargames.com</father>
+		<child>https://store.rockstargames.com/merchandise/buy-rockstar-baseball-cap-navy-and-white</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://store.rockstargames.com</father>
+		<child>https://store.rockstargames.com/merchandise/buy-rockstar-games-ashtray</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://store.rockstargames.com</father>
+		<child>https://store.rockstargames.com/merchandise/buy-rockstargames-varsity-crewneck-navy</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://store.rockstargames.com</father>
+		<child>https://store.rockstargames.com/merchandise/buy-grand-theft-auto-san-andreas-screenshot-tee</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://store.rockstargames.com</father>
+		<child>https://www.take2games.com/ccpa</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://store.rockstargames.com</father>
+		<child>https://store.rockstargames.com/refund-and-return-policy</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/careers</father>
+		<child>https://www.rockstargames.com/de/careers</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/careers</father>
+		<child>https://www.rockstargames.com/fr/careers</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/careers</father>
+		<child>https://www.rockstargames.com/it/careers</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/careers</father>
+		<child>https://www.rockstargames.com/jp/careers</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/careers</father>
+		<child>https://www.rockstargames.com/ru/careers</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/careers</father>
+		<child>https://www.rockstargames.com/es/careers</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/careers</father>
+		<child>https://www.rockstargames.com/mx/careers</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/careers</father>
+		<child>https://www.rockstargames.com/br/careers</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/careers</father>
+		<child>https://www.rockstargames.com/kr/careers</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/careers</father>
+		<child>https://www.rockstargames.com/zh/careers</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/careers</father>
+		<child>https://www.rockstargames.com/tw/careers</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/careers</father>
+		<child>https://www.rockstargames.com/pl/careers</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/careers</father>
+		<child>https://www.rockstargames.com/newswire/article/9k2kaa1o3297k9</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/careers</father>
+		<child>https://www.rockstargames.com/careers/openings</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/community-resources</father>
+		<child>https://www.rockstargames.com/de/community-resources</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/community-resources</father>
+		<child>https://www.rockstargames.com/fr/community-resources</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/community-resources</father>
+		<child>https://www.rockstargames.com/it/community-resources</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/community-resources</father>
+		<child>https://www.rockstargames.com/jp/community-resources</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/community-resources</father>
+		<child>https://www.rockstargames.com/ru/community-resources</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/community-resources</father>
+		<child>https://www.rockstargames.com/es/community-resources</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/community-resources</father>
+		<child>https://www.rockstargames.com/mx/community-resources</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/community-resources</father>
+		<child>https://www.rockstargames.com/br/community-resources</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/community-resources</father>
+		<child>https://www.rockstargames.com/kr/community-resources</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/community-resources</father>
+		<child>https://www.rockstargames.com/zh/community-resources</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/community-resources</father>
+		<child>https://www.rockstargames.com/tw/community-resources</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/community-resources</father>
+		<child>https://www.rockstargames.com/pl/community-resources</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://instagram.com/rockstargames</father>
+		<child>https://www.instagram.com/rockstargames</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://instagram.com/rockstargames</father>
+		<child>https://www.instagram.com/accounts/emailsignup</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://instagram.com/rockstargames</father>
+		<child>https://about.meta.com</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://instagram.com/rockstargames</father>
+		<child>https://about.instagram.com</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://instagram.com/rockstargames</father>
+		<child>https://about.instagram.com/blog</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://instagram.com/rockstargames</father>
+		<child>https://about.instagram.com/about-us/careers</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://instagram.com/rockstargames</father>
+		<child>https://www.instagram.com/legal/privacy</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://instagram.com/rockstargames</father>
+		<child>https://www.instagram.com/legal/terms</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://instagram.com/rockstargames</father>
+		<child>https://www.instagram.com/explore/locations</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://instagram.com/rockstargames</father>
+		<child>https://www.instagram.com/popular</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://instagram.com/rockstargames</father>
+		<child>https://www.instagram.com/web/lite</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://instagram.com/rockstargames</father>
+		<child>https://www.meta.ai</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://instagram.com/rockstargames</father>
+		<child>https://www.threads.com</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://instagram.com/rockstargames</father>
+		<child>https://www.facebook.com/help/instagram/261704639352628</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://instagram.com/rockstargames</father>
+		<child>https://www.instagram.com/accounts/meta_verified</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://x.com/rockstargames</father>
+		<child>https://abs.twimg.com</child>
+		<depth>2</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://x.com/rockstargames</father>
+		<child>https://api.x.com</child>
+		<depth>2</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://x.com/rockstargames</father>
+		<child>https://pbs.twimg.com</child>
+		<depth>2</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://x.com/rockstargames</father>
+		<child>https://t.co</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://x.com/rockstargames</father>
+		<child>https://video.twimg.com</child>
+		<depth>2</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://x.com/rockstargames</father>
+		<child>https://ton.twimg.com</child>
+		<depth>2</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://x.com/rockstargames</father>
+		<child>https://cdn.syndication.twimg.com</child>
+		<depth>2</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://x.com/rockstargames</father>
+		<child>https://x.com/RockstarGames</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://x.com/rockstargames</father>
+		<child>https://pbs.twimg.com/profile_banners/29758446/1786018072/1500x500</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://x.com/rockstargames</father>
+		<child>https://x.com</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://x.com/rockstargames</father>
+		<child>https://x.com/rockstargames/header_photo</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://x.com/rockstargames</father>
+		<child>https://x.com/rockstargames/photo</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://x.com/rockstargames</father>
+		<child>https://t.co/cJS8YyBL3R</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://x.com/rockstargames</father>
+		<child>https://x.com/RockstarGames/following</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://x.com/rockstargames</father>
+		<child>https://x.com/RockstarGames/verified_followers</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://x.com/rockstargames</father>
+		<child>https://x.com/RockstarGames/status/2085335127287030232</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://x.com/rockstargames</father>
+		<child>https://x.com/netflix</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://x.com/rockstargames</father>
+		<child>http://netflix.com/GTAVI</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://x.com/rockstargames</father>
+		<child>https://x.com/RockstarGames/status/2085335127287030232/photo/1</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://x.com/rockstargames</father>
+		<child>https://x.com/RockstarGames/status/2087177216174006377</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://x.com/rockstargames</father>
+		<child>https://rsg.ms/c3132a9</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://x.com/rockstargames</father>
+		<child>https://x.com/RockstarGames/status/2087177216174006377/photo/1</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://x.com/rockstargames</father>
+		<child>https://x.com/RockstarGames/status/2085757860768584081</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://x.com/rockstargames</father>
+		<child>https://rsg.ms/69d6520</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://x.com/rockstargames</father>
+		<child>https://x.com/RockstarGames/status/2085757860768584081/photo/1</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://x.com/rockstargames</father>
+		<child>https://x.com/RockstarGames/status/2085727662148895161</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://x.com/rockstargames</father>
+		<child>https://x.com/RockstarGames/status/2085727662148895161/photo/1</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://x.com/rockstargames</father>
+		<child>https://x.com/RockstarGames/status/2084640554357239934</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://x.com/rockstargames</father>
+		<child>https://x.com/RockstarGames/status/2084640554357239934/photo/1</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://x.com/rockstargames</father>
+		<child>https://x.com/tos</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://x.com/rockstargames</father>
+		<child>https://x.com/privacy</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://x.com/rockstargames</father>
+		<child>https://support.x.com/articles/20170514</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.youtube.com/rockstargames</father>
+		<child>https://www.youtube.com/s/_/ytmainappweb/_/ss/k=ytmainappweb.kevlar_base.A8gDuRJMMS8.L.X.O/am=AAAAQABACIDNAQ/d=0/rs=AGKMywE5__50PkPRQVcuEGsCv_0s_4Br1Q</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.youtube.com/rockstargames</father>
+		<child>https://www.youtube.com/opensearch</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.youtube.com/rockstargames</father>
+		<child>https://www.youtube.com/manifest.webmanifest</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.youtube.com/rockstargames</father>
+		<child>https://www.youtube.com/about</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.youtube.com/rockstargames</father>
+		<child>https://www.youtube.com/about/press</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.youtube.com/rockstargames</father>
+		<child>https://www.youtube.com/about/copyright</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.youtube.com/rockstargames</father>
+		<child>https://www.youtube.com/t/contact_us</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.youtube.com/rockstargames</father>
+		<child>https://www.youtube.com/creators</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.youtube.com/rockstargames</father>
+		<child>https://www.youtube.com/ads</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.youtube.com/rockstargames</father>
+		<child>https://www.youtube.com/t/terms</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.youtube.com/rockstargames</father>
+		<child>https://www.youtube.com/t/privacy</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.youtube.com/rockstargames</father>
+		<child>https://www.youtube.com/about/policies</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.youtube.com/rockstargames</father>
+		<child>https://www.youtube.com/new</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.youtube.com/rockstargames</father>
+		<child>https://www.youtube.com/channel/UC6VcWc1rAoWdBCM0JxrRQ3A</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.youtube.com/rockstargames</father>
+		<child>https://yt3.googleusercontent.com/f0PgbUq0tAdrt_rQxprZdPfgg96y54Ge-LCagXvPzc6gnMiw42w-J-wAZ2n-TfXgB3ASkxk2=s900-c-k-c0x00ffffff-no-rj</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.facebook.com/rockstargames</father>
+		<child>https://video.xx.fbcdn.net</child>
+		<depth>2</depth>
+		<access>False</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.facebook.com/rockstargames</father>
+		<child>https://www.facebook.com/recover/initiate</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.facebook.com/rockstargames</father>
+		<child>https://www.facebook.com/help</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://discord.gg/rockstargames</father>
+		<child>https://discord.com/invite/rockstargames</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/corpinfo</father>
+		<child>https://www.rockstargames.com/de/corpinfo</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/corpinfo</father>
+		<child>https://www.rockstargames.com/fr/corpinfo</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/corpinfo</father>
+		<child>https://www.rockstargames.com/it/corpinfo</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/corpinfo</father>
+		<child>https://www.rockstargames.com/jp/corpinfo</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/corpinfo</father>
+		<child>https://www.rockstargames.com/ru/corpinfo</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/corpinfo</father>
+		<child>https://www.rockstargames.com/es/corpinfo</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/corpinfo</father>
+		<child>https://www.rockstargames.com/mx/corpinfo</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/corpinfo</father>
+		<child>https://www.rockstargames.com/br/corpinfo</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/corpinfo</father>
+		<child>https://www.rockstargames.com/kr/corpinfo</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/corpinfo</father>
+		<child>https://www.rockstargames.com/zh/corpinfo</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/corpinfo</father>
+		<child>https://www.rockstargames.com/tw/corpinfo</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/corpinfo</father>
+		<child>https://www.rockstargames.com/pl/corpinfo</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/legal</father>
+		<child>https://www.rockstargames.com/de/legal</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/legal</father>
+		<child>https://www.rockstargames.com/fr/legal</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/legal</father>
+		<child>https://www.rockstargames.com/it/legal</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/legal</father>
+		<child>https://www.rockstargames.com/jp/legal</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/legal</father>
+		<child>https://www.rockstargames.com/ru/legal</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/legal</father>
+		<child>https://www.rockstargames.com/es/legal</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/legal</father>
+		<child>https://www.rockstargames.com/mx/legal</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/legal</father>
+		<child>https://www.rockstargames.com/br/legal</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/legal</father>
+		<child>https://www.rockstargames.com/kr/legal</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/legal</father>
+		<child>https://www.rockstargames.com/zh/legal</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/legal</father>
+		<child>https://www.rockstargames.com/tw/legal</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/legal</father>
+		<child>https://www.rockstargames.com/pl/legal</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/ccpa</father>
+		<child>https://www.rockstargames.com/de/ccpa</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/ccpa</father>
+		<child>https://www.rockstargames.com/fr/ccpa</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/ccpa</father>
+		<child>https://www.rockstargames.com/it/ccpa</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/ccpa</father>
+		<child>https://www.rockstargames.com/jp/ccpa</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/ccpa</father>
+		<child>https://www.rockstargames.com/ru/ccpa</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/ccpa</father>
+		<child>https://www.rockstargames.com/es/ccpa</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/ccpa</father>
+		<child>https://www.rockstargames.com/mx/ccpa</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/ccpa</father>
+		<child>https://www.rockstargames.com/br/ccpa</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/ccpa</father>
+		<child>https://www.rockstargames.com/kr/ccpa</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/ccpa</father>
+		<child>https://www.rockstargames.com/zh/ccpa</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/ccpa</father>
+		<child>https://www.rockstargames.com/tw/ccpa</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+	<url id="&lt;built-in function next&gt;">
+		<father>https://www.rockstargames.com/ccpa</father>
+		<child>https://www.rockstargames.com/pl/ccpa</child>
+		<depth>2</depth>
+		<access>True</access>
+	</url>
+</data>

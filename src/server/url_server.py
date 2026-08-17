@@ -31,6 +31,9 @@ CHALLENGE_MARKERS = ('/cdn-cgi/challenge-platform', '_cf_chl', 'cf_chl_opt', 'cf
 # a part of a host or of a path which marks a copy of a page and not a page of his own,
 # a language code like "he" or "en-gb", a mobile version or a light version of the site
 COPY_MARKER = re.compile(r'^(m|mobile|amp|www\d*|[a-z]{2}([-_][a-z]{2,4})?)$', re.I)
+# endings which hold another ending after them like "bbc.co.uk", the name of the site is
+# the label which comes before all of them
+SITE_SUFFIXES = ('co', 'com', 'org', 'net', 'gov', 'edu', 'ac')
 
 class URLServer(URLProcess):
 
@@ -487,15 +490,21 @@ class URLServer(URLProcess):
 
     def build_result_file_path(self) -> str:
         """
-        create path for result file
+        create path for result file, every site keeps his results in a folder of his own and
+        every root of the same site keeps his own file inside him
         returns:
             path (str): the final path that him will save all data of main url
         """
-        name = self.root.split('.')[1]
-        source = self.root.split('/')[-1].lower() if name == 'wikipedia' else name
-        folder = "wikipedia" if name == 'wikipedia' else source
-        path = "sources/urls/" + folder + "/" + source + "_md" + str(self.max_depth)
-        return path
+        host, _, path = self.build_url_family(self.root).partition('/')
+        # the name of the site without his ending and without the parts which mark a copy,
+        # so "en.wikipedia.org" and "www.wikipedia.org" both belong to "wikipedia"
+        labels = host.split('.')[:-1]
+        labels.pop() if len(labels) > 1 and labels[-1] in SITE_SUFFIXES else None
+        site = labels[-1] if labels else host
+        # a root which points to an inner page is named by that page, so several pages of the
+        # same site do not overwrite each other, and a main page is named by the site himself
+        page = re.sub(r'^_+|_+$', '', re.sub(r'\W+', '_', path.rsplit('/', 1)[-1].lower()))
+        return "sources/urls/" + site + "/" + (page or site) + "_md" + str(self.max_depth)
 
     def run_progress(self) -> str | list[dict]:
         """
