@@ -9,11 +9,29 @@ import subprocess
 import threading
 import argparse
 import datetime
+import requests
+import zipfile
+import shutil
+import io
 import os
+import re
 
 # formats which hold a table, they are displayed by excel and not by the program which
 # windows connects to them, a table in a text editor is unreadable
 TABLE_FORMATS = ("csv", "xlsx")
+# formats which are plain text, they are displayed by notepad and not by the program which
+# windows connects to them, an editor of code opens slowly and holds his own window
+TEXT_FORMATS = ("txt", "json", "yml")
+# the site which publishes the tool of sqlite and the name of his archive for windows,
+# sqlite has no installer, his console tool is a single exe inside an archive
+SQLITE_SITE = 'https://sqlite.org/'
+SQLITE_PAGE = SQLITE_SITE + 'download.html'
+SQLITE_ARCHIVE = re.compile(r'\d{4}/sqlite-tools-win-x64-\d+\.zip')
+# the folder of the application which keeps the tool when the machine does not have him,
+# so the download happens once and every next display uses the tool which is already here
+SQLITE_FOLDER = 'tools/sqlite'
+# seconds to wait for the download of the tool, he weighs a few megabytes
+SQLITE_TIMEOUT = (5, 30)
 
 class URLClient(Frame):
 
@@ -162,16 +180,20 @@ class URLClient(Frame):
             if format == "db":
                 # a database is not a file which a program displays, his rows are shown
                 # by the tool of sqlite in a console window
-                sqlite_path = self.get_sqlite_path()
+                sqlite_path = os.path.join(self.get_sqlite_path(), 'sqlite3.exe')
                 cmd_command = [
                     "start", "cmd", "/k",
-                    f'{sqlite_path}\\sqlite3.exe', path, ".mode column", ".header on", "SELECT * FROM RESULTS;"
+                    sqlite_path, path, ".mode column", ".header on", "SELECT * FROM RESULTS;"
                 ]
                 subprocess.run(cmd_command, shell=True, check=True)
             elif format in TABLE_FORMATS:
                 # a table belongs to excel, windows does not connect csv to him by himself
                 # and answers a request to open him with a window of choosing a program
                 subprocess.run(f'start excel "{path}"', shell=True, check=True)
+            elif format in TEXT_FORMATS:
+                # notepad displays the text as him is, without an editor which windows
+                # connects to the extension and opens him in his own project
+                subprocess.run(f'notepad.exe "{path}"', shell=True, check=True)
             else:
                 self.open_by_format(path)
         except Exception as err:
@@ -192,13 +214,54 @@ class URLClient(Frame):
             # export is a text file underneath, so he is readable as plain text
             subprocess.run(f'notepad.exe "{path}"', shell=True, check=True)
 
-    def get_sqlite_path(self) -> str | None:
-        path_directories = os.environ.get('PATH').split(os.pathsep)
-        sqlite_path = [path for path in path_directories if os.path.exists(path + r'\sqlite3.exe')]
-        if sqlite_path:
-            return sqlite_path[0]
-        else:
-            raise IndexError("sqlite3 not installed on your system environment variable paths")
+    def get_sqlite_path(self) -> str:
+        """
+        return the folder which holds the console tool of sqlite, the tool is searched in the
+        paths of the machine and in the folder of the application, and when he is missing on
+        both of them he is downloaded, so a database is displayable also without an install
+        returns:
+            path (str): the folder which the tool of sqlite is found in
+        """
+        # a path of the machine may not exist at all, such a path holds no tool
+        directories = os.environ.get('PATH', '').split(os.pathsep) + [os.path.abspath(SQLITE_FOLDER)]
+        sqlite_path = [path for path in directories if path and os.path.exists(os.path.join(path, 'sqlite3.exe'))]
+        return sqlite_path[0] if sqlite_path else self.install_sqlite()
+
+    def install_sqlite(self) -> str:
+        """
+        download the console tool of sqlite into the folder of the application, the tool is
+        not installed on the machine and without him a database has nothing which shows him
+        returns:
+            path (str): the folder which the tool was downloaded into
+        """
+        answer = messagebox.askquestion(title='Install', message='sqlite3 is not installed on this '
+                                        'machine and a database is displayed by him.\n\n'
+                                        'Do you want to download him now from sqlite.org?')
+        if answer != 'yes':
+            raise IOError('sqlite3 is not installed, so a database cannot be displayed')
+        folder = os.path.abspath(SQLITE_FOLDER)
+        os.makedirs(folder, exist_ok=True)
+        try:
+            # the address of the archive holds his version, so him is taken from the page of
+            # the downloads himself and not written here, a written version expires with the next
+            page = requests.get(SQLITE_PAGE, timeout=SQLITE_TIMEOUT)
+            archive = SQLITE_ARCHIVE.search(page.text)
+            if not archive:
+                raise IOError('The tool of sqlite is not published for this system, so a database '
+                              'cannot be displayed, install sqlite3 by yourself and try again')
+            content = requests.get(SQLITE_SITE + archive.group(0), timeout=SQLITE_TIMEOUT)
+        except requests.exceptions.RequestException as err:
+            raise IOError(f'The tool of sqlite could not be downloaded from {SQLITE_SITE}, check '
+                          f'the connection to the network and try again')
+        with zipfile.ZipFile(io.BytesIO(content.content)) as package:
+            # the archive holds his files inside an inner folder, only the tool himself
+            # is needed and not the rest of the tools which are published with him
+            for member in package.namelist():
+                if member.endswith('sqlite3.exe'):
+                    with package.open(member) as source, open(os.path.join(folder, 'sqlite3.exe'), 'wb') as target:
+                        shutil.copyfileobj(source, target)
+                    return folder
+        raise IOError('The archive of sqlite does not hold his console tool')
 
     def export_app(self) -> None:
         try:
