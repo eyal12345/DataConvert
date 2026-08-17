@@ -26,6 +26,8 @@ ACCESS_CODES = [200, 301, 302, 303, 403, 406, 500, 999]
 # milliseconds to wait for a page which is rendered by a browser and for his first link
 RENDER_TIMEOUT = 20000
 RENDER_WAIT = 5000
+# signs of a page which is a bot check of the site and not his real content
+CHALLENGE_MARKERS = ('/cdn-cgi/challenge-platform', '_cf_chl', 'cf_chl_opt', 'cf-browser-verification')
 
 class URLServer(URLProcess):
 
@@ -42,6 +44,7 @@ class URLServer(URLProcess):
             player (Playwright): the engine of the browser which renders pages of scripts
             browser (Browser): the browser which is opened once for all the rendered pages
             rendered (int): how many pages were taken from the browser
+            blocked (int): how many pages answered with a bot check instead of content
         """
         super().__init__(frame)
         self.root = root
@@ -52,6 +55,7 @@ class URLServer(URLProcess):
         self.player = None
         self.browser = None
         self.rendered = 0
+        self.blocked = 0
         self.track = None
 
     def update_track_widgets(self):
@@ -213,16 +217,55 @@ class URLServer(URLProcess):
         """
         father, depth = dataset['child'], dataset['depth']
         datasets = []
-        # a page without any anchor builds his links by scripts, only a browser reaches them
-        if not re.search(r'<a[\s>]', html, re.I):
-            self.track["added"]["sub-url"].config(text=f'the page is built by scripts, rendering him')
-            html = self.render_page_data(base) or html
-        urls = re.findall(r'(?<=href=")[https:]*[/{1,2}#]*[\w+.\-/=?_#]*(?=")', html)
+        if self.is_feed_page(html):
+            # a feed keeps his addresses in link elements and not in href attributes
+            urls = self.extract_feed_urls(html)
+        else:
+            # a page without any anchor builds his links by scripts, only a browser reaches them
+            if not re.search(r'<a[\s>]', html, re.I):
+                self.track["added"]["sub-url"].config(text=f'the page is built by scripts, rendering him')
+                html = self.render_page_data(base) or html
+            urls = re.findall(r'(?<=href=")[https:]*[/{1,2}#]*[\w+.\-/=?_#]*(?=")', html)
         if urls:
             self.track["added"]["sub-url"].config(text=f'waiting to new sources from this url')
             childs = self.fix_urls(base, urls)
             datasets = self.create_child_datasets(father, childs, depth + 1)
         return datasets
+
+    def is_challenge_page(self, html: str) -> bool:
+        """
+        returns whether a page is a bot check of the site and not his real content, such a
+        page has no sub-urls at all and a render of him returns the same check
+        parameters:
+            html (str): the content which is checked
+        returns:
+            True or False (bool): if the content is a bot check page
+        """
+        return any(marker in html for marker in CHALLENGE_MARKERS)
+
+    def is_feed_page(self, html: str) -> bool:
+        """
+        returns whether a page is a feed of the site, a feed is an address which sites
+        publish for automatic reading and him lists their pages
+        parameters:
+            html (str): the content which is checked
+        returns:
+            True or False (bool): if the content is a feed and not a regular page
+        """
+        head = html[:500].lower()
+        return '<rss' in head or '<feed' in head
+
+    def extract_feed_urls(self, xml: str) -> list[str]:
+        """
+        return all the addresses which a feed lists
+        parameters:
+            xml (str): the content of the feed
+        returns:
+            urls (list): the addresses of the pages in the feed
+        """
+        # a link element of rss holds the address inside him, of atom in his href
+        urls = re.findall(r'<link[^>]*>([^<]+)</link>', xml) + re.findall(r'<link[^>]+href="([^"]+)"', xml)
+        return [url.strip() for url in urls if url.strip().startswith('http')]
 
     def fix_urls(self, father: str, urls: list[str]) -> list[str]:
         """
@@ -384,7 +427,16 @@ class URLServer(URLProcess):
                 # the download of the page supplies also the access of his url
                 dataset['access'] = access
                 self.track["status"]["quantity"].config(text=f'now extract sub-urls from url number {sub_url} out of {len(datasets)}\n{father}')
-                new_datasets = self.extract_data_childs(dataset, html, base) if access else []
+                if access and self.is_challenge_page(html):
+                    # the site answers with a bot check, there is nothing to extract from him
+                    self.blocked += 1
+                    html = ''
+                    if dataset['depth'] == 0:
+                        raise IOError(f'The site answers with a bot check instead of his content, so he has '
+                                      f'no sources to export.\n\nA feed or a sitemap address of the site is '
+                                      f'published for automatic reading and can be exported instead, '
+                                      f'for example:\n{father}/feeds/news/\n{father}/sitemap.xml')
+                new_datasets = self.extract_data_childs(dataset, html, base) if access and html else []
                 if new_datasets:
                     cumulative = cumulative + new_datasets
                     self.track["added"]["sub-url"].config(text=f'were added {len(new_datasets)} more new sources')
@@ -394,7 +446,8 @@ class URLServer(URLProcess):
                     self.track["added"]["sub-url"].config(text=f'does not exist sub-urls to this url')
                 sub_url += 1
                 self.track["progress"]["per_depth"]['value'] += (1 / len(datasets)) if depth > 0 else self.track["progress"]["per_depth"]['value']
-            self.track["added"]["overall"].config(text=f'overall {len(cumulative)} sources in depth {depth + 1}')
+            blocked = f', {self.blocked} blocked by a bot check' if self.blocked else ''
+            self.track["added"]["overall"].config(text=f'overall {len(cumulative)} sources in depth {depth + 1}{blocked}')
             self.track["progress"]["per_depth"]['value'] = 0
             return datasets + self.read_data_offsprings(cumulative)
         elif depth == self.max_depth:
