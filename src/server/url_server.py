@@ -28,6 +28,9 @@ RENDER_TIMEOUT = 20000
 RENDER_WAIT = 5000
 # signs of a page which is a bot check of the site and not his real content
 CHALLENGE_MARKERS = ('/cdn-cgi/challenge-platform', '_cf_chl', 'cf_chl_opt', 'cf-browser-verification')
+# a part of a host or of a path which marks a copy of a page and not a page of his own,
+# a language code like "he" or "en-gb", a mobile version or a light version of the site
+COPY_MARKER = re.compile(r'^(m|mobile|amp|www\d*|[a-z]{2}([-_][a-z]{2,4})?)$', re.I)
 
 class URLServer(URLProcess):
 
@@ -40,6 +43,8 @@ class URLServer(URLProcess):
             format (str): the configuration data file for the item
             serial (int): the id number for a new url
             visited (set): cumulative group of urls that is checked
+            families (set): cumulative group of the pages which are checked, without the
+            parts which mark a copy of them, so a copy of a page is recognized
             local (local): the storage of the session which belongs to each thread
             player (Playwright): the engine of the browser which renders pages of scripts
             browser (Browser): the browser which is opened once for all the rendered pages
@@ -51,6 +56,7 @@ class URLServer(URLProcess):
         self.max_depth = max_depth
         self.serial = 0
         self.visited = set()
+        self.families = set()
         self.local = threading.local()
         self.player = None
         self.browser = None
@@ -311,33 +317,41 @@ class URLServer(URLProcess):
 
     def is_familiar_url(self, url: str) -> bool:
         """
-        returns whether an url is visited under another path
+        returns whether an url is visited under another path, sites publish the same page
+        under several addresses like a language version or a mobile version of him, and all
+        of them hold the same content, so only the first of them is exported
         parameters:
             url (str): the url which is checked if is visited before
         returns:
             True or False (bool): returns if an url is under another path that is checked
         """
-        if 'wikipedia' in url:
-            org_val_search = self.search_url_part(r"(?<=/)[\-\.()\w\d]+$", self.root)
-            cur_val_search = self.search_url_part(r"(?<=/)[\-\.()\w\d]+$", url)
-            org_language = self.search_url_part(r"(?<=//)[\-a-z]+(?=\.)", self.root)
-            cur_language = self.search_url_part(r"(?<=//)[\-a-z]+(?=\.)", url)
-            # compare only parts that were really found, an url without them is not familiar
-            same_value = bool(org_val_search) and org_val_search == cur_val_search
-            other_language = bool(org_language) and bool(cur_language) and cur_language != org_language
-            if (other_language and same_value) or re.findall(r"(?<=\.)m(?=\.)", url):
-                return True
-        else:
-            prefix = self.search_url_part(r"(?<=//)[\w\-]+(?=\.)", url)
-            root_prefix = self.search_url_part(r"(?<=//)[\w\-]+(?=\.)", self.root)
-            # a short prefix like "he." or "m." marks another copy of the site, but the prefix
-            # of the root is the site which is scanned now and not a copy of him
-            other_site = prefix != root_prefix and bool(re.findall(r"(?<=//)(m|([a-z]{2})+(-[a-z]{2})*)(?=\.)", url))
-            # a path which ends with a language code leads to a copy of the same page
-            other_language = bool(re.findall(r"(?<=/)[a-z]{2}$", url))
-            if other_site or other_language:
-                return True
+        family = self.build_url_family(url)
+        if family in self.families:
+            return True
+        # the first address of a family is the one which is exported, his copies meet him here
+        self.families.add(family)
         return False
+
+    def build_url_family(self, url: str) -> str:
+        """
+        return the family of an url, the address which him shares with every copy of the same
+        page, copies of a page differ only in the parts which mark a language or a version
+        parameters:
+            url (str): the url which his family is built
+        returns:
+            family (str): the address of the url without the parts which mark a copy
+        """
+        address = re.sub(r'^[a-z]+://', '', url, flags=re.I).split('?')[0].split('#')[0].strip('/')
+        host, _, path = address.partition('/')
+        labels = host.lower().split('.')
+        # drop the leading labels which mark a copy, the site himself always stays, so
+        # "he.m.site.com" and "www.site.com" both lead to the same "site.com"
+        while len(labels) > 2 and COPY_MARKER.match(labels[0]):
+            labels.pop(0)
+        # a segment of a path which is only a marker leads to a copy of the same page,
+        # so "site.com/en/news", "site.com/news/en" and "site.com/news" are one family
+        segments = [segment for segment in path.split('/') if segment and not COPY_MARKER.match(segment)]
+        return '/'.join(['.'.join(labels)] + segments)
 
     def search_url_part(self, pattern: str, url: str) -> str:
         """
@@ -491,7 +505,7 @@ class URLServer(URLProcess):
             url up to a max depth level
         """
         # check correctness of url
-        if re.match(r"^http[s]?://[\w+\-/=(),?_#]+(\.[\w+\-/=(),?_#]+)+$", self.root):
+        if re.match(r"^http[s]?://[\w+\-/=(),?_#]+(\.[\w+\-/:=(),?_#]+)+$", self.root):
             # init frame of url process
             self.pipeline_frame()
             # update all track widgets from process frame
@@ -505,6 +519,8 @@ class URLServer(URLProcess):
             # not scanned at all, otherwise it is taken from his scan
             access = self.try_open_url(self.root) if self.max_depth == 0 else None
             self.visited.add(self.root)
+            # the root is the first page of his family, so his copies are recognized as such
+            self.families.add(self.build_url_family(self.root))
             init = self.insert_into_dataset('child input', self.root, 0, access)
             try:
                 # read data offsprings of root from the cloud
